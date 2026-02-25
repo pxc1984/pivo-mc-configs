@@ -1,0 +1,6 @@
+{
+    "type":"tfc:barrel_instant",
+    "input_item":{"ingredient":{"item":"kubejs:aspergillus_oryzae_spores"}},
+    "input_fluid":{"ingredient":"minecraft:water","amount":100},
+    "output_fluid":{"fluid":"kubejs:solution_aspergillus_oryzae","amount":100}
+}

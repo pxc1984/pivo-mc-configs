@@ -1,0 +1,27 @@
+{
+  "type": "createdieselgenerators:bulk_fermenting",
+  "ingredients": [
+    {
+      "item": "minecraft:slime_ball"
+    },
+    {
+      "fluid": "minecraft:lava",
+      "amount": 125
+    },
+    {
+      "fluid": "kubejs:molten_blaze",
+      "amount": 10
+    }
+  ],
+  "heatRequirement": "heated",
+  "processingTime": 600,
+  "results": [
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "minecraft:magma_cream",
+      "chance": 0.2
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "tier":5,
+  "fluid":"tfmg:liquid_silicon",
+  "melt_temperature":1485,
+  "specific_heat_capacity":0.00857,
+  "ingots":{"tag":"forge:ingots/silicon"},
+  "sheets":{"tag":"forge:sheets/silicon"}
+}

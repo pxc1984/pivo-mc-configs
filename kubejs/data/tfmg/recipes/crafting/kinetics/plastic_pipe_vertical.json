@@ -1,0 +1,39 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"tag": "forge:sheets/plastic"},
+  "transitionalItem": {"item": "kubejs:sq_alupipecr"},
+  "sequence": [
+    {
+      "type":"createaddition:rolling",
+      "ingredients": [{"item": "kubejs:sq_alupipecr"}],
+      "results": [{"item": "kubejs:sq_alupipecr"}]
+    },
+    {
+      "type":"createaddition:rolling",
+      "ingredients": [{"item": "kubejs:sq_alupipecr"}],
+      "results": [{"item": "kubejs:sq_alupipecr"}]
+    },
+    {
+      "type":"createaddition:rolling",
+      "ingredients": [{"item": "kubejs:sq_alupipecr"}],
+      "results": [{"item": "kubejs:sq_alupipecr"}]
+    },
+    {
+      "type":"createaddition:rolling",
+      "ingredients": [{"item": "kubejs:sq_alupipecr"}],
+      "results": [{"item": "kubejs:sq_alupipecr"}]
+    },
+    {
+        "type": "create:deploying",
+        "ingredients": [{"item": "kubejs:sq_alupipecr"},{"tag": "forge:glue"}],
+        "results": [{"item": "kubejs:sq_alupipecr"}]
+    },
+    {
+        "type": "create:deploying",
+        "ingredients": [{"item": "kubejs:sq_alupipecr"},{"tag": "forge:glue"}],
+        "results": [{"item": "kubejs:sq_alupipecr"}]
+    }
+  ],
+  "results": [{"item": "tfmg:plastic_pipe","count":2}],
+  "loops": 1
+}

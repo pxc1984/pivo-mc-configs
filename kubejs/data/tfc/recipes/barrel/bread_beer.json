@@ -1,0 +1,6 @@
+{
+    "type":"tfc:barrel_sealed","input_item":{"ingredient":{"type":"tfc:not_rotten","ingredient":{"tag":"forge:bread"}}},
+    "input_fluid":{"ingredient":"minecraft:water","amount":1000},
+    "output_fluid":{"fluid":"kubejs:bread_beer","amount":1000},
+    "duration": 480000
+}

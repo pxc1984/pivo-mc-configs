@@ -1,0 +1,16 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "create:pulse_extender"
+    },
+    {
+      "tag": "forge:gems/amethyst"
+    }    
+  ],
+  "results": [
+    {
+      "item": "create:pulse_timer"
+    }
+  ]
+}

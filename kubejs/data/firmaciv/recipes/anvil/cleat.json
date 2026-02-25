@@ -1,0 +1,16 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:rods/steel"
+  },
+  "result": {
+    "item": "alekiships:cleat"
+  },
+  "tier": 4,
+  "rules": [
+    "bend_last",
+    "bend_second_last",
+    "bend_third_last"
+  ]
+}

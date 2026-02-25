@@ -1,0 +1,29 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluidTag": "forge:molten_electrum",
+      "amount": 500
+    },
+    {
+      "tag": "forge:dusts/sulfur"
+    },
+    {
+      "tag": "forge:dusts/sulfur"
+    },
+    {
+      "tag": "forge:dusts/sulfur"
+    },
+    {
+      "tag": "forge:dusts/sulfur"
+    },
+    {
+      "tag": "forge:graphite"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfmg:n_semiconductor"
+    }
+  ]
+}

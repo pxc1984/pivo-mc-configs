@@ -1,0 +1,11 @@
+{
+    "type":"immersiveengineering:bottling_machine",
+    "fluid":{"amount":100,"tag":"forge:molten_cast_iron"},
+    "inputs":[
+        {"item":"kubejs:graphite_ball_mold"}
+    ],
+    "results":[
+        {"item":"alekiships:cannonball"},
+        {"item":"kubejs:graphite_ball_mold"}
+    ]
+}

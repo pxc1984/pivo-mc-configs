@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "tfc:dirty_jute_net"
+    },
+    {
+      "amount": 100,
+      "fluid": "artisanal:soapy_water",
+      "nbt": {}
+    }
+  ],
+  "processingTime": 120,
+  "results": [
+    {
+      "item": "tfc:jute_net"
+    }
+  ]
+}

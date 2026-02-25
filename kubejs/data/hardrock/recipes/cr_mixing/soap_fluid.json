@@ -1,0 +1,22 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "amount": 1,
+      "fluid": "tfc:lye",
+      "nbt": {}
+    },
+    {
+      "amount": 9,
+      "fluidTag": "artisanal:rendered_fats",
+      "nbt": {}
+    }
+  ],
+  "processingTime": 20,
+  "results": [
+    {
+      "fluid": "artisanal:soap",
+      "amount": 10
+    }
+  ]
+}

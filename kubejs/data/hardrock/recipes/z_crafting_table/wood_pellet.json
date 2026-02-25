@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "xx",
+        "xx"
+    ],
+    "key": {
+        "x": {
+            "tag": "forge:dusts/wood"
+        }
+    },
+    "result": {
+        "count": 1,
+        "item": "kubejs:wood_pellet"
+    }
+}

@@ -1,0 +1,20 @@
+{
+	"type": "createdieselgenerators:basin_fermenting",
+	"ingredients": [
+	  {
+		"fluid": "kubejs:clear_wort",
+		"amount": 1000
+	  },
+	  {
+		"fluid": "firmalife:yeast_starter",
+		"amount": 100
+	  }
+	],
+	"processingTime": 240000,
+	"results": [
+	  {
+		"fluid": "kubejs:green_beer",
+		"amount": 1000
+	  }
+	]
+  }

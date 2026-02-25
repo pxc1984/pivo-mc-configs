@@ -1,0 +1,48 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "tfmg:regular_engine"},
+  "transitionalItem": {"item": "tfmg:unfinished_electric_motor"},
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [{"item": "tfmg:unfinished_steel_mechanism"},{"tag": "forge:engine/piston"}],
+      "results": [{"item": "tfmg:unfinished_steel_mechanism"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [{"item": "tfmg:unfinished_electric_motor"},{"item": "tfmg:turbine_blade"}],
+      "results": [{"item": "tfmg:unfinished_electric_motor"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [{"item": "tfmg:unfinished_electric_motor"},{"item": "tfmg:engine_cylinder"}],
+      "results": [{"item": "tfmg:unfinished_electric_motor"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [{"item": "tfmg:unfinished_electric_motor"},{"tag": "forge:screws/handful/steel"}],
+      "results": [{"item": "tfmg:unfinished_electric_motor"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [{"item": "tfmg:unfinished_steel_mechanism"},{"item": "tfmg:screwdriver"}],
+      "results": [{"item": "tfmg:unfinished_steel_mechanism"}]
+    },
+    {
+      "type": "create:filling","ingredients": [{"item": "tfmg:unfinished_electric_motor"},{"fluidTag": "forge:lubricant","nbt": {},"amount": 250}],
+      "results": [{"item": "tfmg:unfinished_electric_motor"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [{"item": "tfmg:unfinished_electric_motor"},{"item": "tfmg:steel_mechanism"}],
+      "results": [{"item": "tfmg:unfinished_electric_motor"}]
+    }
+  ],
+  "results": [
+    {
+      "item": "car:engine_6_cylinder",
+      "count": 1
+    }
+  ],
+  "loops": 6
+}

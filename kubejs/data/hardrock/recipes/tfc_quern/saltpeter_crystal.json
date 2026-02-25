@@ -1,0 +1,10 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "tag": "forge:crystal/saltpeter"
+  },
+  "result": {
+    "item": "tfc:powder/saltpeter",
+    "count": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+    "type": "immersiveengineering:mineral_mix",
+    "dimensions": [
+        "minecraft:overworld"
+    ],
+    "fail_chance": 0.5,
+    "ores": [
+        {
+            "chance": 0.1,
+            "output": {
+                "tag": "forge:rich_ore/platinum"
+            }
+        },
+        {
+            "chance": 0.05,
+            "output": {
+                "tag": "forge:normal_ore/platinum"
+            }
+        },
+        {
+            "chance": 0.25,
+            "output": {
+                "tag": "forge:normal_ore/millerite"
+            }
+        }
+    ],
+    "sample_background": "minecraft:stone",
+    "spoils": [
+        {
+            "chance": 0.55,
+            "output": {
+                "item": "tfc:rock/loose/chalk"
+            }
+        },
+        {
+            "chance": 0.5,
+            "output": {
+                "item": "tfcorewashing:pile_white_sand"
+            }
+        },
+        {
+            "chance": 0.45,
+            "output": {
+                "item": "tfcorewashing:rock_powder"
+            }
+        }
+    ],
+    "weight": 5
+}

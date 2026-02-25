@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RSR",
+    "G G",
+    "RSR"
+  ],
+  "key": {
+    "R": {
+      "tag": "forge:rods/steel"
+    },
+    "S": {
+      "tag": "forge:plates/steel"
+    },
+    "G": {
+      "tag": "forge:glass_panes/reinforced"
+    }
+  },
+  "result": {
+    "item": "tfmg:steel_fluid_tank"
+  }
+}

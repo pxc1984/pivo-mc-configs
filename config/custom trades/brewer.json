@@ -1,0 +1,6 @@
+{
+  "profession": "brewery:brewer",
+  "removeOtherTrades": true,
+  "maxTrades": 2,
+  "trades": []
+}

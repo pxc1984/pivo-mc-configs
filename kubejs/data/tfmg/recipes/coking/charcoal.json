@@ -1,0 +1,22 @@
+{
+  "type": "tfmg:coking",
+  "ingredients": [
+    {
+      "tag": "forge:stripped_logs"
+    }
+  ],
+  "processingTime": 1800,
+  "results": [
+    {
+      "item": "minecraft:charcoal"
+    },
+    {
+      "amount": 1,
+      "fluid": "tfmg:creosote"
+    },
+    {
+      "amount": 10,
+      "fluid": "tfmg:carbon_dioxide"
+    }
+  ]
+}

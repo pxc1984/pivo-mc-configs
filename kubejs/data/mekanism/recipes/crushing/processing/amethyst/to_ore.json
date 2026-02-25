@@ -1,0 +1,17 @@
+{
+    "type": "mekanism:combining",
+    "extraInput": {
+        "ingredient": {
+            "item": "tfc_ie_addon:mineral/quartz_block"
+        }
+    },
+    "mainInput": {
+        "amount": 4,
+        "ingredient": {
+            "tag": "forge:dusts/amethyst"
+        }
+    },
+    "output": {
+        "item": "minecraft:amethyst_block"
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "pneumaticcraft:thermo_plant",
+  "exothermic": false,
+  "fluid_input": {
+    "type": "pneumaticcraft:fluid",
+    "amount": 200,
+    "fluid": "minecraft:water"
+  },
+  "fluid_output": {
+    "amount": 200,
+    "fluid": "tfc:tallow"
+  },
+  "item_input": {
+    "tag": "forge:tallow_source"
+  },
+  "speed": 0.1,
+  "temperature": {
+    "max_temp": 475,
+    "min_temp": 300
+  }
+}
+

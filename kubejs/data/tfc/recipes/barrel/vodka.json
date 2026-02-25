@@ -1,0 +1,21 @@
+{
+  "type": "createdieselgenerators:distillation",
+  "ingredients": [
+    {
+      "fluid": "kubejs:vodka_mash",
+      "amount": 125
+    }
+  ],
+  "heatRequirement": "heated",
+  "processingTime": 800,
+  "results": [
+    {
+      "fluid": "tfc:vodka",
+      "amount": 25
+    },
+    {
+      "fluid": "kubejs:purified_water",
+      "amount": 100
+    }
+  ]
+}

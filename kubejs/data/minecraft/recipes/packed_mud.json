@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SD",
+    "DS"
+  ],
+  "key": {
+    "D": {
+      "tag": "tfc:mud"
+    },
+    "S": {
+      "tag": "forge:straw"
+    }
+  },
+  "result": {
+    "item": "minecraft:packed_mud",
+    "count": 2
+  }
+}

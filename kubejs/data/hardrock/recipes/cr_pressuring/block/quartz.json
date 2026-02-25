@@ -1,0 +1,16 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"ingredients": [ 
+	{
+      "amount": 100,
+      "fluid": "kubejs:quartz",
+      "nbt": {}
+    }
+	],
+	"results": [
+		{
+			"item": "minecraft:quartz_block"
+		}
+	],
+	"processingTime": 1200
+}

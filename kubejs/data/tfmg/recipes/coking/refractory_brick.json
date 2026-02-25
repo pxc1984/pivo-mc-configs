@@ -1,0 +1,26 @@
+{
+  "type": "tfmg:coking",
+  "ingredients": [
+    {
+      "count": 1,
+            "item": "tfc:ceramic/unfired_fire_brick"
+
+    }
+  ],
+  "processingTime": 3200,
+  "results": [
+    {
+      "count": 1,
+      "item": "immersivegeology:refractory_brick"
+    },
+    {
+      "fluid": "tfmg:creosote",
+      "amount": 0
+    },
+    {
+      "amount": 1,
+      "fluid": "tfmg:carbon_dioxide"
+    }
+
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "type": "vintageimprovements:hammering",
+    "hammerBlows": 8,
+    "ingredients": [
+        {
+            "tag": "forge:ingots/platinum"
+        }
+    ],
+    "results": [
+        {
+            "item": "immersivegeology:plate_platinum"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ss",
+    "s "
+  ],
+  "key": {
+    "s": {
+      "tag": "forge:string/plant"
+    }
+  },
+  "result": {
+    "item": "farmersdelight:rope"
+  }
+}

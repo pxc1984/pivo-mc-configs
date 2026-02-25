@@ -1,0 +1,96 @@
+{
+ "type": "create:sequenced_assembly",
+ "ingredient": {
+  "item": "tfc_items:bismuth_bronze_stamen"
+ },
+ "transitionalItem": {
+  "item": "kubejs:sq_rod"
+ },
+ "sequence": [
+  {
+   "type": "vintageimprovements:turning",
+   "ingredients": [
+    {
+     "item": "kubejs:sq_rod"
+    }
+   ],
+   "results": [
+    {
+     "item": "kubejs:sq_rod"
+    }
+   ]
+  },
+  {
+   "type": "create:cutting",
+   "ingredients": [
+    {
+     "item": "kubejs:sq_rod"
+    }
+   ],
+   "results": [
+    {
+     "item": "kubejs:sq_rod"
+    }
+   ]
+  },
+  {
+   "type": "create:cutting",
+   "ingredients": [
+    {
+     "item": "kubejs:sq_rod"
+    }
+   ],
+   "results": [
+    {
+     "item": "kubejs:sq_rod"
+    }
+   ]
+  },
+  {
+   "type": "create:cutting",
+   "ingredients": [
+    {
+     "item": "kubejs:sq_rod"
+    }
+   ],
+   "results": [
+    {
+     "item": "kubejs:sq_rod"
+    }
+   ]
+  },
+  {
+   "type": "create:cutting",
+   "ingredients": [
+    {
+     "item": "kubejs:sq_rod"
+    }
+   ],
+   "results": [
+    {
+     "item": "kubejs:sq_rod"
+    }
+   ]
+  },
+  {
+   "type": "create:pressing",
+   "ingredients": [
+    {
+     "item": "kubejs:sq_rod"
+    }
+   ],
+   "results": [
+    {
+     "item": "kubejs:sq_rod"
+    }
+   ]
+  }
+ ],
+ "results": [
+  {
+   "item": "tfc_items:bismuth_bronze_screw",
+   "count": 5
+  }
+ ],
+ "loops": 1
+}

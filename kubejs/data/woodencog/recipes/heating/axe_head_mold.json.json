@@ -1,0 +1,7 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {"item": "tfc:ceramic/unfired_axe_head_mold"},
+    "result": {"item": "tfc:ceramic/axe_head_mold"},
+    "experience": 0,
+    "cookingtime": 4000
+}

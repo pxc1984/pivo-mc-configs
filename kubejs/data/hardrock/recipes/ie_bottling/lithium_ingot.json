@@ -1,0 +1,11 @@
+{
+    "type":"immersiveengineering:bottling_machine",
+    "fluid":{"amount":100,"tag":"forge:lithium"},
+    "inputs":[
+        {"item":"artisanal:metal/brick_mold/black_steel"}
+    ],
+    "results":[
+        {"item":"tfmg:lithium_ingot"},
+        {"item":"artisanal:metal/brick_mold/black_steel"}
+    ]
+}

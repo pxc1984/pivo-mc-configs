@@ -1,0 +1,18 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:pot",
+  "ingredients": [
+    {"tag": "forge:milk/powdered"},
+    {"tag": "forge:milk/powdered"}
+  ],
+  "fluid_ingredient": {
+    "ingredient": "farmersrespite:black_tea",
+    "amount": 1000
+  },
+  "duration": 2000,
+  "temperature": 600,
+  "fluid_output": {
+    "fluid": "farmersrespite:long_black_tea",
+    "amount": 1000
+  }
+}

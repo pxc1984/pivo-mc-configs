@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": [
+    "kubejs:birch_sap"
+  ],
+  "thirst": 20,
+  "effects": [
+    {
+      "type": "minecraft:speed",
+      "duration": 900,
+      "chance": 0.40
+    },
+    {
+      "type": "minecraft:regeneration",
+      "duration": 1200,
+      "chance": 0.10
+    }
+  ]
+}

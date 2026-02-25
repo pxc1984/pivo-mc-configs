@@ -1,0 +1,14 @@
+{
+  "type": "createoreexcavation:extracting",
+  "drill": {
+    "tag": "createoreexcavation:drills"
+  },
+  "output": {
+    "amount": 5,
+    "fluid": "kubejs:mineral_water"
+  },
+  "priority": 0,
+  "stress": 256,
+  "ticks": 20,
+  "vein_id": "tfc_ore_excavation:vein_type//mineral_water"
+}

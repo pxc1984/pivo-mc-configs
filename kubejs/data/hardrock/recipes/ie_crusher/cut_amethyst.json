@@ -1,0 +1,12 @@
+{
+  "type": "immersiveengineering:crusher",
+  "secondaries": [],
+  "result": {
+    "item": "kubejs:clean_amethyst_powder",
+    "count": 1
+  },
+  "input": {
+    "tag": "forge:gems/amethyst"
+  },
+  "energy": 800
+}

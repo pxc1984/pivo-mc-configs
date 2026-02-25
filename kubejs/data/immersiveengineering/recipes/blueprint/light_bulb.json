@@ -1,0 +1,10 @@
+{
+    "type":"immersiveengineering:blueprint",
+    "category":"components",
+    "inputs":[
+        {"tag":"tfc:glass_bottles"},
+        {"base_ingredient":{"tag":"forge:stamens/electrum"},"count":2},
+        {"tag":"vintageimprovements:small_springs/silver"},
+        {"tag":"forge:foils/copper"}
+    ],
+    "result":{"count":1,"item":"immersiveengineering:light_bulb"}}

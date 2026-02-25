@@ -1,0 +1,17 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:rock/loose/conglomerate"
+    },
+    {
+      "item": "tfc:rock/mossy_loose/conglomerate"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:brick/conglomerate",
+      "count": 1
+    }
+  ]
+}

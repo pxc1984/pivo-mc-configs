@@ -1,0 +1,18 @@
+{
+    "type":"tfc:advanced_shaped_crafting",
+    "pattern":[
+        "NX",
+        "H "
+    ],
+    "key":{
+        "N":{"tag":"forge:string"},
+        "X":{"item":"precisionprospecting:metal/prospector_drill_head/copper"},
+        "H":{"tag":"forge:handle/stick"}
+    },
+    "result":{
+        "stack":{"item":"precisionprospecting:metal/prospector_drill/copper","nbt":"{Damage:300}"},
+        "modifiers":["tfc:copy_forging_bonus"]
+    },
+    "input_row":0,
+    "input_column":1
+}

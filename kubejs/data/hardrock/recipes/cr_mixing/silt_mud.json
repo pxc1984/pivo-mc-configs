@@ -1,0 +1,40 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "tfc:dirt/silt"
+        },
+        {
+            "item": "tfc:dirt/silt"
+        },
+        {
+            "item": "tfc:dirt/silt"
+        },
+        {
+            "item": "tfc:dirt/silt"
+        },
+        {
+            "item": "tfc:dirt/silt"
+        },
+        {
+            "item": "tfc:dirt/silt"
+        },
+        {
+            "item": "tfc:dirt/silt"
+        },
+        {
+            "item": "tfc:dirt/silt"
+        },
+        {
+            "amount": 1000,
+            "fluid": "minecraft:water",
+            "nbt": {}
+        }
+    ],
+    "results": [
+        {
+            "item": "tfc:mud/silt",
+            "count": 8
+        }
+    ]
+}

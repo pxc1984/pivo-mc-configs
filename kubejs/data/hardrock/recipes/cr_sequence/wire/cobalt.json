@@ -1,0 +1,63 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "create"
+		}
+	],
+	"type": "create:sequenced_assembly",
+	"ingredient": {
+		"tag": "forge:rods/cobalt"
+	},
+	"transitionalItem": {
+		"item": "kubejs:sq_rod"
+	},
+	"sequence": [
+		{
+			"type": "createaddition:rolling",
+			"ingredients": [
+				{
+					"item": "kubejs:sq_rod"
+				}
+			],
+			"results": [
+				{
+					"item": "kubejs:sq_rod"
+				}
+			]
+		},
+		{
+			"type": "createaddition:rolling",
+			"ingredients": [
+				{
+					"item": "kubejs:sq_rod"
+				}
+			],
+			"results": [
+				{
+					"item": "kubejs:sq_rod"
+				}
+			]
+		},
+		{
+			"type": "createaddition:rolling",
+			"ingredients": [
+				{
+					"item": "kubejs:sq_rod"
+				}
+			],
+			"results": [
+				{
+					"item": "kubejs:sq_rod"
+				}
+			]
+		}
+	],
+	"results": [
+		{
+			"item": "immersivegeology:wire_cobalt",
+			"count": 2
+		}
+	],
+	"loops": 2
+}

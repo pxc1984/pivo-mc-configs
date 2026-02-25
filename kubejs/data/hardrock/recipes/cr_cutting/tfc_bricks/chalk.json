@@ -1,0 +1,17 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:rock/loose/chalk"
+    },
+    {
+      "item": "tfc:rock/mossy_loose/chalk"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:brick/chalk",
+      "count": 1
+    }
+  ]
+}

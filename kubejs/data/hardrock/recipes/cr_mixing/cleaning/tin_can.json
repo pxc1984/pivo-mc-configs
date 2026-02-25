@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "artisanal:metal/can/tin_dirty"
+    },
+    {
+      "amount": 100,
+      "fluid": "artisanal:soapy_water",
+      "nbt": {}
+    }
+  ],
+  "processingTime": 120,
+  "results": [
+    {
+      "item": "artisanal:metal/can/tin"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": {
+    "item": "create:tree_fertilizer"
+  },
+  "nitrogen": 0.4,
+  "potassium": 0.5,
+  "phosphorus": 0.3
+}

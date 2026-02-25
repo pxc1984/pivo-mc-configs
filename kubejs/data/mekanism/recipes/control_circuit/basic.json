@@ -1,0 +1,23 @@
+{
+  "type": "pneumaticcraft:pressure_chamber",
+  "inputs": [
+    {
+      "tag": "forge:ingots/hop_graphite"
+    },
+    {
+      "tag": "forge:wires/osmium"
+    },
+    {
+      "tag":"forge:sheets/plastic"
+    },
+    {
+      "tag": "forge:metal_oxide/uranium"
+    }
+  ],
+  "pressure": 2.0,
+  "results": [
+    {
+      "item": "mekanism:basic_control_circuit"
+    }
+  ]
+}

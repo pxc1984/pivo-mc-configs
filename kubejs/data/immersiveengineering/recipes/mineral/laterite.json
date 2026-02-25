@@ -1,0 +1,60 @@
+{
+    "type": "immersiveengineering:mineral_mix",
+    "dimensions": [
+        "minecraft:overworld"
+    ],
+    "fail_chance": 0.05,
+    "ores": [
+        {
+            "chance": 0.4,
+            "output": {
+                "tag": "forge:normal_ore/bauxite"
+            }
+        },
+        {
+            "chance": 0.2,
+            "output": {
+                "tag": "forge:normal_ore/hematite"
+            }
+        },
+        {
+            "chance": 0.2,
+            "output": {
+                "tag": "forge:normal_ore/ilmenite"
+            }
+        },
+        {
+            "chance": 0.1,
+            "output": {
+                "tag": "forge:rich_ore/chromite"
+            }
+        },
+        {
+            "chance": 0.1,
+            "output": {
+                "tag": "forge:rich_ore/ilmenite"
+            }
+        }
+    ],
+    "spoils": [
+        {
+            "chance": 0.55,
+            "output": {
+                "item": "tfc:rock/loose/granite"
+            }
+        },
+        {
+            "chance": 0.5,
+            "output": {
+                "item": "tfcorewashing:pile_red_sand"
+            }
+        },
+        {
+            "chance": 0.45,
+            "output": {
+                "item": "tfcorewashing:rock_powder"
+            }
+        }
+    ],
+    "weight": 20
+}

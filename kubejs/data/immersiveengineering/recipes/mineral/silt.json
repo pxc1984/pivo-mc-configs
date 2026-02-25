@@ -1,0 +1,48 @@
+{
+    "type": "immersiveengineering:mineral_mix",
+    "dimensions": [
+        "minecraft:overworld"
+    ],
+    "fail_chance": 0.05,
+    "ores": [
+        {
+            "chance": 0.5,
+            "output": {
+                "item": "minecraft:clay"
+            }
+        },
+        {
+            "chance": 0.3,
+            "output": {
+                "item": "tfc:sand/yellow"
+            }
+        },
+        {
+            "chance": 0.2,
+            "output": {
+                "item": "tfc:rock/gravel/chalk"
+            }
+        }
+    ],
+    "spoils": [
+        {
+            "chance": 0.55,
+            "output": {
+                "item": "tfc:rock/loose/chalk"
+            }
+        },
+        {
+            "chance": 0.5,
+            "output": {
+                "item": "tfcorewashing:pile_white_sand"
+            }
+        },
+        {
+            "chance": 0.45,
+            "output": {
+                "item": "tfcorewashing:rock_powder"
+            }
+        }
+    ],
+    "weight": 25
+}

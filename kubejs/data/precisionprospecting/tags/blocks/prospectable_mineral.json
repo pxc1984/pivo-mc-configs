@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "tfc_ie_addon:mineral/quartz_block",
+    "tfc_ie_addon:mineral/budding_quartz"
+  ]
+}

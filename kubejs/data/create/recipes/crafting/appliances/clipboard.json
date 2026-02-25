@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "N",
+    "P",
+    "D"
+  ],
+  "key": {
+    "P": {
+      "tag": "forge:paper"
+    },
+    "D": {
+      "tag": "minecraft:wooden_pressure_plates"
+    },
+    "N": {
+      "tag": "forge:nuggets"
+    }
+  },
+  "result": {
+    "item": "create:clipboard",
+    "count":1
+  }
+}

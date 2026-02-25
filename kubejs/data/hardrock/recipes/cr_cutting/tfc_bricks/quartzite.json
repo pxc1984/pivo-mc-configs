@@ -1,0 +1,17 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:rock/loose/quartzite"
+    },
+    {
+      "item": "tfc:rock/mossy_loose/quartzite"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:brick/quartzite",
+      "count": 1
+    }
+  ]
+}

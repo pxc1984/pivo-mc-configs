@@ -1,0 +1,24 @@
+{
+  "type": "tfmg:coking",
+  "ingredients": [
+    {
+      "tag": "forge:bicoals_block"
+    }
+  ],
+  "processingTime": 14000,
+  "results": [
+    {
+      "count": 1,
+      "item": "immersiveengineering:coke"
+    },
+    {
+      "fluid": "tfmg:creosote",
+      "amount": 1
+    },
+    {
+      "amount": 10,
+      "fluid": "tfmg:carbon_dioxide"
+    }
+
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "vinery:wine_fermentation",
+  "ingredients": [
+    {
+      "tag": "vinery:red_grapejuice"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "vinery:red_wine"
+  }
+}

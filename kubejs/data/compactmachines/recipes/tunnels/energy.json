@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "immersiveengineering:connector_bundled"
+    },
+    {
+      "item": "mekanism:dust_emerald"
+    },
+    {
+      "item": "mekanism:dust_emerald"
+    },
+    {
+      "item": "create:redstone_contact"
+    }
+  ],
+  "result": {
+    "item": "compactmachines:tunnel",
+    "count": 2,
+    "nbt": {
+      "definition": {
+        "id": "compactmachines:energy"
+      }
+    }
+  }
+}

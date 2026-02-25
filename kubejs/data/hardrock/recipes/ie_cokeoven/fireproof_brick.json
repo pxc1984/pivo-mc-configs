@@ -1,0 +1,11 @@
+{
+    "type": "immersiveengineering:coke_oven",
+    "result": {
+        "item": "tfmg:fireproof_brick"
+    },
+    "input": {
+        "item": "immersivegeology:refractory_brick"
+    },
+    "creosote": 0,
+    "time": 2000
+}

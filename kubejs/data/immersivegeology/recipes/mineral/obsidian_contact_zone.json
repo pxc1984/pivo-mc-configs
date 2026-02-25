@@ -1,0 +1,55 @@
+{
+    "type": "immersiveengineering:mineral_mix",
+    "dimensions": [
+        "minecraft:the_nether"
+    ],
+    "fail_chance": 0.1,
+    "ores": [
+        {
+            "chance": 0.45,
+            "output": {
+                "item": "minecraft:obsidian"
+            }
+        },
+        {
+            "chance": 0.25,
+            "output": {
+                "tag": "forge:normal_ore/ilmenite"
+            }
+        },
+        {
+            "chance": 0.15,
+            "output": {
+                "tag": "forge:normal_ore/vanadinite"
+            }
+        },
+        {
+            "chance": 0.15,
+            "output": {
+                "tag": "forge:richnormal_ore/ilmenite"
+            }
+        }
+    ],
+    "sample_background": "minecraft:obsidian",
+    "spoils": [
+        {
+            "chance": 0.5,
+            "output": {
+                "item": "beneath:nether_pebble"
+            }
+        },
+        {
+            "chance": 0.55,
+            "output": {
+                "item": "tfc:rock/loose/basalt"
+            }
+        },
+        {
+            "chance": 0.5,
+            "output": {
+                "item": "tfcorewashing:pile_black_sand"
+            }
+        }
+    ],
+    "weight": 10
+}

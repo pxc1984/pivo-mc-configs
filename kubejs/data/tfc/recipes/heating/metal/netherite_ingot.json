@@ -1,0 +1,13 @@
+{
+  "__comment__": "This file was created by tfch",
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "result_fluid": {
+    "fluid": "kubejs:netherite",
+    "amount": 100
+  },
+  "temperature": 1535,
+  "use_durability": true
+}

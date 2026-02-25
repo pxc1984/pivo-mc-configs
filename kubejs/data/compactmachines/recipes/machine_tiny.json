@@ -1,0 +1,26 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "pattern": [
+    "WCW",
+    "SXS",
+    "WCW"
+  ],
+  "key": {
+    "W": {
+      "item": "compactmachines:wall"
+    },
+    "X": {
+      "tag": "forge:storage_blocks/copper"
+    },
+    "S": {
+      "tag": "forge:sheets/rose_gold"
+    },
+    "C": {
+      "tag": "forge:sheets/copper"
+    }
+  },
+  "result": {
+      "item": "compactmachines:machine_tiny"
+    }
+}

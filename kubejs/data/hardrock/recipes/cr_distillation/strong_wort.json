@@ -1,0 +1,21 @@
+{
+  "type": "createdieselgenerators:distillation",
+  "ingredients": [
+    {
+      "fluid": "kubejs:strong_wort",
+      "amount": 125
+    }
+  ],
+  "heatRequirement": "heated",
+  "processingTime": 800,
+  "results": [
+    {
+      "fluid": "kubejs:whiskey_distillated",
+      "amount": 25
+    },
+    {
+      "fluid": "kubejs:purified_water",
+      "amount": 100
+    }
+  ]
+}

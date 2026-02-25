@@ -1,0 +1,18 @@
+{
+  "ingredient": "tfc:rum",
+  "thirst": 15,
+  "intoxication": 2000,
+  "may_drink_when_full": true,
+  "effects": [
+    {
+      "type": "minecraft:speed",
+      "duration": 3200,
+      "amplifier": 1
+    },
+    {
+      "type": "brewery:drunk",
+      "duration": 24000,
+      "chance": 0.25
+    }
+  ]
+}

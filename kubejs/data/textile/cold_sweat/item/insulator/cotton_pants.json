@@ -1,0 +1,12 @@
+{
+  "type": "armor",
+  "insulation": {
+    "heat": 10,
+    "cold": 10
+  },
+  "item": {
+    "items": [
+      "textile:cotton_pants"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"ingredients": [ 
+	{
+      "amount": 900,
+      "fluidTag": "forge:molten_nickel",
+      "nbt": {}
+    }
+	],
+	"results": [
+		{
+			"item": "immersiveengineering:storage_nickel"
+		}
+	],
+	"processingTime": 1000
+}

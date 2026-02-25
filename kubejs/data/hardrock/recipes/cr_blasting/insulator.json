@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "tfmg:unfired_insulator"
+    },
+    "result": "tfmg:unfinished_insulator",
+    "experience": 0,
+    "cookingtime": 2000
+}

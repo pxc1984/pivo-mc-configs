@@ -1,0 +1,20 @@
+{
+    "type":"immersiveengineering:crusher",
+    "secondaries":[
+        {
+            "chance":0.5,
+            "output":{
+                "count": 1,
+                "base_ingredient":{"item": "tfc:powder/salt"}
+            }
+        }
+    ],
+    "result":{
+        "count": 4,
+        "base_ingredient":{"item": "tfc:powder/salt"}
+    },
+    "input":{
+        "tag": "forge:crystal/rocksalt"
+    },
+    "energy":6000
+}

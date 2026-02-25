@@ -1,0 +1,12 @@
+{
+  "__comment__": "This file was created by tfch",
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "minecraft:ender_pearl"
+  },
+  "result_fluid": {
+    "fluid": "kubejs:ender",
+    "amount": 100
+  },
+  "temperature": 1535
+}

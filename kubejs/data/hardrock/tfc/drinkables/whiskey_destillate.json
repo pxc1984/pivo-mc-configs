@@ -1,0 +1,29 @@
+{
+  "ingredient": "kubejs:whiskey_distillated",
+  "thirst": 5,
+  "intoxication": 12000,
+  "may_drink_when_full": true,
+  "effects": [
+    {
+      "type": "cgm:blinded",
+      "duration": 200
+    },
+    {
+      "type": "vinery:teleport"
+    },
+    {
+      "type": "minecraft:nausea",
+      "duration": 1600,
+      "chance": 0.10
+    },
+    {
+      "type": "brewery:drunk",
+      "duration": 24000
+    },
+    {
+      "type": "hordes:infected",
+      "duration": 24000,
+      "chance": 0.50
+    }
+  ]
+}

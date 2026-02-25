@@ -1,0 +1,31 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "pattern": [
+    "WWPWW",
+    "WSWSW",
+    "PXMXP",
+    "WSWSW",
+    "WWPWW"
+  ],
+  "key": {
+    "W": {
+      "item": "compactmachines:wall"
+    },
+    "X": {
+      "tag": "forge:storage_blocks/electrum"
+    },
+    "P": {
+      "tag": "forge:sheets/gold"
+    },
+    "M": {
+      "item": "compactmachines:machine_small"
+    },
+    "S": {
+      "tag": "forge:sheets/electrum"
+    }
+  },
+  "result": {
+    "item": "compactmachines:machine_normal"
+  }
+}

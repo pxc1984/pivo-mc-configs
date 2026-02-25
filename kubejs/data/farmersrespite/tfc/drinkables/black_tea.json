@@ -1,0 +1,12 @@
+{
+  "ingredient": [
+    "farmersrespite:black_tea"
+  ],
+  "thirst": 10,
+  "effects": [
+    {
+      "type": "farmersrespite:caffeinated",
+      "duration": 600
+    }
+  ]
+}

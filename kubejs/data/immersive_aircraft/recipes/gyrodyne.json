@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MPG",
+    "SPS",
+    "HCH"
+  ],
+  "key": {
+    "M": [
+      {
+        "item": "tfc:brass_mechanisms"
+      }
+    ],
+    "S": [
+      {
+        "item": "immersive_aircraft:sail"
+      }
+    ],
+    "H": [
+      {
+        "item": "immersive_aircraft:hull"
+      }
+    ],
+    "P": [
+      {
+        "item": "immersive_aircraft:propeller"
+      }
+    ],
+    "G": [
+      {
+        "item": "immersive_aircraft:industrial_gears"
+      }
+    ],
+    "C": [
+      {
+        "tag": "tfcastikorcarts:animal_cart"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_aircraft:gyrodyne"
+  }
+}

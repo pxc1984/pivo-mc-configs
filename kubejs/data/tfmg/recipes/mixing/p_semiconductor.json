@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluidTag": "forge:molten_copper",
+      "amount": 500
+    },
+    {
+      "tag": "forge:graphite"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfmg:p_semiconductor"
+    }
+  ]
+}

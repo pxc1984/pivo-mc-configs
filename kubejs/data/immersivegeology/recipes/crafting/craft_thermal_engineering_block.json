@@ -1,0 +1,17 @@
+
+
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"tag": "forge:sheetmetals/tungsten"},
+    "transitionalItem": {"item": "create:gantry_shaft"},
+    "sequence": [
+      {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"item": "immersivegeology:mechanical_component_tungsten"}],"results": [{"item": "create:gantry_shaft"}]},
+      {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"tag": "forge:plates/tungsten"}],"results": [{"item": "create:gantry_shaft"}]},
+      {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"item": "immersiveengineering:component_electronic_adv"}],"results": [{"item": "create:gantry_shaft"}]},
+      {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"item": "create_new_age:overcharged_diamond_wire"}],"results": [{"item": "create:gantry_shaft"}]},
+      {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"item": "immersiveengineering:component_electronic"}],"results": [{"item": "create:gantry_shaft"}]},
+      {"type": "create:pressing","ingredients": [{"tag": "create:gantry_shaft"}],"results": [{"item": "create:gantry_shaft"}]}
+    ],
+    "results": [{"item": "immersivegeology:engineering_block_tungsten"}],
+    "loops": 2
+}

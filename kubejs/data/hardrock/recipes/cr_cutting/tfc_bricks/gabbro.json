@@ -1,0 +1,17 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:rock/loose/gabbro"
+    },
+    {
+      "item": "tfc:rock/mossy_loose/gabbro"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:brick/gabbro",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "forge:stamens/zinc"
+    },
+    "S": [
+      {
+        "tag": "forge:cloth"
+      },
+      {
+        "tag": "forge:paper"
+      }
+    ]
+  },
+  "pattern": [
+    "ASA"
+  ],
+  "result": {
+    "item": "create:package_filter"
+  },
+  "show_notification": true
+}

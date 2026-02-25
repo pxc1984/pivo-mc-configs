@@ -1,0 +1,51 @@
+{
+  "type": "ad_astra:nasa_workbench",
+  "ingredients": [
+    {
+      "item": "ad_astra:rocket_nose_cone"
+    },
+    {
+      "tag": "forge:storage_blocks/titanium"
+    },
+    {
+      "tag": "forge:storage_blocks/titanium"
+    },
+    {
+      "tag": "forge:storage_blocks/stainless_steel"
+    },
+    {
+      "tag": "forge:storage_blocks/stainless_steel"
+    },
+    {
+      "tag": "forge:storage_blocks/hastelloy"
+    },
+    {
+      "tag": "forge:storage_blocks/hastelloy"
+    },
+    {
+      "item": "ad_astra:rocket_fin"
+    },
+    {
+      "item": "ad_astra:steel_tank"
+    },
+    {
+      "item": "ad_astra:steel_tank"
+    },
+    {
+      "item": "ad_astra:rocket_fin"
+    },
+    {
+      "item": "ad_astra:rocket_fin"
+    },
+    {
+      "item": "ad_astra:steel_engine"
+    },
+    {
+      "item": "ad_astra:rocket_fin"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "ad_astra:tier_1_rocket"
+  }
+}

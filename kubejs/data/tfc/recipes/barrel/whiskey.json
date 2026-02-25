@@ -1,0 +1,12 @@
+{
+    "type": "tfc:barrel_sealed",
+    "input_fluid": {
+        "ingredient": "kubejs:young_whiskey",
+        "amount": 1
+    },
+    "output_fluid": {
+        "fluid": "tfc:whiskey",
+        "amount": 1
+    },
+    "duration": 8600000
+}

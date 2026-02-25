@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "forge:crystal/saltpeter"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:powder/saltpeter",
+      "count": 2
+    },
+    {
+      "item": "tfc:powder/saltpeter",
+      "chance": 0.3
+    }
+  ],
+  "processingTime": 400
+}

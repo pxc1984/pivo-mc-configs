@@ -1,0 +1,6 @@
+{
+  "profession": "car:gas_station_attendant",
+  "removeOtherTrades": true,
+  "maxTrades": 2,
+  "trades": []
+}

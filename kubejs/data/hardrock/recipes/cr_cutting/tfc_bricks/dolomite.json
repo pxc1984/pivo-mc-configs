@@ -1,0 +1,17 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:rock/loose/dolomite"
+    },
+    {
+      "item": "tfc:rock/mossy_loose/dolomite"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:brick/dolomite",
+      "count": 1
+    }
+  ]
+}

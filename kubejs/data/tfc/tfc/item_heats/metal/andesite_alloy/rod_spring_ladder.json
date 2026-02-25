@@ -1,0 +1,23 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": [
+    {
+      "item": "vintageimprovements:andesite_rod"
+    },
+    {
+      "item": "vintageimprovements:andesite_spring"
+    },
+    {
+      "item": "create:andesite_ladder"
+    },
+    {
+      "item": "create:andesite_scaffolding"
+    },
+    {
+      "item": "create:andesite_table_cloth"
+    }
+  ],
+  "heat_capacity": 1.857,
+  "forging_temperature": 570,
+  "welding_temperature": 760
+}

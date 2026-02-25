@@ -1,0 +1,22 @@
+{
+    "type":"tfc:advanced_shaped_crafting",
+    "pattern":[
+        " NX",
+        "GHR",
+        "RLL"
+    ],
+    "key":{
+        "N":{"tag":"forge:rivets/wrought_iron"},
+        "R":{"tag":"forge:rings/wrought_iron"},
+        "X":{"item":"tfc:metal/hammer_head/wrought_iron"},
+        "G":{"tag":"forge:glue"},
+        "H":{"tag":"forge:handle/medium"},
+        "L":{"tag":"forge:string/leather"}
+    },
+    "result":{
+        "stack":{"item":"spartanweaponry:iron_battle_hammer"},
+        "modifiers":["tfc:copy_forging_bonus"]
+    },
+    "input_row":0,
+    "input_column":2
+}

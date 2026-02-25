@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "immersiveengineering:coil_mv"
+    },
+    "I": {
+      "item": "create_new_age:layered_magnet"
+    },
+    "N": {
+      "item": "create:brass_casing"
+    },
+    "S": {
+      "item": "create:shaft"
+    }
+  },
+  "pattern": [
+    "NN ",
+    "ICS",
+    "NN "
+  ],
+  "result": {
+    "item": "create_new_age:advanced_motor"
+  },
+  "show_notification": true
+}

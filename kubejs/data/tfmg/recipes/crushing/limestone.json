@@ -1,0 +1,20 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    [{
+      "item": "create:limestone"
+    },
+    {
+      "item": "tfc:rock/cobble/limestone"
+    },
+    {
+      "item": "tfc:rock/raw/limestone"
+    }]
+  ],
+  "results": [
+    {
+      "item": "tfmg:limesand"
+    }
+  ],
+  "processingTime": 800
+}

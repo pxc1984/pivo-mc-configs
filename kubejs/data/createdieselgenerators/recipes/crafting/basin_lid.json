@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:plates/andesite"
+    },
+    "B": {
+      "tag": "forge:plates/cast_iron"
+    },
+    "C": {
+      "item": "minecraft:clock"
+    }
+  },
+  "result": {
+    "item": "createdieselgenerators:basin_lid"
+  }
+}

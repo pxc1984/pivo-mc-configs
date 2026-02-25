@@ -1,0 +1,16 @@
+{
+    "type": "create:item_application",
+    "ingredients": [
+      {
+        "item":"immersivegeology:slab_refractory_brick"
+      },
+      {
+        "tag": "forge:foils/bronze"
+      }
+    ],
+    "results": [
+      {
+        "item": "immersivegeology:slab_reinforced_refractory_brick"
+      }
+    ]
+  }

@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "HWW",
+    " TG",
+    "  S"
+  ],
+  "key": {
+    "S": {"tag": "vintageimprovements:springs/iron"},
+    "W": {"tag": "firmalife:smoking_fuel"},
+    "G": {"item": "create:gearbox"},
+    "H": {"item": "tfc_metal_items:steel_tilt_hammer_head"},
+    "T": {"item": "tfc:trip_hammer"}
+  },
+  "result": {
+    "item": "vintageimprovements:helve_hammer"
+  }
+}

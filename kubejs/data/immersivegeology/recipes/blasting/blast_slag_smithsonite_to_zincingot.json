@@ -1,0 +1,13 @@
+{
+    "type": "immersiveengineering:blast_furnace",
+    "input": {
+        "tag": "forge:slag/smithsonite"
+    },
+    "result": {
+        "item": "tfc:metal/ingot/zinc"
+    },
+    "slag": {
+        "item": "immersiveengineering:slag"
+    },
+    "time": 900
+}

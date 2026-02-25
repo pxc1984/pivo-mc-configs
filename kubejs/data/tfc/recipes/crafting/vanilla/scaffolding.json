@@ -1,0 +1,18 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "SMS",
+    "S S"
+  ],
+  "key": {
+    "X": {"tag": "forge:string/plant"},
+    "S": {"item": "minecraft:stick"},
+    "M": {"tag": "forge:mesh/plant"}
+  },
+  "result": {
+    "item": "minecraft:scaffolding",
+    "count": 5
+  }
+}

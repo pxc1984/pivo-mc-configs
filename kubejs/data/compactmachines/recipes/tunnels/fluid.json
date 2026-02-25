@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pneumaticcraft:liquid_hopper"
+    },
+    {
+      "item": "mekanism:dust_lapis_lazuli"
+    },
+    {
+      "item": "mekanism:dust_lapis_lazuli"
+    },
+    {
+      "item": "create:portable_fluid_interface"
+    }
+  ],
+  "result": {
+    "item": "compactmachines:tunnel",
+    "count": 2,
+    "nbt": {
+      "definition": {
+        "id": "compactmachines:fluid"
+      }
+    }
+  }
+}

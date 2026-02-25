@@ -1,0 +1,17 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "F",
+    "R",
+    "A"
+  ],
+  "key": {
+    "R": {"tag": "forge:rods/aluminum"},
+    "A": {"tag": "forge:rings/aluminum"},
+    "F": {"item": "minecraft:flint_and_steel"}
+  },
+  "result": {
+    "item": "tfmg:spark_plug"
+  },
+  "acceptMirrored": true
+}

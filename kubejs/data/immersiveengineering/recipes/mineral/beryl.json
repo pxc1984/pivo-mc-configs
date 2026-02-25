@@ -1,0 +1,57 @@
+{
+    "type": "immersiveengineering:mineral_mix",
+    "dimensions": [
+        "minecraft:overworld"
+    ],
+    "fail_chance": 0.2,
+    "ores": [
+        {
+            "chance": 0.3,
+            "output": {
+                "item": "tfc:ore/emerald"
+            }
+        },
+        {
+            "chance": 0.7,
+            "output": {
+                "item": "minecraft:prismarine_shard"
+            }
+        },
+        {
+            "chance": 0.3,
+            "conditions": [
+                {
+                    "type": "forge:not",
+                    "value": {
+                        "type": "forge:tag_empty",
+                        "tag": "forge:gems/aquamarine"
+                    }
+                }
+            ],
+            "output": {
+                "tag": "forge:gems/aquamarine"
+            }
+        }
+    ],
+    "spoils": [
+        {
+            "chance": 0.55,
+            "output": {
+                "item": "tfc:rock/loose/schist"
+            }
+        },
+        {
+            "chance": 0.5,
+            "output": {
+                "item": "tfcorewashing:pile_green_sand"
+            }
+        },
+        {
+            "chance": 0.45,
+            "output": {
+                "item": "tfcorewashing:rock_powder"
+            }
+        }
+    ],
+    "weight": 5
+}

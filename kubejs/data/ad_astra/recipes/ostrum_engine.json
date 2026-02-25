@@ -1,0 +1,27 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "key": {
+    "E": {"item": "immersivegeology:engineering_block_stainless_steel"},
+    "C": {"item": "tfmg:engine_controller"},
+    "X": {"item": "tfmg:turbine_engine"},
+    "L": {"item": "tfmg:large_engine"},
+    "I": {"item": "refinedstorage:interface"},
+    "Z": {"item": "mekanism:ultimate_induction_cell"},
+    "F": {"item": "mekanism:dynamic_tank"},
+    "T": {"tag": "forge:plates/ostrum"},
+    "S": {"tag": "refinedstorage:controller"},
+    "D": {"tag": "refinedstorage:detector"}
+  },
+  "pattern": [
+    "   TT   ",
+    " TTFFTT ",
+    "TDIFFIDT",
+    "TZCFFCZT",
+    "TDLSSLDT",
+    "TEXTTXET"
+  ],
+  "result": {
+    "item": "ad_astra:ostrum_engine"
+  }
+}

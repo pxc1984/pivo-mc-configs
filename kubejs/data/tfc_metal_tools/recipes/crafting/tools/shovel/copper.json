@@ -1,0 +1,18 @@
+{
+    "type":"tfc:advanced_shaped_crafting",
+    "pattern":[
+        "NX",
+        "H "
+    ],
+    "key":{
+        "N":{"tag":"forge:string"},
+        "X":{"item":"tfc:metal/shovel_head/copper"},
+        "H":{"tag":"forge:handle/long_stick"}
+    },
+    "result":{
+        "stack":{"item":"tfc:metal/shovel/copper","nbt":"{Damage:300}"},
+        "modifiers":["tfc:copy_forging_bonus"]
+    },
+    "input_row":0,
+    "input_column":1
+}

@@ -1,0 +1,12 @@
+{
+    "replace":false,
+    "values":[
+        "tfc:crucible",
+        "tfc:blast_furnace",
+        "#forge:chimneys",
+        "#forge:thatch",
+        "#minecraft:trapdoors",
+        "#tfc:trapdoors",
+        "#minecraft:leaves"
+    ]
+}

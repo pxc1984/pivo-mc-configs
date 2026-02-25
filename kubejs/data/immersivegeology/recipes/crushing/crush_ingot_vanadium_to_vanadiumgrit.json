@@ -1,0 +1,14 @@
+{
+    "type": "immersiveengineering:crusher",
+    "energy": 3000,
+    "input": {
+        "tag": "forge:ingots/vanadium"
+    },
+    "result": {
+        "item": "immersivegeology:grit_vanadium"
+    },
+    "secondaries": [
+        
+    ],
+    "time": 200
+}

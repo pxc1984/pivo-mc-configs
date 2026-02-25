@@ -1,0 +1,14 @@
+{
+  "type": "vinery:wine_fermentation",
+  "ingredients": [
+    {
+      "tag": "vinery:white_grapejuice"
+    },
+    {
+      "item": "tfc:powder/magnetite"
+    }
+  ],
+  "result": {
+    "item": "vinery:magnetic_wine"
+  }
+}

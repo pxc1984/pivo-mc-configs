@@ -1,0 +1,21 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item":"immersivegeology:storage_block_refractory_brick"
+    },
+    {
+      "tag": "tfc:chisels"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfcorewashing:pile_yellow_sand",
+      "count": 4
+    },
+    {
+      "item": "immersivegeology:stairs_refractory_brick",
+      "count": 1
+    }
+  ]
+}

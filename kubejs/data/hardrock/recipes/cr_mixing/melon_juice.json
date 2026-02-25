@@ -1,0 +1,39 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "type": "tfc:not_rotten",
+            "ingredient": {
+                "tag": "forge:fruits/melon_slice"
+            }
+        },
+        {
+            "type": "tfc:not_rotten",
+            "ingredient": {
+                "tag": "forge:fruits/melon_slice"
+            }
+        },
+        {
+            "type": "tfc:not_rotten",
+            "ingredient": {
+                "tag": "forge:fruits/melon_slice"
+            }
+        },
+        {
+            "type": "tfc:not_rotten",
+            "ingredient": {
+                "tag": "forge:fruits/melon_slice"
+            }
+        },
+        {
+            "tag": "forge:sugar"
+        }
+    ],
+    "processingTime": 600,
+    "results": [
+        {
+            "fluid": "farmersrespite:melon_juice",
+            "amount": 250
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "type": "vintageimprovements:hammering",
+    "hammerBlows": 12,
+    "ingredients": [
+        {
+            "tag": "forge:ingots/tungsten_carbide"
+        }
+    ],
+    "results": [
+        {
+            "item": "immersivegeology:plate_tungsten_carbide"
+        }
+    ]
+}

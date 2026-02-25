@@ -1,0 +1,14 @@
+{
+  "type": "createdieselgenerators:wire_cutting",
+  "ingredients": [
+    {
+      "tag": "tfc:lumber"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:stick",
+      "count": 2
+    }
+  ]
+}

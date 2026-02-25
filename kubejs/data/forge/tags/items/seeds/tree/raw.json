@@ -1,0 +1,25 @@
+{
+  "replace": true,
+  "values": [
+    "dttfc:willow_seed",
+    "dttfc:white_cedar_seed",
+    "dttfc:sycamore_seed",
+    "dttfc:spruce_seed",
+    "dttfc:sequoia_seed",
+    "dttfc:rosewood_seed",
+    "dttfc:pine_seed",
+    "dttfc:palm_seed",
+    "dttfc:oak_seed",
+    "dttfc:maple_seed",
+    "dttfc:mangrove_seed",
+    "dttfc:kapok_seed",
+    "dttfc:hickory_seed",
+    "dttfc:douglas_fir_seed",
+    "dttfc:chestnut_seed",
+    "dttfc:blackwood_seed",
+    "dttfc:birch_seed",
+    "dttfc:aspen_seed",
+    "dttfc:ash_seed",
+    "dttfc:acacia_seed"
+  ]
+}

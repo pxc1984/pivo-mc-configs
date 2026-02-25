@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "spartanweaponry:type_disabled",
+      "disabled": [
+        "cestus"
+      ]
+    }
+  ],
+  "group": "spartanweaponry:cestus",
+  "key": {
+    "l": {
+      "tag": "forge:leather/sheet"
+    },
+    "o": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "pattern": [
+    " ll",
+    "lol",
+    " l "
+  ],
+  "result": {
+    "item": "spartanweaponry:cestus"
+  }
+}

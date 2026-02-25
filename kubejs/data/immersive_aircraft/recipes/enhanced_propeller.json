@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CXC",
+    "XPR",
+    "CRC"
+  ],
+  "key": {
+    "X": [
+      {
+        "tag": "forge:rivets/brass"
+      }
+    ],"R": [
+      {
+        "tag": "forge:rings/brass"
+      }
+    ],"C": [
+      {
+        "tag": "forge:plates/brass"
+      }
+    ],
+    "P": [
+      {
+        "item": "immersive_aircraft:propeller"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_aircraft:enhanced_propeller"
+  }
+}

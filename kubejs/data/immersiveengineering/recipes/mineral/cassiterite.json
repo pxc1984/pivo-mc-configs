@@ -1,0 +1,60 @@
+{
+    "type": "immersiveengineering:mineral_mix",
+    "dimensions": [
+        "minecraft:overworld"
+    ],
+    "fail_chance": 0.05,
+    "ores": [
+        {
+            "chance": 0.45,
+            "output": {
+                "tag": "forge:normal_ore/cassiterite"
+            }
+        },
+        {
+            "chance": 0.25,
+            "output": {
+                "tag": "forge:normal_ore/wolframite"
+            }
+        },
+        {
+            "chance": 0.1,
+            "output": {
+                "tag": "forge:normal_ore/magnetite"
+            }
+        },
+        {
+            "chance": 0.05,
+            "output": {
+                "tag": "forge:rich_ore/cassiterite"
+            }
+        },
+        {
+            "chance": 0.015,
+            "output": {
+                "tag": "forge:rich_ore/wolframite"
+            }
+        }
+    ],
+    "spoils": [
+        {
+            "chance": 0.55,
+            "output": {
+                "item": "tfc:rock/loose/dolomite"
+            }
+        },
+        {
+            "chance": 0.5,
+            "output": {
+                "item": "tfcorewashing:pile_black_sand"
+            }
+        },
+        {
+            "chance": 0.45,
+            "output": {
+                "item": "tfcorewashing:rock_powder"
+            }
+        }
+    ],
+    "weight": 20
+}

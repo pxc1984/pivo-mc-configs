@@ -1,0 +1,11 @@
+{
+    "type":"immersiveengineering:blueprint",
+    "category":"components",
+    "inputs":[
+        {"tag":"tfc:glass_bottles"},
+        {"tag":"forge:foils/nickel"},
+        {"tag":"forge:springs/copper"},
+        {"item":"immersiveengineering:wirecoil_redstone"}
+    ],
+    "result":{"count":3,"item":"immersiveengineering:electron_tube"}
+}

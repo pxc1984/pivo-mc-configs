@@ -1,0 +1,16 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"ingredients": [ 
+		{
+      "amount": 900,
+      "fluidTag": "forge:molten_netherite",
+      "nbt": {}
+    }
+	],
+	"results": [
+		{
+			"item": "minecraft:netherite_block"
+		}
+	],
+	"processingTime": 1200
+}

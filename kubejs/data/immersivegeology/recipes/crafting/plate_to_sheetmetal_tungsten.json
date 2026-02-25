@@ -1,0 +1,14 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"tag": "forge:plates/tungsten"},
+    "transitionalItem": {"item": "immersivegeology:plate_tungsten"},
+    "sequence": [
+      {"type": "create:deploying","ingredients": [{"tag": "immersivegeology:plate_tungsten"}, {"tag": "forge:plates/tungsten"}],"results": [{"item": "immersivegeology:plate_tungsten"}]},
+      {"type": "create:pressing","ingredients": [{"item": "immersivegeology:plate_tungsten"}],"results": [{"item": "immersivegeology:plate_tungsten"}]},
+      {"type": "create:pressing","ingredients": [{"item": "immersivegeology:plate_tungsten"}],"results": [{"item": "immersivegeology:plate_tungsten"}]},
+      {"type": "create:pressing","ingredients": [{"item": "immersivegeology:plate_tungsten"}],"results": [{"item": "immersivegeology:plate_tungsten"}]},
+      {"type": "create:pressing","ingredients": [{"item": "immersivegeology:plate_tungsten"}],"results": [{"item": "immersivegeology:plate_tungsten"}]}
+    ],
+    "results": [{"item": "immersivegeology:sheetmetal_block_tungsten"}],
+    "loops": 1
+  }

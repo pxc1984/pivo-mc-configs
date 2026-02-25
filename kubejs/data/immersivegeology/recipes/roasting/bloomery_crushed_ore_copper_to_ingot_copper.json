@@ -1,0 +1,13 @@
+{
+    "type": "immersivegeology:bloomery",
+    "input": {
+        "base_ingredient": {
+            "tag": "forge:crushed_ore/copper"
+        },
+        "count": 2
+    },
+    "result": {
+        "item": "tfc:metal/ingot/copper"
+    },
+    "time": 200
+}

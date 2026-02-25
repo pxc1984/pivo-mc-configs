@@ -1,0 +1,18 @@
+{
+  "ingredient": "kubejs:bread_beer",
+  "thirst": 15,
+  "intoxication": 1000,
+  "may_drink_when_full": true,
+  "effects": [
+    {
+      "type": "minecraft:speed",
+      "duration": 1200,
+      "chance": 0.75
+    },
+    {
+      "type": "brewery:drunk",
+      "duration": 6000,
+      "chance": 0.15
+    }
+  ]
+}

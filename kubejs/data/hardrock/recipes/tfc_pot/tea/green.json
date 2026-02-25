@@ -1,0 +1,21 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:pot",
+  "ingredients": [
+    {"item": "farmersrespite:green_tea_leaves"},
+    {"item": "farmersrespite:green_tea_leaves"},
+    {"item": "farmersrespite:green_tea_leaves"},
+    {"item": "farmersrespite:green_tea_leaves"},
+    {"item": "farmersrespite:green_tea_leaves"}
+  ],
+  "fluid_ingredient": {
+    "ingredient": "minecraft:water",
+    "amount": 1000
+  },
+  "duration": 1600,
+  "temperature": 600,
+  "fluid_output": {
+    "fluid": "farmersrespite:green_tea",
+    "amount": 1000
+  }
+}

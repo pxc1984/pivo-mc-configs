@@ -1,0 +1,23 @@
+{
+  "type": "treetap:tap_extract",
+  "log": [
+    {"item": "dttfc:willow_branch"}
+  ],
+  "processing_time": 60000,
+  "metal_result": {
+    "item": "kubejs:willow_sap_bucket"
+  },
+  "wooden_result": {
+    "item": "tfc:wooden_bucket",
+    "nbt": "{fluid: {FluidName: \"kubejs:willow_sap_bucket\", Amount: 1000}}"
+  },
+  "life_cycle": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0],
+  "collect_bucket": true,
+  "fluid_color": "#a7cbd7",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tfc"
+    }
+  ]
+}

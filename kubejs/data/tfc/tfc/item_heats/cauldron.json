@@ -1,0 +1,11 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": [
+    {
+      "item": "minecraft:cauldron"
+    }
+  ],
+  "heat_capacity": 6.667,
+  "forging_temperature": 921,
+  "welding_temperature": 1228
+}

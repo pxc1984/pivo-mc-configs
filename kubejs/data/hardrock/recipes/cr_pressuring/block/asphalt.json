@@ -1,0 +1,16 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"ingredients": [ 
+	{
+      "amount": 1000,
+      "fluid": "tfmg:liquid_asphalt",
+      "nbt": {}
+    }
+	],
+	"results": [
+		{
+			"item": "car:asphalt"
+		}
+	],
+	"processingTime": 1200
+}

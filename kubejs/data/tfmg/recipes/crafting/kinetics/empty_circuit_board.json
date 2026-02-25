@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C",
+    "I"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:sheets/plastic"
+    },
+    "C": {
+      "tag": "forge:dyes/green"
+    }
+  },
+  "result": {
+    "item": "tfmg:empty_circuit_board"
+  }
+}

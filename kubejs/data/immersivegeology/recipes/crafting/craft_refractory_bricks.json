@@ -1,0 +1,17 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "category":"building",
+    "group":"ig_tools",
+    "key":{
+        "M": {"tag": "tfc:mortar"},
+        "S": {"tag": "forge:sand"},
+        "#":{"item":"immersivegeology:refractory_brick"}
+    },
+    "pattern":[
+        "#M#",
+        "MSM",
+        "#M#"
+    ]
+    ,"result":{"item":"immersivegeology:storage_block_refractory_brick"},
+    "show_notification":true
+}

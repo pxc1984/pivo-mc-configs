@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "xx",
+        "xx"
+    ],
+    "key": {
+        "x": {
+            "item": "kubejs:wood_pellet"
+        }
+    },
+    "result": {
+        "count": 1,
+        "item": "kubejs:wood_briquet"
+    }
+}

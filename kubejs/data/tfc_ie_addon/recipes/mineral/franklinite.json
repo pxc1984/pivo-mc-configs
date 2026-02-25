@@ -1,0 +1,78 @@
+{
+  "type": "immersiveengineering:mineral_mix",
+  "ores": [
+    {
+      "chance": 0.4,
+      "output": {
+        "tag": "forge:normal_ore/pyrolusite"
+      }
+    },
+    {
+      "chance": 0.4,
+      "output": {
+        "tag": "forge:poor_ore/hematite"
+      }
+    },
+    {
+      "chance": 0.2,
+      "output": {
+        "tag": "forge:normal_ore/hematite"
+      }
+    },
+    {
+      "chance": 0.1,
+      "output": {
+        "tag": "forge:rich_ore/hematite"
+      }
+    },
+    {
+      "chance": 0.35,
+      "output": {
+        "tag": "forge:poor_ore/pyrolusite"
+      }
+    },
+    {
+      "chance": 0.25,
+      "output": {
+        "tag": "forge:poor_ore/sphalerite"
+      }
+    },
+    {
+      "chance": 0.2,
+      "output": {
+        "tag": "forge:normal_ore/sphalerite"
+      }
+    },
+    {
+      "chance": 0.1,
+      "output": {
+        "tag": "forge:rich_ore/sphalerite"
+      }
+    }
+  ],
+  "spoils": [
+    {
+      "chance": 0.55,
+      "output": {
+        "item": "tfc:rock/loose/shale"
+      }
+    },
+    {
+      "chance": 0.5,
+      "output": {
+        "item": "tfcorewashing:pile_brown_sand"
+      }
+    },
+    {
+      "chance": 0.45,
+      "output": {
+        "item": "tfcorewashing:rock_powder"
+      }
+    }
+  ],
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "weight": 30,
+  "fail_chance": 0.05
+}

@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "firmalife:treated_wood"
+    },
+    {
+      "amount": 250,
+      "fluidTag": "forge:creosote",
+      "nbt": {}
+    }
+  ],
+  "results": [
+    {
+      "item": "tfmg:hardened_planks"
+    }
+  ]
+}

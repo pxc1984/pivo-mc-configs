@@ -1,0 +1,57 @@
+{
+    "type": "immersiveengineering:mineral_mix",
+    "dimensions": [
+        "minecraft:overworld"
+    ],
+    "fail_chance": 0.1,
+    "ores": [
+        {
+            "chance": 0.5,
+            "output": {
+                "item": "tfc:ore/cinnabar"
+            }
+        },
+        {
+            "chance": 0.3,
+            "output": {
+                "item": "tfc:ore/sulfur"
+            }
+        },
+        {
+            "chance": 0.3,
+            "conditions": [
+                {
+                    "type": "forge:not",
+                    "value": {
+                        "type": "forge:tag_empty",
+                        "tag": "forge:ores/mercury"
+                    }
+                }
+            ],
+            "output": {
+                "tag": "forge:ores/mercury"
+            }
+        }
+    ],
+    "spoils": [
+        {
+            "chance": 0.55,
+            "output": {
+                "item": "tfc:rock/loose/chert"
+            }
+        },
+        {
+            "chance": 0.5,
+            "output": {
+                "item": "tfcorewashing:pile_red_sand"
+            }
+        },
+        {
+            "chance": 0.45,
+            "output": {
+                "item": "tfcorewashing:rock_powder"
+            }
+        }
+    ],
+    "weight": 15
+}

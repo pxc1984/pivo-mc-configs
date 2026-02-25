@@ -1,0 +1,14 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"tag": "forge:sheets/plastic"},
+  "transitionalItem": {"item": "kubejs:sq_wire"},
+  "sequence": [
+    {"type": "create:cutting","ingredients": [{"tag": "kubejs:sq_wire"}],"results": [{"item": "kubejs:sq_wire"}]},
+    {"type": "create:cutting","ingredients": [{"tag": "kubejs:sq_wire"}],"results": [{"item": "kubejs:sq_wire"}]},
+    {"type": "create:cutting","ingredients": [{"tag": "kubejs:sq_wire"}],"results": [{"item": "kubejs:sq_wire"}]},
+    {"type": "create:cutting","ingredients": [{"tag": "kubejs:sq_wire"}],"results": [{"item": "kubejs:sq_wire"}]},
+    {"type": "create:cutting","ingredients": [{"tag": "kubejs:sq_wire"}],"results": [{"item": "kubejs:sq_wire"}]}
+  ],
+  "results": [{"item": "tfmg:synthetic_string","count":6}],
+  "loops": 1
+}

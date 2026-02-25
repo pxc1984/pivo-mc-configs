@@ -1,0 +1,17 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:alloy",
+  "result": "tfc:diamond_steel",
+  "contents": [
+    {
+      "metal": "tfc:black_steel",
+      "min": 0.50,
+      "max": 0.75
+    },
+    {
+      "metal": "tfc:diamond",
+      "min": 0.25,
+      "max": 0.50
+    }
+  ]
+}

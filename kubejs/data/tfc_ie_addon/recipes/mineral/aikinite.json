@@ -1,0 +1,102 @@
+{
+  "type": "immersiveengineering:mineral_mix",
+  "ores": [
+    {
+      "chance": 0.5,
+      "output": {
+        "item": "tfc:ore/poor_bismuthinite"
+      }
+    },
+    {
+      "chance": 0.5,
+      "output": {
+        "item": "tfc:ore/poor_native_copper"
+      }
+    },
+    {
+      "chance": 0.3,
+      "output": {
+        "item": "tfc:ore/normal_native_copper"
+      }
+    },
+    {
+      "chance": 0.2,
+      "output": {
+        "item": "tfc:ore/rich_native_copper"
+      }
+    },
+    {
+      "chance": 0.25,
+      "output": {
+        "item": "tfc:ore/sulfur"
+      }
+    },
+    {
+      "chance": 0.25,
+      "output": {
+        "item": "tfc:ore/poor_limonite"
+      }
+    },
+    {
+      "chance": 0.2,
+      "output": {
+        "item": "tfc:ore/normal_limonite"
+      }
+    },
+    {
+      "chance": 0.1,
+      "output": {
+        "item": "tfc:ore/rich_limonite"
+      }
+    },
+    {
+      "chance": 0.5,
+      "output": {
+        "item": "tfc:ore/sulfur"
+      }
+    },
+    {
+      "chance": 0.5,
+      "output": {
+        "item": "immersivegeology:poor_ore_lead"
+      }
+    },
+    {
+      "chance": 0.3,
+      "output": {
+        "item": "immersivegeology:normal_ore_lead"
+      }
+    },
+    {
+      "chance": 0.2,
+      "output": {
+        "item": "immersivegeology:rich_ore_lead"
+      }
+    }
+  ],
+  "spoils": [
+    {
+      "chance": 0.55,
+      "output": {
+        "item": "tfc:rock/loose/chalk"
+      }
+    },
+    {
+      "chance": 0.5,
+      "output": {
+        "item": "tfcorewashing:pile_white_sand"
+      }
+    },
+    {
+      "chance": 0.45,
+      "output": {
+        "item": "tfcorewashing:rock_powder"
+      }
+    }
+  ],
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "weight": 20,
+  "fail_chance": 0.1
+}

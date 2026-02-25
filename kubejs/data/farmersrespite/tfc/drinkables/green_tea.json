@@ -1,0 +1,12 @@
+{
+  "ingredient": [
+    "farmersrespite:green_tea"
+  ],
+  "thirst": 10,
+  "effects": [
+    {
+      "type": "minecraft:haste",
+      "duration": 3600
+    }
+  ]
+}

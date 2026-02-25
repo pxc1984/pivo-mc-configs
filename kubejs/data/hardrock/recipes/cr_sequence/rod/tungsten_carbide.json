@@ -1,0 +1,63 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "create"
+		}
+	],
+	"type": "create:sequenced_assembly",
+	"ingredient": {
+		"tag": "forge:ingots/tungsten_carbide"
+	},
+	"transitionalItem": {
+		"item": "kubejs:sq_rod"
+	},
+	"sequence": [
+		{
+			"type": "createaddition:rolling",
+			"ingredients": [
+				{
+					"item": "kubejs:sq_rod"
+				}
+			],
+			"results": [
+				{
+					"item": "kubejs:sq_rod"
+				}
+			]
+		},
+		{
+			"type": "createaddition:rolling",
+			"ingredients": [
+				{
+					"item": "kubejs:sq_rod"
+				}
+			],
+			"results": [
+				{
+					"item": "kubejs:sq_rod"
+				}
+			]
+		},
+		{
+			"type": "createaddition:rolling",
+			"ingredients": [
+				{
+					"item": "kubejs:sq_rod"
+				}
+			],
+			"results": [
+				{
+					"item": "kubejs:sq_rod"
+				}
+			]
+		}
+	],
+	"results": [
+		{
+			"item": "immersivegeology:rod_tungsten_carbide",
+			"count": 2
+		}
+	],
+	"loops": 2
+}

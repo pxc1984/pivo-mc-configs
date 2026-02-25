@@ -1,0 +1,20 @@
+{
+  "type": "pneumaticcraft:pressure_chamber",
+  "inputs": [
+    {
+      "tag": "forge:double_sheets/tin"
+    },
+    {
+      "item": "tfc:powder/flux"
+    },
+    {
+      "tag": "forge:sheets/tin"
+    }
+  ],
+  "pressure": 4.5,
+  "results": [
+    {
+      "item": "tfc_items:tin_heavy_sheet"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:pot",
+  "ingredients": [
+    {"tag": "farmersrespite:tea_leaves"},
+    {"tag": "farmersrespite:tea_leaves"},
+    {"tag": "farmersrespite:tea_leaves"},
+    {"tag": "forge:milk/powdered"},
+    {"tag": "forge:milk/powdered"}
+  ],
+  "fluid_ingredient": {
+    "ingredient": "farmersrespite:dandelion_tea",
+    "amount": 1000
+  },
+  "duration": 2000,
+  "temperature": 600,
+  "fluid_output": {
+    "fluid": "farmersrespite:long_dandelion_tea",
+    "amount": 1000
+  }
+}

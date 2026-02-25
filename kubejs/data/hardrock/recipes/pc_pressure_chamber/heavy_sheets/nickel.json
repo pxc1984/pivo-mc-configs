@@ -1,0 +1,20 @@
+{
+  "type": "pneumaticcraft:pressure_chamber",
+  "inputs": [
+    {
+      "tag": "forge:double_sheets/nickel"
+    },
+    {
+      "item": "tfc:powder/flux"
+    },
+    {
+      "tag": "forge:sheets/nickel"
+    }
+  ],
+  "pressure": 4.5,
+  "results": [
+    {
+      "item": "tfc_items:nickel_heavy_sheet"
+    }
+  ]
+}

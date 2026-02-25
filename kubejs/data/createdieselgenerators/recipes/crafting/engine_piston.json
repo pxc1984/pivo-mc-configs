@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " SA",
+    "SR ",
+    "Z  "
+  ],
+  "key": {
+    "A": {"tag": "forge:ingots/iron"},
+    "R": {"tag": "forge:rods/iron"},
+    "S": {"tag": "forge:rivets/zinc"},
+    "Z": {"tag": "forge:rings/zinc"}
+  },
+  "result": {
+    "item": "createdieselgenerators:engine_piston",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:barrel_sealed",
+  "input_item": {
+    "ingredient":{
+      "type":"tfc:not_rotten",
+        "ingredient": {
+          "tag": "forge:food/cooked/rice"
+        }
+    }
+  },
+  "input_fluid": {
+    "ingredient": "kubejs:solution_aspergillus_oryzae",
+    "amount": 100
+  },
+  "output_item": {
+    "item": "kubejs:koji"
+  },
+  "duration": 8000
+}

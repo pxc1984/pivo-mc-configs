@@ -1,0 +1,21 @@
+{
+    "type": "woodencog:filling",
+    "ingredients": [
+        {
+            "item": "lithiccoins:ceramic/fire_coin_mold"
+        },
+        {
+            "fluid": "tfmg:liquid_silicon",
+            "nbt": {},
+            "amount": 100
+        }
+    ],
+    "results": [
+        {
+            "stack": {
+                "item": "refinedstorage:silicon",
+                "count": 4
+            }
+        }
+    ]
+}

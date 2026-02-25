@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "group": "ig_tools",
+    "key": {
+        "H": {
+            "item": "tfc:metal/hammer_head/steel"
+        },
+        "B": {
+            "tag": "forge:ingots/stainless_steel"
+        },
+        "S": {
+            "tag": "forge:rivets/stainless_steel"
+        },
+        "W": {
+            "tag": "forge:rods/stainless_steel"
+        }
+    },
+    "pattern": [
+        " BS",
+        " WH",
+        "W  "
+    ],
+    "result": {
+        "item": "immersivegeology:hammer_stainless_steel"
+    },
+    "show_notification": true
+}

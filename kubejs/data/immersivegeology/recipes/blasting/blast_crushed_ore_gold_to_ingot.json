@@ -1,0 +1,13 @@
+{
+    "type": "immersiveengineering:blast_furnace",
+    "input": {
+        "tag": "forge:crushed_ore/gold"
+    },
+    "result": {
+        "item": "tfc:metal/ingot/gold"
+    },
+    "slag": {
+        "item": "immersiveengineering:slag"
+    },
+    "time": 200
+}

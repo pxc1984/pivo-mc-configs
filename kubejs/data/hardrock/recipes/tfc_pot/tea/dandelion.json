@@ -1,0 +1,21 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:pot",
+  "ingredients": [
+    {"item": "tfc:plant/dandelion"},
+    {"tag": "farmersrespite:tea_leaves"},
+    {"tag": "farmersrespite:tea_leaves"},
+    {"item": "tfc:plant/dandelion"},
+    {"item": "tfc:plant/dandelion"}
+  ],
+  "fluid_ingredient": {
+    "ingredient": "minecraft:water",
+    "amount": 1000
+  },
+  "duration": 1600,
+  "temperature": 600,
+  "fluid_output": {
+    "fluid": "farmersrespite:dandelion_tea",
+    "amount": 1000
+  }
+}

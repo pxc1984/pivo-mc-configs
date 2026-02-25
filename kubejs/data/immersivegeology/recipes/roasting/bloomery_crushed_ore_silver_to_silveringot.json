@@ -1,0 +1,13 @@
+{
+    "type": "immersivegeology:bloomery",
+    "input": {
+        "base_ingredient": {
+            "tag": "forge:crushed_ore/silver"
+        },
+        "count": 2
+    },
+    "result": {
+        "item": "tfc:metal/ingot/silver"
+    },
+    "time": 200
+}

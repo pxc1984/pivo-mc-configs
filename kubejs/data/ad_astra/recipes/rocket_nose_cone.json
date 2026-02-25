@@ -1,0 +1,23 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "key": {
+    "O": {"item": "minecraft:lightning_rod"},
+    "E": {"item": "immersivegeology:engineering_block_stainless_steel"},
+    "R": {"tag": "forge:rivets/handful/stainless_steel"},
+    "T": {"tag": "forge:plates/titanium"},
+    "S": {"tag": "forge:plates/stainless_steel"},
+    "H": {"tag": "forge:plates/hastelloy"}
+  },
+  "pattern": [
+    "   O   ",
+    "   T   ",
+    "  TRT  ",
+    " THRHT ",
+    "THSRSHT",
+    "THSESHT"
+  ],
+  "result": {
+    "item": "ad_astra:rocket_nose_cone"
+  }
+}

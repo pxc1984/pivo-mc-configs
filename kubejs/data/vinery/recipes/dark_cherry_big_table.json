@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "big_table",
+  "pattern": [
+    "i",
+    "S"
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:double_sheets"
+    },
+    "S": {
+      "item": "vinery:cherry_planks"
+    }
+  },
+  "result": {
+    "item": "vinery:dark_cherry_big_table"
+  }
+}

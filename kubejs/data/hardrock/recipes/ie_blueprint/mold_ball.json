@@ -1,0 +1,18 @@
+{
+    "type": "immersiveengineering:blueprint",
+    "category": "molds",
+    "inputs": [
+        {
+            "base_ingredient": {
+                "tag": "forge:graphite"
+            },
+            "count": 3
+        },
+        {
+            "tag": "tfc:chisels"
+        }
+    ],
+    "result": {
+        "item": "kubejs:graphite_ball_mold"
+    }
+}

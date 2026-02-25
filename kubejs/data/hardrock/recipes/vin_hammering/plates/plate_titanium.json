@@ -1,0 +1,14 @@
+{
+    "type": "vintageimprovements:hammering",
+    "hammerBlows": 12,
+    "ingredients": [
+        {
+            "tag": "forge:ingots/titanium"
+        }
+    ],
+    "results": [
+        {
+            "item": "immersivegeology:plate_titanium"
+        }
+    ]
+}

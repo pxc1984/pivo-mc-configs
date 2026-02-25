@@ -1,0 +1,20 @@
+{
+	"type": "createdieselgenerators:basin_fermenting",
+	"ingredients": [
+	  {"fluid": "firmalife:yeast_starter","amount": 100},
+	  {"type":"tfc:not_rotten","ingredient": {"tag": "forge:food/cooked/rice"}},
+	  {"type":"tfc:not_rotten","ingredient": {"tag": "forge:food/cooked/rice"}},
+	  {"type":"tfc:not_rotten","ingredient": {"tag": "forge:food/cooked/rice"}},
+	  {"type":"tfc:not_rotten","ingredient": {"tag": "forge:food/cooked/rice"}},
+	  {"type":"tfc:not_rotten","ingredient": {"tag": "forge:food/cooked/rice"}},
+	  {"fluid": "kubejs:boiled_water","amount": 1000},
+	  {"item": "kubejs:koji"}
+	],
+	"processingTime": 480000,
+	"results": [
+	  {
+		"fluid": "kubejs:nigori",
+		"amount": 1000
+	  }
+	]
+}

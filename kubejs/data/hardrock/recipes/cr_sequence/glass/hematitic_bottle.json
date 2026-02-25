@@ -1,0 +1,72 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+        "type": "tfc:heatable",
+        "min_temp": 640,
+        "ingredient": {
+            "item": "tfc:hematitic_glass_batch"
+        }
+    },
+    "transitionalItem": {
+        "item": "tfc:hematitic_glass_batch"
+    },
+    "sequence": [
+        {
+            "type": "create:deploying",
+            "ingredients": [
+                {
+                    "item": "tfc:hematitic_glass_batch"
+                },
+                {
+                    "tag": "tfc:blowpipes"
+                }
+            ],
+            "results": [
+                {
+                    "item": "tfc:hematitic_glass_batch"
+                }
+            ],
+            "keepHeldItem": true
+        },
+        {
+            "type": "create:deploying",
+            "ingredients": [
+                {
+                    "item": "tfc:hematitic_glass_batch"
+                },
+                {
+                    "item": "tfc:jacks"
+                }
+            ],
+            "results": [
+                {
+                    "item": "tfc:hematitic_glass_batch"
+                }
+            ],
+            "keepHeldItem": true
+        },
+        {
+            "type": "create:deploying",
+            "ingredients": [
+                {
+                    "item": "tfc:hematitic_glass_batch"
+                },
+                {
+                    "item": "tfc:gem_saw"
+                }
+            ],
+            "results": [
+                {
+                    "item": "tfc:hematitic_glass_batch"
+                }
+            ],
+            "keepHeldItem": true
+        }
+    ],
+    "results": [
+        {
+            "item": "tfc:hematitic_glass_bottle"
+        }
+    ],
+    "loops": 1
+}

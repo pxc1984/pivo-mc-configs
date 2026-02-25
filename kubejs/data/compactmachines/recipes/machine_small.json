@@ -1,0 +1,26 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "pattern": [
+    "WSW",
+    "XMX",
+    "WSW"
+  ],
+  "key": {
+    "W": {
+      "item": "compactmachines:wall"
+    },
+    "X": {
+      "tag": "forge:storage_blocks/iron"
+    },
+    "M": {
+      "item": "compactmachines:machine_tiny"
+    },
+    "S": {
+      "tag": "forge:sheets/sterling_silver"
+    }
+  },
+  "result": {
+    "item": "compactmachines:machine_small"
+  }
+}

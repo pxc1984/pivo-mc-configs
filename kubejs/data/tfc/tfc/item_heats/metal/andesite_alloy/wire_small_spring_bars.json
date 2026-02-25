@@ -1,0 +1,17 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "ingredient": [
+    {
+      "item": "vintageimprovements:andesite_wire"
+    },
+    {
+      "item": "vintageimprovements:small_andesite_spring"
+    },
+    {
+      "item": "create:andesite_bars"
+    }
+  ],
+  "heat_capacity": 1.257,
+  "forging_temperature": 570,
+  "welding_temperature": 760
+}

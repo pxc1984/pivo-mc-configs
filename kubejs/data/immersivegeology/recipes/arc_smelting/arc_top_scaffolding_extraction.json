@@ -1,0 +1,16 @@
+{
+    "type": "immersiveengineering:arc_furnace",
+    "additives": [
+        
+    ],
+    "energy": 25600,
+    "input": {
+        "item": "immersivegeology:scaffolding_rusty_metal_wooden_top"
+    },
+    "results": [
+        {
+            "item": "tfc:metal/ingot/cast_iron"
+        }
+    ],
+    "time": 100
+}

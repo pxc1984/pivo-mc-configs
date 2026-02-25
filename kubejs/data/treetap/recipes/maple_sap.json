@@ -1,0 +1,24 @@
+{
+  "type": "treetap:tap_extract",
+  "log": [
+    {"item": "dttfc:sycamore_branch"},
+    {"item": "dttfc:maple_branch"}
+  ],
+  "processing_time": 42000,
+  "metal_result": {
+    "item": "kubejs:maple_sap_bucket"
+  },
+  "wooden_result": {
+    "item": "tfc:wooden_bucket",
+    "nbt": "{fluid: {FluidName: \"kubejs:maple_sap\", Amount: 1000}}"
+  },
+  "life_cycle": [0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0],
+  "collect_bucket": true,
+  "fluid_color": "#95b5bf",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tfc"
+    }
+  ]
+}

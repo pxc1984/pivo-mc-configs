@@ -1,0 +1,18 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "amount": 125,
+      "fluid": "artisanal:soap",
+      "nbt": {}
+    }
+  ],
+  "processingTime": 200,
+  "results": [
+    {
+      "item": "artisanal:soap",
+      "count": 1
+    }
+  ],
+  "heatRequirement": "heated"
+}

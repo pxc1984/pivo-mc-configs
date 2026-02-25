@@ -1,0 +1,54 @@
+{
+    "type": "immersiveengineering:mineral_mix",
+    "dimensions": [
+        "tfc:rock/raw/overworld"
+    ],
+    "fail_chance": 0.05,
+    "ores": [
+        {
+            "chance": 0.3,
+            "output": {
+                "item": "tfc:rock/raw/granite"
+            }
+        },
+        {
+            "chance": 0.3,
+            "output": {
+                "item": "tfc:rock/raw/diorite"
+            }
+        },
+        {
+            "chance": 0.3,
+            "output": {
+                "item": "tfc:rock/raw/andesite"
+            }
+        },
+        {
+            "chance": 0.1,
+            "output": {
+                "item": "tfc:rock/raw/basalt"
+            }
+        }
+    ],
+    "spoils": [
+        {
+            "chance": 0.5,
+            "output": {
+                "item": "tfc:rock/gravel/granite"
+            }
+        },
+        {
+            "chance": 0.4,
+            "output": {
+                "item": "tfc:rock/cobble/andesite"
+            }
+        },
+        {
+            "chance": 0.55,
+            "output": {
+                "item": "tfc:rock/loose/diorite"
+            }
+        }
+    ],
+    "weight": 25
+}

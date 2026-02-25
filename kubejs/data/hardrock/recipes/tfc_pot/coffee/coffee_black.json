@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:pot",
+  "ingredients": [
+    {"item": "kubejs:coffee_ground"},
+    {"item": "kubejs:coffee_ground"},
+    {"item": "kubejs:coffee_ground"}
+  ],
+  "fluid_ingredient": {
+    "ingredient": "minecraft:water",
+    "amount": 1000
+  },
+  "duration": 1600,
+  "temperature": 600,
+  "fluid_output": {
+    "fluid": "farmersrespite:coffee",
+    "amount": 1000
+  }
+}

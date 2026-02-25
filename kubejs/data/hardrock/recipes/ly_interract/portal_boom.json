@@ -1,0 +1,29 @@
+{
+  "type": "lychee:block_interacting",
+  "post": [
+    {
+      "type": "hurt",
+      "damage": {
+        "min": 4,
+        "max": 12
+      },
+      "source": "wither"
+    },
+    {
+      "type": "explode",
+      "offsetX": 1,
+      "offsetY": 1,
+      "offsetZ": 2,
+      "block_interaction": "break",
+      "radius": 3
+    },
+    {
+      "type": "damage_item",
+      "damage": 25
+    }
+  ],
+  "item_in": {
+    "tag": "forge:fire_source"
+  },
+  "block_in": "minecraft:obsidian"
+}

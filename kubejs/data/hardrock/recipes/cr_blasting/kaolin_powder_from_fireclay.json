@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "tfmg:fireclay_ball"
+    },
+    "result": {
+        "item": "tfc:powder/kaolinite",
+        "count": 2
+    },
+    "experience": 0,
+    "cookingtime": 1600
+}

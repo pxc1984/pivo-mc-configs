@@ -1,0 +1,12 @@
+{
+  "type": "immersiveengineering:crusher",
+  "secondaries": [],
+  "result": {
+    "item": "createaddition:diamond_grit",
+    "count": 1
+  },
+  "input": {
+    "tag": "forge:gems/diamond"
+  },
+  "energy": 800
+}

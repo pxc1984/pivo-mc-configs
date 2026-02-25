@@ -1,0 +1,14 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "category":"misc",
+    "key":{
+        "c":{"item":"immersiveengineering:toolupgrade_powerpack_induction"},
+        "e":{"item":"immersiveengineering:light_bulb"},
+        "i":{"tag":"forge:ingots/iron"},
+        "p":{"item":"firmalife:reinforced_glass"},
+        "s":{"tag":"forge:plates/black_steel"}
+    },
+    "pattern":["sii","pes","sci"],
+    "result":{"item":"immersiveengineering:floodlight"},
+    "show_notification":true
+}

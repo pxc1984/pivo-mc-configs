@@ -1,0 +1,23 @@
+{
+  "type": "createoreexcavation:drilling",
+  "drill": {
+    "tag": "createoreexcavation:drills"
+  },
+  "fluid": {
+    "amount": 250,
+    "fluid": "minecraft:water",
+    "nbt": {}
+  },
+  "output": [
+    {"chance": 0.60,"item": "tfc:rock/loose/andesite"},
+    {"chance": 0.60,"item": "tfc:ore/rich_limonite"},
+    {"chance": 0.50,"item": "tfc:ore/rich_garnierite"},
+    {"chance": 0.40,"item": "tfc:ore/graphite"},
+    {"chance": 0.30,"item": "tfc:ore/poor_garnierite"},
+    {"chance": 0.20,"item": "tfc:ore/poor_limonite"}
+  ],
+  "priority": 0,
+  "stress": 256,
+  "ticks": 400,
+  "vein_id": "tfc_ore_excavation:vein_type/pentlandite"
+}

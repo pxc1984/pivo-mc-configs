@@ -1,0 +1,17 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:rock/loose/granite"
+    },
+    {
+      "item": "tfc:rock/mossy_loose/granite"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:brick/granite",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "gliders",
+  "key": {
+    "F": {
+      "item": "create:sail_frame"
+    },
+    "R": {
+      "item": "vc_gliders:reinforced_paper_iron"
+    },
+    "H": {
+      "item": "sns:bound_leather_strip"
+    },
+    "S": {
+      "tag": "forge:handle/saw"
+    }
+  },
+  "pattern": [
+    "HRH",
+    "RFR",
+    "S S"
+  ],
+  "result": {
+    "item": "vc_gliders:paraglider_iron"
+  },
+  "show_notification": true
+}

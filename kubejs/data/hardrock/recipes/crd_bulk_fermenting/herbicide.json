@@ -1,0 +1,22 @@
+{
+  "type": "createdieselgenerators:bulk_fermenting",
+  "ingredients": [
+    {
+      "fluidTag": "forge:ethanol",
+      "amount": 500
+    },
+    {
+      "tag": "forge:dusts/sulfur"
+    },
+    {
+      "tag": "forge:ores/clean_dusts/copper"
+    }
+  ],
+  "processingTime": 600,
+  "results": [
+    {
+      "fluid": "immersiveengineering:herbicide",
+      "amount": 500
+    }
+  ]
+}

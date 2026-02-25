@@ -1,0 +1,14 @@
+{
+    "type": "vintageimprovements:hammering",
+    "hammerBlows": 16,
+    "ingredients": [
+        {
+            "tag": "forge:ingots/hastelloy"
+        }
+    ],
+    "results": [
+        {
+            "item": "immersivegeology:plate_hastelloy"
+        }
+    ]
+}

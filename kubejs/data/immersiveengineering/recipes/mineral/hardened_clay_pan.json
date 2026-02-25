@@ -1,0 +1,48 @@
+{
+    "type": "immersiveengineering:mineral_mix",
+    "dimensions": [
+        "minecraft:overworld"
+    ],
+    "fail_chance": 0.05,
+    "ores": [
+        {
+            "chance": 0.5,
+            "output": {
+                "item": "minecraft:terracotta"
+            }
+        },
+        {
+            "chance": 0.3,
+            "output": {
+                "item": "tfc:raw_sandstone/red"
+            }
+        },
+        {
+            "chance": 0.1,
+            "output": {
+                "item": "tfc:sand/red"
+            }
+        }
+    ],
+    "spoils": [
+        {
+            "chance": 0.4,
+            "output": {
+                "item": "tfc:dirt/sandy_loam"
+            }
+        },
+        {
+            "chance": 0.5,
+            "output": {
+                "item": "tfc:rock/gravel/chert"
+            }
+        },
+        {
+            "chance": 0.6,
+            "output": {
+                "item": "tfc:rock/loose/chert"
+            }
+        }
+    ],
+    "weight": 15
+}

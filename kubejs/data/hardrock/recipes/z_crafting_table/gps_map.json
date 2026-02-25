@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GMG",
+        " C "
+    ],
+    "key": {
+        "M": {"item": "map_atlases:atlas"},
+        "G": {"item": "pneumaticcraft:gps_tool"},
+        "C": {"item": "pneumaticcraft:module_expansion_card"}
+    },
+    "result": {
+        "count": 1,
+        "item": "kubejs:gps_map"
+    }
+}

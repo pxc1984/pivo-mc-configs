@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "group": "ig_tools",
+    "key": {
+        "B": {
+            "item": "tfc:metal/hammer_head/bronze"
+        },
+        "S": {
+            "tag": "forge:string"
+        },
+        "W": {
+            "tag": "forge:handle/stick"
+        }
+    },
+    "pattern": [
+        " BS",
+        " WB",
+        "W  "
+    ],
+    "result": {
+        "item": "immersivegeology:hammer_bronze"
+    },
+    "show_notification": true
+}

@@ -1,0 +1,9 @@
+{
+    "replace": true,
+    "values": [
+        "tfc:volcanic_mountains",
+        "tfc:volcanic_oceanic_mountains",
+        "tfc:volcanic_mountain_lake",
+        "tfc:volcanic_oceanic_mountain_lake"
+    ]
+}

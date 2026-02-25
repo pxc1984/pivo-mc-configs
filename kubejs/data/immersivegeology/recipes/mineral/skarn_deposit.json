@@ -1,0 +1,55 @@
+{
+    "type": "immersiveengineering:mineral_mix",
+    "dimensions": [
+        "minecraft:the_nether"
+    ],
+    "fail_chance": 0.25,
+    "ores": [
+        {
+            "chance": 0.25,
+            "output": {
+                "tag": "forge:normal_ore/pyrolusite"
+            }
+        },
+        {
+            "chance": 0.15,
+            "output": {
+                "tag": "forge:rich_ore/chalcopyrite"
+            }
+        },
+        {
+            "chance": 0.15,
+            "output": {
+                "tag": "forge:rich_ore/wolframite"
+            }
+        },
+        {
+            "chance": 0.15,
+            "output": {
+                "tag": "forge:rich_ore/molybdenite"
+            }
+        }
+    ],
+    "sample_background": "minecraft:basalt",
+    "spoils": [
+        {
+            "chance": 0.5,
+            "output": {
+                "item": "beneath:nether_pebble"
+            }
+        },
+        {
+            "chance": 0.55,
+            "output": {
+                "item": "tfc:rock/loose/basalt"
+            }
+        },
+        {
+            "chance": 0.5,
+            "output": {
+                "item": "tfcorewashing:pile_black_sand"
+            }
+        }
+    ],
+    "weight": 12
+}

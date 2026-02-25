@@ -1,0 +1,20 @@
+{
+    "type": "immersiveengineering:refinery",
+    "catalyst": {
+        "tag": "forge:plates/lead"
+    },
+    "energy": 80,
+    "input0": {
+        "amount": 2,
+        "tag": "minecraft:waters"
+    },
+    "input1": {
+        "amount": 50,
+        "tag": "forge:sulfur_dioxide"
+    },
+    "result": {
+        "amount": 6,
+        "fluid": "immersivegeology:fluid_sulfuric_acid"
+    },
+    "time": 1
+}

@@ -1,0 +1,98 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "tag": "minecraft:wooden_slabs"
+  },
+  "transitionalItem": {
+    "item": "kubejs:sq_coggear"
+  },
+  "sequence": [
+    {
+      "type":"vintageimprovements:turning",
+      "ingredients": [
+        {
+          "item": "kubejs:sq_coggear"
+        },
+        {
+          "item": "minecraft:glass"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:sq_coggear"
+        }
+      ]
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "kubejs:sq_coggear"
+        },
+        {
+          "item": "minecraft:glass"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:sq_coggear"
+        }
+      ]
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "kubejs:sq_coggear"
+        },
+        {
+          "item": "minecraft:glass"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:sq_coggear"
+        }
+      ]
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "kubejs:sq_coggear"
+        },
+        {
+          "item": "minecraft:glass"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:sq_coggear"
+        }
+      ]
+    },
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "kubejs:sq_coggear"
+        },
+        {
+          "item": "minecraft:glass"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:sq_coggear"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "create_hc:gear_small",
+      "count": 2
+    }
+  ],
+  "loops": 1
+}

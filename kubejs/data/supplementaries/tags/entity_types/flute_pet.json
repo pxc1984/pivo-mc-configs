@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    {"id":"tfc:horse","required":false},
+    {"id":"tfc:mule","required":false},
+    {"id":"tfc:donkey","required":false},
+    {"id":"tfc:alpaca","required":false},
+    {"id":"tfc:yak","required":false},
+    {"id":"tfc:sheep","required":false},
+    {"id":"tfc:musk_ox","required":false},
+    {"id":"tfc:fox","required":false}
+  ]
+}
+

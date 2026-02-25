@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PPP",
+    "III",
+    "WAW"
+  ],
+  "key": {
+    "P": [ 
+          { "item": "tfc:wood/planks/hickory" },
+          { "item": "tfc:wood/planks/maple" },
+          { "item": "tfc:wood/planks/sequoia" },
+          { "item": "tfc:wood/planks/chestnut" }
+    ],
+    "I": { "tag": "forge:double_sheets/cast_iron" },
+    "A": { "tag": "tfc:axles" },
+    "W": { "item": "trotting_wagons:wheel" }
+  },
+  "result": { "item": "trotting_wagons:armored_wagon" }
+}

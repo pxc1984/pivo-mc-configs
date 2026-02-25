@@ -1,0 +1,18 @@
+{
+  "type": "sewingkit:sewing",
+  "materials": [
+    {
+      "ingredient": {
+        "tag":"forge:leather/sheet"
+      },
+      "count": 1
+    }
+  ],
+  "tool": {
+    "tag": "forge:shears"
+  },
+  "result": {
+    "item":"tfc_items:leather_strip",
+    "count": 3
+  }
+}
