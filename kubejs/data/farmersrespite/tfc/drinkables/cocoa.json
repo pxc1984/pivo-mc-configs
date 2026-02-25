@@ -1,0 +1,12 @@
+{
+  "ingredient": [
+    {"tag": "forge:drink/cocoa"}
+  ],
+  "thirst": 5,
+  "effects": [
+    {
+      "type": "cold_sweat:warmth",
+      "duration": 1000
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+    "type": "immersiveengineering:mineral_mix",
+    "dimensions": [
+        "minecraft:overworld"
+    ],
+    "fail_chance": 0.05,
+    "ores": [
+        {
+            "chance": 0.4,
+            "output": {
+                "item": "tfc:ore/lignite"
+            }
+        },
+        {
+            "chance": 0.7,
+            "output": {
+                "item": "tfc:ore/bituminous_coal"
+            }
+        },
+        {
+            "chance": 0.3,
+            "output": {
+                "tag": "forge:normal_ore/anthracite"
+            }
+        },
+        {
+            "chance": 0.3,
+            "output": {
+                "item": "tfc:ore/graphite"
+            }
+        },
+        {
+            "chance": 0.2,
+            "conditions": [
+                {
+                    "type": "forge:not",
+                    "value": {
+                        "type": "forge:tag_empty",
+                        "tag": "forge:dusts/phosphorus"
+                    }
+                }
+            ],
+            "output": {
+                "tag": "forge:dusts/phosphorus"
+            }
+        }
+    ],
+    "sample_background": "minecraft:coal_block",
+    "spoils": [
+        {
+            "chance": 0.55,
+            "output": {
+                "item": "tfc:rock/loose/basalt"
+            }
+        },
+        {
+            "chance": 0.5,
+            "output": {
+                "item": "tfcorewashing:pile_black_sand"
+            }
+        },
+        {
+            "chance": 0.45,
+            "output": {
+                "item": "tfcorewashing:rock_powder"
+            }
+        }
+    ],
+    "weight": 25
+}

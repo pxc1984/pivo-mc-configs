@@ -1,0 +1,31 @@
+{
+  "type": "tfmg:vat_machine_recipe",
+  "allowedVatTypes": [
+    "tfmg:steel_vat",
+    "tfmg:firebrick_lined_vat"
+  ],
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "tfmg:coal_coke_dust"
+    },
+    {
+      "amount": 250,
+      "fluid": "tfmg:ethylene",
+      "nbt": {}
+    }
+  ],
+  "machines": [
+    "tfmg:mixing"
+  ],
+  "minSize": 1,
+  "results": [
+    {
+      "amount": 500,
+      "fluid": "pneumaticcraft:plastic"
+    },
+    {
+      "item": "tfmg:bitumen"
+    }
+  ]
+}

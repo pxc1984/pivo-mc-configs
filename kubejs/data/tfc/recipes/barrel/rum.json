@@ -1,0 +1,8 @@
+{
+    "type":"tfc:barrel_sealed",
+    "input_item":{"ingredient":{"tag":"forge:dusts/charcoal"}},
+    "input_fluid":{"ingredient":"kubejs:rum_distillated","amount":500},
+    "output_fluid":{"fluid":"tfc:rum","amount":500},
+    "duration":8600000
+
+}

@@ -1,0 +1,21 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:pot",
+  "ingredients": [
+    {"item": "farmersrespite:coffee_berries"},
+    {"item": "farmersrespite:coffee_berries"},
+    {"item": "farmersrespite:coffee_berries"},
+    {"item": "minecraft:glow_berries"},
+    {"item": "minecraft:glow_berries"}
+  ],
+  "fluid_ingredient": {
+    "ingredient": "minecraft:water",
+    "amount": 1000
+  },
+  "duration": 2400,
+  "temperature": 600,
+  "fluid_output": {
+    "fluid": "farmersrespite:gamblers_tea",
+    "amount": 1000
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "spartanweaponry:type_disabled",
+      "disabled": [
+        "cestus"
+      ]
+    }
+  ],
+  "group": "spartanweaponry:cestus",
+  "key": {
+    "#": [
+      {"tag": "forge:nails/handful/wrought_iron"},
+      {"tag": "forge:rivets/handful/wrought_iron"},
+      {"tag": "forge:screws/handful/wrought_iron"}
+    ],
+    "C": {
+      "item": "spartanweaponry:cestus"
+    }
+  },
+  "pattern": [
+    "##",
+    "C#"
+  ],
+  "result": {
+    "item": "spartanweaponry:studded_cestus"
+  }
+}

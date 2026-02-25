@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BMB",
+    "SCX",
+    "BMB"
+  ],
+  "key": {
+    "M": {
+      "item": "manure:manure"
+    },
+    "C": {
+      "item": "tfc:compost"
+    },
+    "S": {
+      "item": "tfc:powder/saltpeter"
+    },
+    "X": {
+      "item": "tfc:powder/sylvite"
+    },
+    "B": {
+      "item": "minecraft:bone_meal"
+    }
+  },
+  "result": {
+    "item": "create:tree_fertilizer",
+    "count":4
+  }
+}

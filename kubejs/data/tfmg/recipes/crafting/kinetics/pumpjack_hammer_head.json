@@ -1,0 +1,7 @@
+
+{
+  "type": "create:cutting",
+  "ingredients": [{"tag": "forge:storage_blocks/cast_iron"}],
+  "results": [{"item": "tfmg:pumpjack_hammer_head"}],
+  "processingTime": 50
+}

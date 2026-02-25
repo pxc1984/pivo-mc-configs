@@ -1,0 +1,36 @@
+{
+    "type": "immersiveengineering:arc_furnace",
+    "additives": [
+        {
+            "base_ingredient": {
+                "tag": "forge:grits/chromium"
+            },
+            "count": 2
+        },
+        {
+            "base_ingredient": {
+                "tag": "forge:dusts/nickel"
+            },
+            "count": 1
+        }
+    ],
+    "energy": 204800,
+    "input": {
+        "base_ingredient": {
+            "tag": "forge:dusts/steel"
+        },
+        "count": 7
+    },
+    "results": [
+        {
+            "base_ingredient": {
+            "tag": "forge:ingots/stainless_steel"
+        },
+        "count": 10
+        }
+    ],
+    "slag": {
+        "item": "immersiveengineering:slag"
+    },
+    "time": 400
+}

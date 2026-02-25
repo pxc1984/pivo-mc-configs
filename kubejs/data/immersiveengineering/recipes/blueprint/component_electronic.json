@@ -1,0 +1,11 @@
+{
+    "type":"immersiveengineering:blueprint",
+    "category":"components",
+    "inputs":[
+        {"tag":"forge:treated_wood_slab"},
+        {"item":"tfc_ie_addon:mineral/quartz_shard"},
+        {"tag":"forge:wires/red_steel"},
+        {"tag":"forge:springs/electrum"}
+    ],
+    "result":{"item":"immersiveengineering:component_electronic"}
+}

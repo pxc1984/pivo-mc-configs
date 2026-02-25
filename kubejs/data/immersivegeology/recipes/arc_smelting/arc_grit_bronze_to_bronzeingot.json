@@ -1,0 +1,18 @@
+{
+    "type": "immersiveengineering:arc_furnace",
+    "additives": [
+        
+    ],
+    "energy": 204800,
+    "input": {
+        "tag": "forge:grits/bronze"
+    },
+    "results": [
+        {
+            "base_ingredient": {
+                "tag": "forge:ingots/bronze"
+            }
+        }
+    ],
+    "time": 400
+}

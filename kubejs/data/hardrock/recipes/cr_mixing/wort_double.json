@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluid": "kubejs:boiled_water",
+      "nbt": {},
+      "amount": 1000
+    },
+    {
+      "item": "kubejs:barley_malt_grist"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "item": "kubejs:barley_malt_grist"
+    }
+  ],
+  "processingTime": 2400,
+  "results": [
+    {
+      "fluid": "kubejs:double_wort",
+      "nbt": {},
+      "amount": 1000
+    }
+  ],
+  "heatRequirement": "heated"
+}

@@ -1,0 +1,8 @@
+{
+  "values": [
+    "immersiveengineering:coal_coke",
+    "tfc:ore/lignite",
+    "tfc:ore/bituminous_coal",
+    "createaddition:biomass_pellet"
+  ]
+}

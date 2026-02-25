@@ -1,0 +1,17 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:rock/loose/schist"
+    },
+    {
+      "item": "tfc:rock/mossy_loose/schist"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:brick/schist",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+	"type": "createdieselgenerators:basin_fermenting",
+	"ingredients": [
+	  {
+		"fluid": "tfc:sake",
+		"amount": 1000
+	  }
+	],
+	"processingTime": 6000,
+	"results": [
+	  {
+		"fluid": "kubejs:alcohol",
+		"amount": 50
+	  },
+	  {
+		"fluid": "kubejs:purified_water",
+		"amount": 500
+	  }
+	]
+  }

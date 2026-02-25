@@ -1,0 +1,14 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"tag": "forge:plates/stainless_steel"},
+    "transitionalItem": {"item": "immersivegeology:plate_stainless_steel"},
+    "sequence": [
+      {"type": "create:deploying","ingredients": [{"tag": "immersivegeology:plate_stainless_steel"}, {"tag": "forge:plates/stainless_steel"}],"results": [{"item": "immersivegeology:plate_stainless_steel"}]},
+      {"type": "create:pressing","ingredients": [{"item": "immersivegeology:plate_stainless_steel"}],"results": [{"item": "immersivegeology:plate_stainless_steel"}]},
+      {"type": "create:pressing","ingredients": [{"item": "immersivegeology:plate_stainless_steel"}],"results": [{"item": "immersivegeology:plate_stainless_steel"}]},
+      {"type": "create:pressing","ingredients": [{"item": "immersivegeology:plate_stainless_steel"}],"results": [{"item": "immersivegeology:plate_stainless_steel"}]},
+      {"type": "create:pressing","ingredients": [{"item": "immersivegeology:plate_stainless_steel"}],"results": [{"item": "immersivegeology:plate_stainless_steel"}]}
+    ],
+    "results": [{"item": "immersivegeology:sheetmetal_block_stainless_steel"}],
+    "loops": 1
+  }

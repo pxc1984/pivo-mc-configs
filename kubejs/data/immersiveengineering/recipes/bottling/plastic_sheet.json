@@ -1,0 +1,11 @@
+{
+    "type":"immersiveengineering:bottling_machine",
+    "results":[
+        {"item":"tfmg:plastic_sheet"},
+        {"item":"immersiveengineering:mold_plate"}
+        ],
+    "inputs":[
+        {"item":"immersiveengineering:mold_plate"}
+        ],
+    "fluid":{"tag":"forge:molten_plastic","amount":100}
+}

@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "artisanal:ceramic/dirty_small_pot"
+    },
+    {
+      "amount": 100,
+      "fluid": "artisanal:soapy_water",
+      "nbt": {}
+    }
+  ],
+  "processingTime": 120,
+  "results": [
+    {
+      "item": "artisanal:ceramic/small_pot"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "__comment__": "This file was created by HTFC4",
+  "ingredient": "tfc:dirt/silty_loam",
+  "model_stages": [
+    "tfc:item/pan/cassiterite/basalt_full",
+    "tfc:item/pan/cassiterite/dolomite_full",
+    "tfc:item/pan/cassiterite/shale_full",
+    "tfc:item/pan/cassiterite/gabbro_full",
+    "tfc:item/pan/cassiterite/gabbro_half",
+    "tfc:item/pan/cassiterite/andesite_half",
+    "tfc:item/pan/cassiterite/slate_half",
+    "tfc:item/pan/cassiterite/quartzite_half",
+    "tfc:item/pan/cassiterite/chalk_half"
+  ],
+  "loot_table": "hardrock:panning/dirt"
+}

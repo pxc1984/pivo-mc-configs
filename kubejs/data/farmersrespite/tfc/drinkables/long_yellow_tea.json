@@ -1,0 +1,12 @@
+{
+  "ingredient": [
+    "farmersrespite:long_yellow_tea"
+  ],
+  "thirst": 10,
+  "effects": [
+    {
+      "type": "minecraft:resistance",
+      "duration": 4800
+    }
+  ]
+}

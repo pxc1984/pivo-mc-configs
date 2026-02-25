@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "forge:stamens/copper"
+    },
+    "S": [
+      {
+        "tag": "forge:cloth"
+      },
+      {
+        "tag": "forge:paper"
+      }
+    ]
+  },
+  "pattern": [
+    "ASA"
+  ],
+  "result": {
+    "item": "createdieselgenerators:entity_filter"
+  },
+  "show_notification": true
+}

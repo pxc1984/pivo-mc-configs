@@ -1,0 +1,20 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "artisanal:soap"
+    },
+    {
+      "amount": 9,
+      "fluidTag": "minecraft:waters",
+      "nbt": {}
+    }
+  ],
+  "processingTime": 240,
+  "results": [
+    {
+      "fluid": "artisanal:soapy_water",
+      "amount": 1000
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "type": "lychee:block_interacting",
+  "post": [
+    {
+      "type": "drop_item",
+      "contextual": [
+        {
+          "type": "chance",
+          "chance": 0.75
+        }
+      ],
+      "item": "kubejs:aspergillus_oryzae_spores"
+    },
+    {
+      "type": "place",
+      "contextual": [
+        {
+          "type": "chance",
+          "chance": 0.50
+        }
+      ],
+      "block": "minecraft:air"
+    },
+    {
+      "type": "damage_item"
+    }
+  ],
+  "item_in": {
+    "tag": "tfc:knives"
+  },
+  "block_in": {
+    "blocks": [
+      "tfc:plant/artists_conk"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "replace": true,
+  "values": [
+    "dttfc_seeds:roast_willow_seed",
+    "dttfc_seeds:roast_white_cedar_seed",
+    "dttfc_seeds:roast_sycamore_seed",
+    "dttfc_seeds:roast_spruce_seed",
+    "dttfc_seeds:roast_sequoia_seed",
+    "dttfc_seeds:roast_rosewood_seed",
+    "dttfc_seeds:roast_pine_seed",
+    "dttfc_seeds:roast_palm_seed",
+    "dttfc_seeds:roast_oak_seed",
+    "dttfc_seeds:roast_maple_seed",
+    "dttfc_seeds:roast_mangrove_seed",
+    "dttfc_seeds:roast_kapok_seed",
+    "dttfc_seeds:roast_hickory_seed",
+    "dttfc_seeds:roast_douglas_fir_seed",
+    "dttfc_seeds:roast_chestnut_seed",
+    "dttfc_seeds:roast_blackwood_seed",
+    "dttfc_seeds:roast_birch_seed",
+    "dttfc_seeds:roast_aspen_seed",
+    "dttfc_seeds:roast_ash_seed",
+    "dttfc_seeds:roast_acacia_seed"
+  ]
+}

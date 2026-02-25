@@ -1,0 +1,1 @@
+PlayerEvents.loggedIn(event => { event.server.runCommandSilent(`decstages add ${event.player.username} structure_restriction`) })

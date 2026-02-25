@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:blaze_powder"
+    },
+    "R": {
+      "tag": "forge:rods/netherite"
+    },
+    "F": {
+      "tag": "forge:rods/blue_steel"
+    },
+    "U": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "H": {
+      "tag": "forge:gems"
+    }
+  },
+  "pattern": [
+    "HRH",
+    "RBR",
+    "FUF"
+  ],
+  "result": {
+    "item": "vc_gliders:nether_upgrade"
+  },
+  "show_notification": true
+}

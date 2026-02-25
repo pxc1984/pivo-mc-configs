@@ -1,0 +1,17 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:rock/loose/gneiss"
+    },
+    {
+      "item": "tfc:rock/mossy_loose/gneiss"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:brick/gneiss",
+      "count": 1
+    }
+  ]
+}

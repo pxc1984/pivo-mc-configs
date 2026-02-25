@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "tfc:ceramic/unfired_pan"
+    },
+    "result": "tfc:pan/empty",
+    "experience": 0,
+    "cookingtime": 4000
+}

@@ -1,0 +1,23 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SB",
+    "RR",
+    "RR"
+  ],
+  "key": {
+    "S": {
+      "tag": "forge:sheets/steel"
+    },
+    "R": {
+      "tag": "forge:rods/steel"
+    },
+    "B": {
+      "item": "tfc:brass_mechanisms"
+    }
+  },
+  "result": {
+    "item": "firmalife:picker"
+  }
+}

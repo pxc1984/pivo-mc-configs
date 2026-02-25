@@ -1,0 +1,15 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"tag": "forge:ingots/hastelloy"},
+    "transitionalItem": {"item": "create:gantry_shaft"},
+    "sequence": [
+      {"type": "create:deploying","ingredients": [{"tag": "create:gantry_shaft"}, {"tag": "forge:plates/hastelloy"}],"results": [{"item": "create:gantry_shaft"}]},
+      {"type": "create:pressing","ingredients": [{"item": "create:gantry_shaft"}],"results": [{"item": "create:gantry_shaft"}]},
+      {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"tag": "forge:wires/constantan"}],"results": [{"item": "create:gantry_shaft"}]},
+      {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"tag": "forge:wires/electrum"}],"results": [{"item": "create:gantry_shaft"}]},
+      {"type": "create:pressing","ingredients": [{"item": "create:gantry_shaft"}],"results": [{"item": "create:gantry_shaft"}]},
+      {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"item": "tfc:brass_mechanisms"}],"results": [{"item": "create:gantry_shaft"}]}
+    ],
+    "results": [{"item": "immersivegeology:mechanical_component_hastelloy"}],
+    "loops": 1
+  }

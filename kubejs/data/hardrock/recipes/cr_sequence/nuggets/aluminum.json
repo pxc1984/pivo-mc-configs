@@ -1,0 +1,16 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"tag": "forge:rods/aluminum"},
+  "transitionalItem": {"item": "tfc_items:aluminum_rod"},
+  "sequence": [
+    {"type": "create:cutting","ingredients": [{"item": "tfc_items:aluminum_rod"}],"results": [{"item": "tfc_items:aluminum_rod"}]},
+    {"type": "create:cutting","ingredients": [{"item": "tfc_items:aluminum_rod"}],"results": [{"item": "tfc_items:aluminum_rod"}]},
+    {"type": "create:cutting","ingredients": [{"item": "tfc_items:aluminum_rod"}],"results": [{"item": "tfc_items:aluminum_rod"}]},
+    {"type": "create:cutting","ingredients": [{"item": "tfc_items:aluminum_rod"}],"results": [{"item": "tfc_items:aluminum_rod"}]}
+  ],
+  "results": [
+    {"item": "immersiveengineering:nugget_aluminum","count": 5}    
+  ],
+  "loops": 1
+}
+

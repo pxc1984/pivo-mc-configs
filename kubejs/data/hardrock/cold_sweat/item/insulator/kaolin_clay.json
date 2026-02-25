@@ -1,0 +1,12 @@
+{
+  "type": "item",
+  "insulation": {
+    "heat": 2,
+    "cold": 0
+  },
+  "item": {
+    "items": [
+      "tfc:kaolin_clay"
+    ]
+  }
+}

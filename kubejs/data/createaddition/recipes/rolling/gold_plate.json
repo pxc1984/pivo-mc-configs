@@ -1,0 +1,66 @@
+{
+	"conditions": [
+	  {
+		"type": "forge:mod_loaded",
+		"modid": "create"
+	  }
+	],
+	"type": "create:sequenced_assembly",
+	"ingredient": {
+	  "type": "tfc:heatable",
+	  "min_temp": 640,
+	  "ingredient": {
+		"tag": "forge:stamens/gold"
+	  }
+	},
+	"transitionalItem": {
+	  "item": "kubejs:sq_wire"
+	},
+	"sequence": [
+	  {
+		"type": "createaddition:rolling",
+		"ingredients": [
+		  {
+			"item": "kubejs:sq_wire"
+		  }
+		],
+		"results": [
+		  {
+			"item": "kubejs:sq_wire"
+		  }
+		]
+	  },
+	  {
+		"type": "createaddition:rolling",
+		"ingredients": [
+		  {
+			"item": "kubejs:sq_wire"
+		  }
+		],
+		"results": [
+		  {
+			"item": "kubejs:sq_wire"
+		  }
+		]
+	  },
+	  {
+		"type": "createaddition:rolling",
+		"ingredients": [
+		  {
+			"item": "kubejs:sq_wire"
+		  }
+		],
+		"results": [
+		  {
+			"item": "kubejs:sq_wire"
+		  }
+		]
+	  }
+	],
+	"results": [
+	  {
+		"item": "createaddition:gold_wire"
+	  }
+	],
+	"loops": 2
+  }

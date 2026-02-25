@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "ig_engineering",
+    "key": {
+        "C": {
+            "tag": "forge:buckets/liquid_concrete"
+        },
+        "P": {
+            "tag": "forge:plates/titanium"
+        },
+        "R": {
+            "tag": "forge:rods/titanium"
+        },
+        "W": {
+            "tag": "forge:wires/titanium"
+        }
+    },
+    "pattern": [
+        "PWP",
+        "RCR",
+        "PWP"
+    ],
+    "result": {
+        "count": 9,
+        "item": "immersivegeology:storage_block_trconcrete"
+    },
+    "show_notification": true
+}

@@ -1,0 +1,67 @@
+{
+    "type": "immersiveengineering:mineral_mix",
+    "dimensions": [
+        "minecraft:overworld"
+    ],
+    "fail_chance": 0.1,
+    "ores": [
+        {
+            "chance": 0.35,
+            "output": {
+                "tag": "forge:normal_ore/chalcocite"
+            }
+        },
+        {
+            "chance": 0.3,
+            "output": {
+                "tag": "forge:normal_ore/copper"
+            }
+        },
+        {
+            "chance": 0.15,
+            "output": {
+                "tag": "forge:normal_ore/gold"
+            }
+        },
+        {
+            "chance": 0.1,
+            "output": {
+                "tag": "forge:normal_ore/pyrite"
+            }
+        },
+        {
+            "chance": 0.05,
+            "output": {
+                "tag": "forge:rich_ore/copper"
+            }
+        },
+        {
+            "chance": 0.05,
+            "output": {
+                "tag": "forge:rich_ore/gold"
+            }
+        }
+    ],
+    "sample_background": "minecraft:stone",
+    "spoils": [
+        {
+            "chance": 0.55,
+            "output": {
+                "item": "tfc:rock/loose/limestone"
+            }
+        },
+        {
+            "chance": 0.5,
+            "output": {
+                "item": "tfcorewashing:pile_brown_sand"
+            }
+        },
+        {
+            "chance": 0.45,
+            "output": {
+                "item": "tfcorewashing:rock_powder"
+            }
+        }
+    ],
+    "weight": 30
+}

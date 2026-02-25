@@ -1,0 +1,12 @@
+{
+  "ingredient": [
+    "farmersrespite:long_coffee"
+  ],
+  "thirst": 5,
+  "effects": [
+    {
+      "type": "farmersrespite:caffeinated",
+      "duration": 1600
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "kubejs:barley_malt"
+  },
+  "result": {
+    "item": "kubejs:barley_malt_grist",
+    "count": 1
+  }
+}

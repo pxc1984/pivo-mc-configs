@@ -1,0 +1,31 @@
+{
+  "type": "lychee:random_block_ticking",
+  "contextual": [
+    {
+      "type": "chance",
+      "chance": 0.5
+    }
+  ],
+  "post": [
+    {
+      "type": "place",
+      "block": "tfc:metal/bars/copper"
+    },
+    {
+      "type": "drop_item",
+      "item": "minecraft:blaze_powder",
+      "count": 1
+    },
+    {
+      "type": "explode",
+      "offsetX": 1,
+      "offsetY": 1,
+      "offsetZ": 1,
+      "fire": true,
+      "block_interaction": "none",
+      "radius": 2,
+      "radius_step": 2
+    }
+  ],
+  "block_in": "supplementaries:blaze_rod"
+}

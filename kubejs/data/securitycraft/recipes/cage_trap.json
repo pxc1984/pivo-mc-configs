@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":["btb","tmt","btb"],"key":{"m":{"item":"tfc:brass_mechanisms"},"b":{"item":"securitycraft:reinforced_iron_bars"},"t":{"tag":"forge:screws/handful/wrought_iron"}},"result":{"item":"securitycraft:cage_trap","count":1}}

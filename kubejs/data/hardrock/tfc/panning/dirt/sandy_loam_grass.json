@@ -1,0 +1,16 @@
+{
+  "__comment__": "This file was created by HTFC4",
+  "ingredient": "tfc:grass/sandy_loam",
+  "model_stages": [
+    "tfc:item/pan/cassiterite/claystone_full",
+    "tfc:item/pan/cassiterite/conglomerate_full",
+    "tfc:item/pan/cassiterite/schist_full",
+    "tfc:item/pan/cassiterite/gneiss_full",
+    "tfc:item/pan/cassiterite/gneiss_half",
+    "tfc:item/pan/cassiterite/slate_half",
+    "tfc:item/pan/cassiterite/diorite_half",
+    "tfc:item/pan/cassiterite/quartzite_half",
+    "tfc:item/pan/cassiterite/chalk_half"
+  ],
+  "loot_table": "hardrock:panning/dirt_grass"
+}

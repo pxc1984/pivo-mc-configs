@@ -1,0 +1,21 @@
+{
+  "type": "createdieselgenerators:bulk_fermenting",
+  "ingredients": [
+    {
+      "item": "tfc_loot:endstone_rock"
+    }
+  ],
+  "heatRequirement": "superheated",
+  "processingTime": 900,
+  "results": [
+    {
+      "fluid": "minecraft:lava",
+      "amount": 5
+    },
+    {
+      "fluid": "minecraft:lava",
+      "amount": 2,
+      "chance": 0.25
+    }
+  ]
+}

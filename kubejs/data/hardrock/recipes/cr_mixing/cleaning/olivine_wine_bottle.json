@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "firmalife:olivine_wine_bottle"
+    },
+    {
+      "amount": 100,
+      "fluid": "artisanal:soapy_water",
+      "nbt": {}
+    }
+  ],
+  "processingTime": 120,
+  "results": [
+    {
+      "item": "firmalife:empty_olivine_wine_bottle"
+    }
+  ]
+}

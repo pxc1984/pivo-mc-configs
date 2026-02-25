@@ -1,0 +1,19 @@
+{
+  "ingredient": "tfc:rye_whiskey",
+  "thirst": 15,
+  "intoxication": 2000,
+  "may_drink_when_full": true,
+  "effects": [
+    {
+      "type": "minecraft:haste",
+      "duration": 6400,
+      "amplifier": 1,
+      "chance": 0.95
+    },
+    {
+      "type": "brewery:drunk",
+      "duration": 24000,
+      "chance": 0.40
+    }
+  ]
+}

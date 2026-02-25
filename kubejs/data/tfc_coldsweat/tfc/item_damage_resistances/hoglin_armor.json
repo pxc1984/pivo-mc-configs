@@ -1,0 +1,19 @@
+{
+  "ingredient": [
+    {
+      "item": "cold_sweat:hoglin_helmet"
+    },
+    {
+      "item": "cold_sweat:hoglin_chestplate"
+    },
+    {
+      "item": "cold_sweat:hoglin_leggings"
+    },
+    {
+      "item": "cold_sweat:hoglin_boots"
+    }
+  ],
+  "piercing": 1,
+  "slashing": 3,
+  "crushing": 1
+}

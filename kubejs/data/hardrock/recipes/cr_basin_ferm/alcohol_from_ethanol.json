@@ -1,0 +1,20 @@
+{
+	"type": "createdieselgenerators:basin_fermenting",
+	"ingredients": [
+	  {
+		"fluidTag": "forge:ethanol",
+		"amount": 1000
+	  }
+	],
+	"processingTime": 12000,
+	"results": [
+	  {
+		"fluid": "kubejs:alcohol",
+		"amount": 200
+	  },
+	  {
+		"fluid": "kubejs:purified_water",
+		"amount": 200
+	  }
+	]
+  }

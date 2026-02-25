@@ -1,0 +1,17 @@
+{
+  "__comment__": "This file was created by tfch",
+  "type": "tfc:barrel_sealed",
+  "input_item": {
+    "ingredient": {
+      "tag": "forge:gems/quartz"
+    }
+  },
+  "input_fluid": {
+    "ingredient": "immersiveengineering:redstone_acid",
+    "amount": 1000
+  },
+  "output_item": {
+    "item": "create:rose_quartz"
+  },
+  "duration": 12000
+}

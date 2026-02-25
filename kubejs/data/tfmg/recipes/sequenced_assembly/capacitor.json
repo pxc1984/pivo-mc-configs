@@ -1,0 +1,87 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "tag": "forge:foils/electrum"
+  },
+  "loops": 2,
+  "results": [
+    {
+      "count": 2,
+      "item": "tfmg:capacitor_item"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tfmg:unfinished_capacitor"
+        },
+        {
+          "tag": "forge:small_springs/copper"
+        }
+      ],
+      "results": [
+        {
+          "item": "tfmg:unfinished_capacitor"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tfmg:unfinished_capacitor"
+        },
+        {
+          "tag": "forge:nuggets/gold"
+        }
+      ],
+      "results": [
+        {
+          "item": "tfmg:unfinished_capacitor"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tfmg:unfinished_capacitor"
+        },
+        {
+          "tag": "forge:small_springs/copper"
+        }
+      ],
+      "results": [
+        {
+          "item": "tfmg:unfinished_capacitor"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tfmg:unfinished_capacitor"
+        },
+        {
+          "tag": "forge:nuggets/gold"
+        }
+      ],
+      "results": [
+        {
+          "item": "tfmg:unfinished_capacitor"
+        }
+      ]
+    },
+    {
+        "type": "create:filling",
+        "ingredients": [{"item": "tfmg:unfinished_capacitor"},{"fluidTag": "forge:molten_plastic","nbt": {},"amount": 100}],
+        "results": [{"item": "tfmg:capacitor_item"}]
+    }
+  ],
+  "transitionalItem": {
+    "item": "tfmg:unfinished_capacitor"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/charcoal"
+    },
+    {
+      "fluid": "kubejs:whiskey_distillated",
+      "nbt": {},
+      "amount": 500
+    },
+    {
+      "type": "tfc:not_rotten",
+      "ingredient": {
+        "item": "tfc:food/maize_flour"
+      }
+    },
+    {
+      "fluid": "kubejs:boiled_water",
+      "nbt": {},
+      "amount": 500
+    }
+  ],
+  "processingTime": 2000,
+  "results": [
+    {
+      "fluid": "kubejs:young_corn_whiskey",
+      "amount": 1000
+    }
+  ]
+}

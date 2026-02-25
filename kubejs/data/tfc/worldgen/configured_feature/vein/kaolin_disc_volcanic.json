@@ -1,0 +1,26 @@
+{
+    "type": "tfc:kaolin_disc_vein",
+    "config": {
+        "rarity": 15,
+        "min_y": 60,
+        "max_y": 120,
+        "size": 25,
+        "height": 6,
+        "density": 1.0,
+        "random_name": "kaolin_volcanic",
+        "biomes": "#tfc:kaolin_clay_volcanic",
+        "indicator": {
+            "depth": 35,
+            "spread": 5,
+            "rarity": 10,
+            "underground_rarity": 1,
+            "underground_count": 0,
+            "blocks": [
+                {
+                    "block": "tfc:plant/blood_lily"
+                }
+            ]
+        },
+        "blocks": []
+    }
+}

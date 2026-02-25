@@ -1,0 +1,29 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/charcoal"
+    },
+    {
+      "fluid": "kubejs:whiskey_distillated",
+      "nbt": {},
+      "amount": 500
+    },
+    {
+      "item": "farmersrespite:black_tea_leaves"
+    },
+    {
+      "fluid":"kubejs:boiled_water",
+      "nbt": {},
+      "amount": 500
+    }
+  ],
+  "processingTime": 2000,
+  "results": [
+    {
+      "fluid": "kubejs:young_whiskey",
+      "amount": 1000
+    }
+  ]
+}
+

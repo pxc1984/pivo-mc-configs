@@ -1,0 +1,17 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:rock/loose/basalt"
+    },
+    {
+      "item": "tfc:rock/mossy_loose/basalt"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:brick/basalt",
+      "count": 1
+    }
+  ]
+}

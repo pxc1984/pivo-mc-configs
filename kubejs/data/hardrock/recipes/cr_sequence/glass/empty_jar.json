@@ -1,0 +1,89 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+        "type": "tfc:heatable",
+        "min_temp": 640,
+        "ingredient": {
+            "item": "tfc:silica_glass_batch"
+        }
+    },
+    "transitionalItem": {
+        "item": "tfc:silica_glass_batch"
+    },
+    "sequence": [
+        {
+            "type": "create:deploying",
+            "ingredients": [
+                {
+                    "item": "tfc:silica_glass_batch"
+                },
+                {
+                    "item": "minecraft:bone_meal"
+                }
+            ],
+            "results": [
+                {
+                    "item": "tfc:silica_glass_batch"
+                }
+            ],
+            "keepHeldItem": true
+        },
+        {
+            "type": "create:deploying",
+            "ingredients": [
+                {
+                    "item": "tfc:silica_glass_batch"
+                },
+                {
+                    "tag": "tfc:blowpipes"
+                }
+            ],
+            "results": [
+                {
+                    "item": "tfc:silica_glass_batch"
+                }
+            ],
+            "keepHeldItem": true
+        },
+        {
+            "type": "create:deploying",
+            "ingredients": [
+                {
+                    "item": "tfc:silica_glass_batch"
+                },
+                {
+                    "item": "tfc:jacks"
+                }
+            ],
+            "results": [
+                {
+                    "item": "tfc:silica_glass_batch"
+                }
+            ],
+            "keepHeldItem": true
+        },
+        {
+            "type": "create:deploying",
+            "ingredients": [
+                {
+                    "item": "tfc:silica_glass_batch"
+                },
+                {
+                    "item": "tfc:gem_saw"
+                }
+            ],
+            "results": [
+                {
+                    "item": "tfc:silica_glass_batch"
+                }
+            ],
+            "keepHeldItem": true
+        }
+    ],
+    "results": [
+        {
+            "item": "tfc:empty_jar"
+        }
+    ],
+    "loops": 1
+}

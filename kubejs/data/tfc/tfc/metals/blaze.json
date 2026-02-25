@@ -1,0 +1,8 @@
+{
+  "tier":4,
+  "fluid":"kubejs:molten_blaze",
+  "melt_temperature":1485,
+  "specific_heat_capacity":0.00857,
+  "ingots":{"tag":"forge:ingots/ender"},
+  "sheets":{"tag":"forge:sheets/ender"}
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WHS",
+    "HCR",
+    "SRW"
+  ],
+  "key": {
+    "C": [
+      {
+        "tag": "spartanweaponry:heavy_crossbows"
+      }
+    ],
+    "H": [
+      {
+        "tag": "vintageimprovements:small_springs"
+      }
+    ],
+    "W": [
+      {
+        "tag": "tfc:lumber"
+      }
+    ],
+    "S": [
+      {
+        "tag": "forge:screws/handful"
+      }
+    ],
+    "R": [
+      {
+        "tag": "forge:rings"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_aircraft:heavy_crossbow"
+  }
+}

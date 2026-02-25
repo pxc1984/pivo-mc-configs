@@ -1,0 +1,19 @@
+{
+  "ingredient": "tfc:vodka",
+  "thirst": 15,
+  "intoxication": 2000,
+  "may_drink_when_full": true,
+  "effects": [
+    {
+      "type": "minecraft:resistance",
+      "duration": 3200,
+      "amplifier": 1,
+      "chance": 0.95
+    },
+    {
+      "type": "brewery:drunk",
+      "duration": 24000,
+      "chance": 0.40
+    }
+  ]
+}

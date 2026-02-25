@@ -1,0 +1,6 @@
+{
+  "profession": "immersiveengineering:gunsmith",
+  "removeOtherTrades": true,
+  "maxTrades": 2,
+  "trades": []
+}

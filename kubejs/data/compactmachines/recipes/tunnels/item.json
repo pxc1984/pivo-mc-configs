@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:hopper"
+    },
+    {
+      "item": "tfc:powder/pyrite"
+    },
+    {
+      "item": "tfc:powder/pyrite"
+    },
+    {
+      "item": "create:portable_storage_interface"
+    }
+  ],
+  "result": {
+    "item": "compactmachines:tunnel",
+    "count": 2,
+    "nbt": {
+      "definition": {
+        "id": "compactmachines:item"
+      }
+    }
+  }
+}

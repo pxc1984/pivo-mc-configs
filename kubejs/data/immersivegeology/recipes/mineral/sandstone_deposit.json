@@ -1,0 +1,43 @@
+{
+    "type": "immersiveengineering:mineral_mix",
+    "dimensions": [
+        "minecraft:overworld"
+    ],
+    "fail_chance": 0.25,
+    "ores": [
+        {
+            "chance": 0.15,
+            "output": {
+                "tag": "forge:rich_ore/uraninite"
+            }
+        },
+        {
+            "chance": 0.05,
+            "output": {
+                "item": "minecraft:quartz_block"
+            }
+        }
+    ],
+    "sample_background": "minecraft:sandstone",
+    "spoils": [
+        {
+            "chance": 0.55,
+            "output": {
+                "item": "tfc:rock/loose/basalt"
+            }
+        },
+        {
+            "chance": 0.5,
+            "output": {
+                "item": "tfcorewashing:pile_black_sand"
+            }
+        },
+        {
+            "chance": 0.45,
+            "output": {
+                "item": "tfcorewashing:rock_powder"
+            }
+        }
+    ],
+    "weight": 7
+}

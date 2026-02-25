@@ -1,0 +1,11 @@
+{
+    "type": "immersiveengineering:coke_oven",
+    "result": {
+        "item": "minecraft:charcoal"
+    },
+    "input": {
+        "item": "tfc:bundle_stick"
+    },
+    "creosote": 25,
+    "time": 2000
+}

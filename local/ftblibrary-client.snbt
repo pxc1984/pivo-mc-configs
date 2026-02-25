@@ -1,0 +1,40 @@
+# Client-specific configuration for FTB Library
+
+{
+	colorselector: {
+		# Colors recently selected in the color selector
+		# Default: []
+		recents: [I;
+			-17913
+			-9390
+			-196816
+			-1573091
+			-1245222
+			-917543
+			-10734
+			-9432
+			-9489921
+			-1114118
+			-58686
+			-8728
+			-16645858
+			-12582923
+			-11210497
+			-12910598
+		]
+	}
+	tooltips: {
+		# Add the name of the mod that fluids belong to in the fluid selection GUI.
+		# Default: true
+		fluid_modname: true
+		
+		# Add the name of the mod that images belong to in the image selection GUI.
+		# Default: true
+		image_modname: true
+		
+		# Add the name of the mod that items belong to in the item selection GUI.
+		# Note that several common mods also do this (modnametooltip,WTHIT,EMI...) so this is false by default
+		# Default: false
+		item_modname: false
+	}
+}

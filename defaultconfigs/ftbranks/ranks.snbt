@@ -1,0 +1,245 @@
+{
+	auto_member: {
+		name: "Member"
+		power: 1
+		condition: "always_active"
+		ftbchunks.max_claimed: 30
+		ftbchunks.max_force_loaded: 1
+		command.kubejs.custom_command: false
+		command.kubejs.painter: false
+		command.kubejs.stages: false
+		command.enderchest: false
+		command.enderchest.player: false
+		command.spawn: false
+		command.leaderboard: false
+		command.nickname: false
+		command.nicknamefor: false
+		command.rtp: false
+		command.foodlist.clear: false
+		command.foodlist.clear.target: false
+		command.tpa: false
+		command.tpa.target: false
+		command.tpaccept: false
+		command.tpaccept.id: false
+		command.tpahere: false
+		command.tpahere.target: false
+		command.tpdeny: false
+		command.tpdeny.id: false
+		command.tpx: false
+		command.tpx.dimension: false
+		command.warp: false
+		command.warp.name: false
+		command.me: false
+		command.me.action: false
+		command.back: false
+		command.forge: false
+		command.refinedstorage: false
+		command.seed: false
+		command.servercore: false
+		command.sethome: false
+		command.sethome.name: false
+		command.delhome: false
+		command.delhome.name: false
+		command.delwarp: false
+		command.delwarp.name: false
+		command.debugHorde: false
+		command.listhomes: false
+		command.listhomes.player: false
+		command.listwarps: false
+		command.home: false
+		command.home.name: false
+		command.hat: false
+	}
+	supporter_copper: {
+		name: "Copper Tier Supporter"
+		power: 101
+		ftbchunks.max_claimed: 35
+		ftbchunks.max_force_loaded: 1
+	}
+	supporter_silver: {
+		name: "Silver Tier Supporter"
+		power: 102
+		command.nickname: true
+		ftbchunks.max_claimed: 40
+		ftbchunks.max_force_loaded: 1
+	}
+	supporter_gold: {
+		name: "Gold Tier Supporter"
+		power: 103
+		command.nickname: true
+		ftbchunks.max_claimed: 45
+		ftbchunks.max_force_loaded: 1
+	}
+	supporter_diamond: {
+		name: "Diamond Tier Supporter"
+		power: 104
+		command.nickname: true
+		ftbchunks.max_claimed: 60
+		ftbchunks.max_force_loaded: 1
+	}
+	supporter_blacksteel: {
+		name: "Black Steel Tier Supporter"
+		power: 105
+		command.nickname: true
+		ftbchunks.max_claimed: 80
+		ftbchunks.max_force_loaded: 1
+	}
+	supporter_redsteel: {
+		name: "Red Steel Tier Supporter"
+		power: 106
+		command.nickname: true
+		ftbchunks.max_claimed: 80
+		ftbchunks.max_force_loaded: 1
+	}
+	supporter_bluesteel: {
+		name: "Blue Steel Tier Supporter"
+		power: 107
+		command.nickname: true
+		ftbchunks.max_claimed: 80
+		ftbchunks.max_force_loaded: 1
+	}
+	supporter_antimatter: {
+		name: "Anti-Matter Tier Supporter"
+		power: 108
+		command.nickname: true
+		ftbchunks.max_claimed: 130
+		ftbchunks.max_force_loaded: 1
+	}
+	supporter_interdimensional: {
+		name: "Interdimensional Tier Supporter"
+		power: 109
+		command.nickname: true
+		ftbchunks.max_claimed: 130
+		ftbchunks.max_force_loaded: 1
+	}
+	auto_op: {
+		name: "Operator"
+		power: 1000
+		condition: "op"
+		command.kubejs.custom_command: true
+		command.kubejs.painter: true
+		command.kubejs.stages: true
+		command.enderchest: true
+		command.enderchest.player: true
+		command.spawn: true
+		command.leaderboard: true
+		command.nickname: true
+		command.nicknamefor: true
+		command.rtp: true
+		command.ftbranks: true
+		command.foodlist.clear: true
+		command.foodlist.clear.target: true
+		command.tpa: true
+		command.tpa.target: true
+		command.tpaccept: true
+		command.tpaccept.id: true
+		command.tpahere: true
+		command.tpahere.target: true
+		command.tpdeny: true
+		command.tpdeny.id: true
+		command.tpx: true
+		command.tpx.dimension: true
+		command.warp: true
+		command.warp.name: true
+		command.me: true
+		command.me.action: true
+		command.back: true
+		command.forge: true
+		command.refinedstorage: true
+		command.seed: true
+		command.servercore: true
+		command.sethome: true
+		command.sethome.name: true
+		command.delhome: true
+		command.delhome.name: true
+		command.delwarp: true
+		command.delwarp.name: true
+		command.debugHorde: true
+		command.listhomes: true
+		command.listhomes.player: true
+		command.listwarps: true
+		command.home: true
+		command.home.name: true
+		command.hat: true
+	}
+	age_stone: {
+		name: "Stone Age"
+		power: 11
+		ftbranks.name_format: "&8[&7+&8]&r <{name}>"
+	}
+	age_pre-industrial: {
+		name: "Pre-Industrial Age"
+		power: 12
+		ftbranks.name_format: "&#ee7354[&#ffc880+&#ee7354]&r <{name}>"
+	}
+	age_iron: {
+		name: "Iron Age"
+		power: 13
+		ftbranks.name_format: "&#bdc9d9[&#ffffff+&#bdc9d9]&r <{name}>"
+	}
+	age_steel: {
+		name: "Steel Age"
+		power: 14
+		ftbranks.name_format: "&#749ca6[&#cfddee+&#749ca6]&r <{name}>"
+	}
+	age_blue_steel: {
+		name: "Blue Steel Age"
+		power: 15
+		ftbranks.name_format: "&#6589eb[&#c7e5ff+&#6589eb]&r <{name}>"
+	}
+	age_red_steel: {
+		name: "Red Steel Age"
+		power: 15
+		ftbranks.name_format: "&#e64c53[&#ffccd1+&#e64c53]&r <{name}>"
+	}
+	age_automation: {
+		name: "Automation Engineer"
+		power: 16
+		ftbranks.name_format: "&#666666[&#ffc880+&#666666]&r <{name}>"
+	}
+	age_mekanism: {
+		name: "Mekanic"
+		power: 17
+		ftbranks.name_format: "&#dddddd[&#3cfe9a⚡&#dddddd]&r <{name}>"
+	}
+	age_nuclear: {
+		name: "Nucleatomic"
+		power: 18
+		ftbranks.name_format: "&#dddddd[&l&#73c7e5⚡&r&#dddddd]&r <{name}>"
+	}
+	age_space: {
+		name: "Astronaut"
+		power: 19
+		ftbranks.name_format: "&#444444[&#ffffff⭐&#444444]&r <{name}>"
+	}
+	age_twilight: {
+		name: "Twilyt"
+		power: 20
+		ftbranks.name_format: "&#444444[&6;ᴉⁱ'&#444444]&r <{name}>"
+	}
+	deathless_mekanism: {
+		name: "Undying Mekanic"
+		power: 120
+		ftbranks.name_format: "&#dddddd[&c;&#3cfe9a⚡&cⁱ&#dddddd]&r <{name}>"
+	}
+	deathless_nuclear: {
+		name: "Flawless Nuclear Scientist"
+		power: 121
+		ftbranks.name_format: "&#dddddd[&c;&l&#73c7e5⚡&r&cⁱ&#dddddd]&r <{name}>"
+	}
+	deathless_space: {
+		name: "Immortal Astronaut"
+		power: 122
+		ftbranks.name_format: "&#444444[&c;;&#ffffff✧&cⁱ'&#444444]&r <{name}>"
+	}
+	deathless_twilight_enter: {
+		name: "Ceaseless Triumphant"
+		power: 123
+		ftbranks.name_format: "&#444444[&l&c,&6ᛃ&c'&r&#444444]&r <{name}>"
+	}
+	deathless_twilight_complete: {
+		name: "Timeless Triumphant"
+		power: 124
+		ftbranks.name_format: "&#444444[&c;ᴉ&6ᛝ&cⁱ'&#444444]&r <{name}>"
+	}
+}

@@ -1,0 +1,21 @@
+{
+  "type": "createdieselgenerators:distillation",
+  "ingredients": [
+    {
+      "fluid": "kubejs:rum_mash",
+      "amount": 25
+    }
+  ],
+  "heatRequirement": "heated",
+  "processingTime": 2000,
+  "results": [
+    {
+      "fluid": "kubejs:rum_distillated",
+      "amount": 15
+    },
+    {
+      "fluid": "kubejs:purified_water",
+      "amount": 10
+    }
+  ]
+}

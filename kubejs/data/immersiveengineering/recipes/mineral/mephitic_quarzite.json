@@ -1,0 +1,49 @@
+{
+    "type": "immersiveengineering:mineral_mix",
+    "dimensions": [
+        "minecraft:the_nether"
+    ],
+    "fail_chance": 0.15,
+    "ores": [
+        {
+            "chance": 0.3,
+            "output": {
+                "tag": "forge:normal_ore/gold"
+            }
+        },
+        {
+            "chance": 0.2,
+            "output": {
+                "item": "minecraft:nether_quartz_ore"
+            }
+        },
+        {
+            "chance": 0.2,
+            "output": {
+                "item": "tfc:ore/sulfur"
+            }
+        }
+    ],
+    "sample_background": "minecraft:netherrack",
+    "spoils": [
+        {
+            "chance": 0.5,
+            "output": {
+                "item": "beneath:nether_pebble"
+            }
+        },
+        {
+            "chance": 0.55,
+            "output": {
+                "item": "tfc:rock/loose/basalt"
+            }
+        },
+        {
+            "chance": 0.5,
+            "output": {
+                "item": "tfcorewashing:pile_black_sand"
+            }
+        }
+    ],
+    "weight": 20
+}

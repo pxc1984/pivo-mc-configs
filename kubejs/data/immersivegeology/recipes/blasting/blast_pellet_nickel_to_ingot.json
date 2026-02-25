@@ -1,0 +1,13 @@
+{
+    "type": "immersiveengineering:blast_furnace",
+    "input": {
+        "tag": "forge:oxide_pellet/nickel"
+    },
+    "result": {
+        "item": "tfc:metal/ingot/nickel"
+    },
+    "slag": {
+        "item": "immersiveengineering:slag"
+    },
+    "time": 200
+}

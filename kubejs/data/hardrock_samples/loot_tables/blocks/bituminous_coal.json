@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:block",
+    "pools": [
+        {
+            "name": "loot_pool",
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "tinycoal:tinycoal",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": {
+                                "min": 4,
+                                "max": 8,
+                                "type": "minecraft:uniform"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "conditions": [
+                {
+                    "condition": "minecraft:survives_explosion"
+                }
+            ]
+        }
+    ]
+}

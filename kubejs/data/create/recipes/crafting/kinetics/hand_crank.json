@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ACC",
+    "  S"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:gears/wooden"
+    },
+    "C": {
+      "tag": "tfc:lumber"
+    },
+    "S": {
+      "item": "create:shaft"
+    }
+  },
+  "result": {
+    "item": "create:hand_crank"
+  }
+}

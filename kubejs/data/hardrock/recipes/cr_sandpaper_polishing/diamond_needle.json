@@ -1,0 +1,18 @@
+{
+    "conditions": [
+    {"type": "forge:mod_loaded","modid": "vintageimprovements"}
+  ],
+  "type": "create:sequenced_assembly",
+    "ingredient": {"item":"sewingkit:iron_sewing_needle"},
+    "transitionalItem": {"item": "kubejs:sq_rod"},
+    "sequence": [
+      {"type": "create:filling","ingredients": [{"item": "kubejs:sq_rod"},{"fluid": "kubejs:diamond_steel","nbt": {},"amount": 25}],"results": [{"item": "kubejs:sq_rod"}]},
+      {"type": "create:pressing","ingredients": [{"item": "kubejs:sq_rod"}],"results": [{"item": "kubejs:sq_rod"}]},
+      {"type": "create:pressing","ingredients": [{"item": "kubejs:sq_rod"}],"results": [{"item": "kubejs:sq_rod"}]},
+      {"type": "create:filling","ingredients": [{"item": "kubejs:sq_rod"},{"fluidTag": "forge:water/clear","nbt": {},"amount": 500}],"results": [{"item": "kubejs:sq_rod"}]},
+      {"type": "vintageimprovements:polishing","speed_limits": 2,"ingredients": [{"item": "kubejs:sq_rod"}],"results": [{"item": "kubejs:sq_rod"}]},
+      {"type": "vintageimprovements:polishing","speed_limits": 2,"ingredients": [{"item": "kubejs:sq_rod"}],"results": [{"item": "sewingkit:diamond_sewing_needle"}]}
+    ],
+    "results": [{"item": "sewingkit:diamond_sewing_needle"}],
+    "loops": 1
+  }

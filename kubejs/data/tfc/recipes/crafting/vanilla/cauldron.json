@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "X X",
+        "RXR"
+    ],
+    "key": {
+        "X": {
+            "tag": "forge:sheets/cast_iron"
+        },
+        "R": {
+            "tag": "forge:rods/cast_iron"
+        }
+    },
+    "result": {
+        "item": "minecraft:cauldron"
+    }
+}

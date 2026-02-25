@@ -1,0 +1,22 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X",
+    "RZR"
+  ],
+  "key": {
+    "R": {
+      "tag": "forge:rods/steel"
+    },
+    "X": {
+      "tag": "forge:sheets/steel"
+    },
+    "Z": {
+      "item": "firmalife:treated_lumber"
+    }
+  },
+  "result": {
+    "item": "firmalife:jarring_station"
+  }
+}

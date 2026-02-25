@@ -1,0 +1,22 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/quartz"
+    },
+    {
+      "tag": "forge:dusts/quartz"
+    },
+    {
+      "tag": "forge:dusts/quartz"
+    },
+    {
+      "tag": "forge:dusts/quartz"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:quartz_block"
+    }
+  ]
+}

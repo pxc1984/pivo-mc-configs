@@ -1,0 +1,6 @@
+{
+    "type":"tfc:barrel_sealed",
+    "input_fluid":{"ingredient":"kubejs:green_beer","amount":1000},
+    "output_fluid":{"fluid":"tfc:beer","amount":1000},
+    "duration": 480000
+}

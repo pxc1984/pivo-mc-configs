@@ -1,0 +1,17 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:rock/loose/dacite"
+    },
+    {
+      "item": "tfc:rock/mossy_loose/dacite"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:brick/dacite",
+      "count": 1
+    }
+  ]
+}

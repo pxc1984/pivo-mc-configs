@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "tfc:foods/sealed_preserves"
+    },
+    {
+      "amount": 100,
+      "fluid": "artisanal:soapy_water",
+      "nbt": {}
+    }
+  ],
+  "processingTime": 120,
+  "results": [
+    {
+      "item": "tfc:empty_jar"
+    }
+  ]
+}

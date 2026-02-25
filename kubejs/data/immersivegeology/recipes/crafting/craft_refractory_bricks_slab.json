@@ -1,0 +1,19 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+      {
+        "item": "immersivegeology:storage_block_refractory_brick"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfcorewashing:pile_yellow_sand",
+        "count": 2
+      },
+      {
+        "item": "immersivegeology:slab_refractory_brick",
+        "count": 2
+      }
+    ],
+    "processingTime": 140
+}

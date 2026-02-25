@@ -1,0 +1,16 @@
+{
+  "__comment__": "This file was created by HTFC4",
+  "ingredient": "tfc:grass/loam",
+  "model_stages": [
+    "tfc:item/pan/cassiterite/shale_full",
+    "tfc:item/pan/cassiterite/gabbro_full",
+    "tfc:item/pan/cassiterite/andesite_full",
+    "tfc:item/pan/cassiterite/dacite_full",
+    "tfc:item/pan/cassiterite/dacite_half",
+    "tfc:item/pan/cassiterite/slate_half",
+    "tfc:item/pan/cassiterite/gneiss_half",
+    "tfc:item/pan/cassiterite/schist_half",
+    "tfc:item/pan/cassiterite/limestone_half"
+  ],
+  "loot_table": "hardrock:panning/dirt_grass"
+}

@@ -1,0 +1,17 @@
+
+
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"tag": "forge:sheetmetals/stainless_steel"},
+    "transitionalItem": {"item": "create:gantry_shaft"},
+    "sequence": [
+      {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"item": "immersivegeology:mechanical_component_hastelloy"}],"results": [{"item": "create:gantry_shaft"}]},
+      {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"tag": "forge:plates/aluminum"}],"results": [{"item": "create:gantry_shaft"}]},
+      {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"item": "immersiveengineering:component_electronic_adv"}],"results": [{"item": "create:gantry_shaft"}]},
+      {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"item": "immersive_aircraft:industrial_gears"}],"results": [{"item": "create:gantry_shaft"}]},
+      {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"item": "immersiveengineering:component_electronic"}],"results": [{"item": "create:gantry_shaft"}]},
+      {"type": "create:pressing","ingredients": [{"tag": "create:gantry_shaft"}],"results": [{"item": "create:gantry_shaft"}]}
+    ],
+    "results": [{"item": "immersivegeology:engineering_block_stainless_steel"}],
+    "loops": 2
+}

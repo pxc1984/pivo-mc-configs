@@ -1,0 +1,12 @@
+{
+  "__comment__": "This file was created by tfch",
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "minecraft:blaze_powder"
+  },
+  "result_fluid": {
+    "fluid": "kubejs:molten_blaze",
+    "amount": 10
+  },
+  "temperature": 1535
+}

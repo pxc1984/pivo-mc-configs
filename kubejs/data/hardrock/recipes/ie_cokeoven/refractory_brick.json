@@ -1,0 +1,11 @@
+{
+    "type": "immersiveengineering:coke_oven",
+    "result": {
+        "item": "immersivegeology:refractory_brick"
+    },
+    "input": {
+        "item": "tfc:ceramic/unfired_fire_brick"
+    },
+    "creosote": 0,
+    "time": 2000
+}

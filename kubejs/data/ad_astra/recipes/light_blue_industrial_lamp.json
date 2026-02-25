@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "forge:glass_panes/light_blue"
+    },
+    "G": {
+      "item": "mekanismgenerators:solar_generator"
+    },
+    "I": {
+      "tag": "forge:plates/aluminum"
+    }
+  },
+  "pattern": [
+    "###",
+    "GIG"
+  ],
+  "result": {
+    "count": 1,
+    "item": "ad_astra:light_blue_industrial_lamp"
+  },
+  "show_notification": true
+}

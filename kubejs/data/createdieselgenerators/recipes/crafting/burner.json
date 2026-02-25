@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FIF",
+    "MSM",
+    "ABA"
+  ],
+  "key": {
+    "B": {
+      "item": "create:blaze_burner"
+    },
+    "S": {
+      "item": "create:shaft"
+    },
+    "I": {
+      "item": "create:precision_mechanism"
+    },
+    "M": {
+      "item": "tfc:brass_mechanisms"
+    },
+    "A": {
+      "tag": "forge:plates/andesite"
+    },
+    "F": {
+      "item": "minecraft:flint_and_steel"
+    }
+  },
+  "result": {
+    "item": "createdieselgenerators:burner"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "type": "lychee:block_interacting",
+  "post": [
+    {
+      "type": "add_item_cooldown",
+      "contextual": [
+        {
+          "type": "chance",
+          "chance": 1
+        }
+      ],
+      "s": 1
+    },
+    {
+      "type": "execute",
+      "command": "particle minecraft:ash ~ ~0.2 ~ 0.1 0.1 0.1 0 30",
+      "hide": true
+    },
+    {
+      "type": "execute",
+      "command": "playsound minecraft:block.grass.break",
+      "hide": true
+    },
+    {
+      "type": "drop_item",
+      "contextual": [
+        {
+          "type": "chance",
+          "chance": 0.75
+        }
+      ],
+      "item": "tfc_stone_tools:plant_fiber",
+      "count": 2
+    },
+    {
+      "type": "drop_item",
+      "contextual": [
+        {
+          "type": "chance",
+          "chance": 0.20
+        }
+      ],
+      "item": "tfc_stone_tools:plant_fiber",
+      "count": 2
+    },
+    {
+      "type": "place",
+      "contextual": [
+        {
+          "type": "chance",
+          "chance": 0.50
+        }
+      ],
+      "block": "minecraft:air",
+      "hide": true
+    },
+    {
+      "type": "damage_item"
+    }
+  ],
+  "item_in": {
+    "tag": "tfc:knives"
+  },
+  "block_in": {
+    "tag": "tfc:plants/grass"
+  }
+}

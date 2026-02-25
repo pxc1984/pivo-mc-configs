@@ -1,0 +1,16 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"ingredients": [ 
+	{
+      "amount": 600,
+      "fluidTag": "forge:molten_glass",
+      "nbt": {}
+    }
+	],
+	"results": [
+		{
+			"item": "minecraft:glass"
+		}
+	],
+	"processingTime": 1600
+}

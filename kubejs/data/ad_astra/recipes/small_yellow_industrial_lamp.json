@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "forge:glass_panes/yellow"
+    },
+    "G": {
+      "item": "mekanismgenerators:solar_generator"
+    },
+    "I": {
+      "tag": "forge:plates/aluminum"
+    }
+  },
+  "pattern": [
+    "###",
+    "IGI"
+  ],
+  "result": {
+    "count": 1,
+    "item": "ad_astra:small_yellow_industrial_lamp"
+  },
+  "show_notification": true
+}

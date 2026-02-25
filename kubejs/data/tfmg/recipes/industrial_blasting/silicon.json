@@ -1,0 +1,16 @@
+{
+  "type": "tfmg:industrial_blasting",
+  "hotAirUsage": 5,
+  "ingredients": [
+    {
+      "tag": "forge:dusts/quartz"
+    }
+  ],
+  "processingTime": 20,
+  "results": [
+    {
+      "amount": 25,
+      "fluid": "tfmg:liquid_silicon"
+    }
+  ]
+}

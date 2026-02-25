@@ -1,0 +1,57 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/graphite"
+    },
+    {
+      "tag": "forge:dusts/graphite"
+    },
+    {
+      "tag": "forge:dusts/graphite"
+    },
+    {
+      "tag": "forge:dusts/graphite"
+    },
+    {
+      "tag": "forge:dusts/graphite"
+    },
+    {
+      "tag": "forge:dusts/graphite"
+    },
+    {
+      "tag": "forge:dusts/graphite"
+    },
+    {
+      "tag": "forge:dusts/graphite"
+    },
+    {
+      "tag": "forge:dusts/coal"
+    },
+    {
+      "tag": "forge:dusts/coal"
+    },
+    {
+      "tag": "forge:dusts/coal"
+    },
+    {
+      "item": "tfc:powder/kaolinite"
+    },
+    {
+      "item": "tfc:powder/kaolinite"
+    },
+    {
+      "amount": 500,
+      "fluid": "tfc:limewater"
+    },
+    {
+      "amount": 500,
+      "fluid": "tfmg:liquid_silicon"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:graphite_hardened"
+    }
+  ]
+}

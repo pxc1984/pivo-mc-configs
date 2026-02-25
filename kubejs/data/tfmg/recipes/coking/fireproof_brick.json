@@ -1,0 +1,25 @@
+{
+  "type": "tfmg:coking",
+  "ingredients": [
+    {
+      "count": 1,
+      "item": "immersivegeology:refractory_brick"
+    }
+  ],
+  "processingTime": 3200,
+  "results": [
+    {
+      "count": 1,
+      "item": "tfmg:fireproof_brick"
+    },
+    {
+      "fluid": "tfmg:creosote",
+      "amount": 0
+    },
+    {
+      "amount": 1,
+      "fluid": "tfmg:carbon_dioxide"
+    }
+
+  ]
+}

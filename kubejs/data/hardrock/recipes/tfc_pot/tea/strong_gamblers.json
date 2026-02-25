@@ -1,0 +1,21 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:pot",
+  "ingredients": [
+    {"item": "firmalife:spice/vanilla"},
+    {"item": "firmalife:spice/ground_cinnamon"},
+    {"item": "firmalife:spice/ground_cinnamon"},
+    {"tag": "forge:raw_honey"},
+    {"tag": "forge:raw_honey"}
+  ],
+  "fluid_ingredient": {
+    "ingredient": "farmersrespite:long_gamblers_tea",
+    "amount": 1000
+  },
+  "duration": 2000,
+  "temperature": 600,
+  "fluid_output": {
+    "fluid": "farmersrespite:strong_gamblers_tea",
+    "amount": 1000
+  }
+}

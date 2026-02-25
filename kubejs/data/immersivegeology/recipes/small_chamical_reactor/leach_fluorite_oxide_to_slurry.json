@@ -1,0 +1,24 @@
+{
+    "type": "immersivegeology:small_chemical_reactor",
+    "damage_per_second": 0,
+    "energy": 25600,
+    "fluidInputA": {
+        "amount": 250,
+        "tag": "forge:sulfuric_acid"
+    },
+    "fluidInputB": {
+        "amount": 250,
+        "tag": "minecraft:waters"
+    },
+    "fluidResult": {
+        "amount": 250,
+        "fluid": "kubejs:slurry_sulfuric_acid_fluorite"
+    },
+    "itemInput": {
+        "item": "immersivegeology:powder_fluorite"
+    },
+    "result": {
+        "item": "immersivegeology:compound_dust_calcium"
+    },
+    "time": 200
+}

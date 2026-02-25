@@ -1,0 +1,63 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "create"
+		}
+	],
+	"type": "create:sequenced_assembly",
+	"ingredient": {
+		"tag": "forge:rods/tungsten_carbide"
+	},
+	"transitionalItem": {
+		"item": "kubejs:sq_wire"
+	},
+	"sequence": [
+		{
+			"type": "createaddition:rolling",
+			"ingredients": [
+				{
+					"item": "kubejs:sq_wire"
+				}
+			],
+			"results": [
+				{
+					"item": "kubejs:sq_wire"
+				}
+			]
+		},
+		{
+			"type": "createaddition:rolling",
+			"ingredients": [
+				{
+					"item": "kubejs:sq_wire"
+				}
+			],
+			"results": [
+				{
+					"item": "kubejs:sq_wire"
+				}
+			]
+		},
+		{
+			"type": "createaddition:rolling",
+			"ingredients": [
+				{
+					"item": "kubejs:sq_wire"
+				}
+			],
+			"results": [
+				{
+					"item": "kubejs:sq_wire"
+				}
+			]
+		}
+	],
+	"results": [
+		{
+			"item": "immersivegeology:wire_tungsten_carbide",
+			"count": 2
+		}
+	],
+	"loops": 3
+}

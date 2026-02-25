@@ -1,0 +1,5 @@
+{
+    "ingredient": {"tag": "forge:drink/tea"},
+    "decay_modifier":0.75,
+    "water":40
+}

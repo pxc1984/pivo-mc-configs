@@ -1,0 +1,23 @@
+{
+  "type": "tfmg:distillation",
+  "ingredients": [
+
+    {
+      "fluid": "tfmg:lubricant",
+      "nbt": {},
+      "amount": 2
+    }
+  ],
+  "results": [
+    {
+      "fluid": "tfmg:diesel",
+      "amount": 1
+    },
+    {
+      "fluid": "tfmg:kerosene",
+      "amount": 1
+    }
+  ]
+
+
+}

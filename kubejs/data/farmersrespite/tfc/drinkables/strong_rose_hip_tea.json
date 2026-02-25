@@ -1,0 +1,12 @@
+{
+  "ingredient": [
+    "farmersrespite:strong_rose_hip_tea"
+  ],
+  "thirst": 10,
+  "effects": [
+    {
+      "type": "minecraft:regeneration",
+      "duration": 460
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "key": {
+    "C": {
+      "item": "create:brass_casing"
+    },
+    "M": {
+      "item": "create_new_age:netherite_magnet"
+    },
+    "P": {
+      "tag": "forge:plates/constantan"
+    },
+    "R": {
+      "item": "vintageimprovements:redstone_module"
+    },
+    "S": {
+      "item": "create:gantry_shaft"
+    },
+    "H": {
+      "item": "immersiveengineering:coil_hv"
+    }
+  },
+  "pattern": [
+    "CCCPP",
+    "CMHRS",
+    "CCCPP"
+  ],
+  "result": {
+    "count": 1,
+    "item": "create_new_age:reinforced_motor"
+  }
+}

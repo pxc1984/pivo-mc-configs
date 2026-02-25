@@ -1,0 +1,14 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"tag": "forge:plates/hastelloy"},
+    "transitionalItem": {"item": "immersivegeology:plate_hastelloy"},
+    "sequence": [
+      {"type": "create:deploying","ingredients": [{"tag": "immersivegeology:plate_hastelloy"}, {"tag": "forge:plates/hastelloy"}],"results": [{"item": "immersivegeology:plate_hastelloy"}]},
+      {"type": "create:pressing","ingredients": [{"item": "immersivegeology:plate_hastelloy"}],"results": [{"item": "immersivegeology:plate_hastelloy"}]},
+      {"type": "create:pressing","ingredients": [{"item": "immersivegeology:plate_hastelloy"}],"results": [{"item": "immersivegeology:plate_hastelloy"}]},
+      {"type": "create:pressing","ingredients": [{"item": "immersivegeology:plate_hastelloy"}],"results": [{"item": "immersivegeology:plate_hastelloy"}]},
+      {"type": "create:pressing","ingredients": [{"item": "immersivegeology:plate_hastelloy"}],"results": [{"item": "immersivegeology:plate_hastelloy"}]}
+    ],
+    "results": [{"item": "immersivegeology:sheetmetal_block_hastelloy"}],
+    "loops": 1
+  }

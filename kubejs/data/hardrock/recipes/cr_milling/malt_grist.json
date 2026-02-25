@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "kubejs:barley_malt"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:barley_malt_grist"
+    }
+  ],
+  "processingTime": 240
+}

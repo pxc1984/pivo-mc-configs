@@ -1,0 +1,20 @@
+{
+  "type": "pneumaticcraft:pressure_chamber",
+  "inputs": [
+    {
+      "tag": "forge:double_sheets/red_steel"
+    },
+    {
+      "item": "tfc:powder/flux"
+    },
+    {
+      "tag": "forge:sheets/red_steel"
+    }
+  ],
+  "pressure": 4.5,
+  "results": [
+    {
+      "item": "tfc_items:red_steel_heavy_sheet"
+    }
+  ]
+}

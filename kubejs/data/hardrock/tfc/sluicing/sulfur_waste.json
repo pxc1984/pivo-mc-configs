@@ -1,0 +1,7 @@
+{
+  "__comment__": "This file was created by HTFC4",
+  "ingredient": {
+    "item": "kubejs:sulfur_waste"
+  },
+  "loot_table": "hardrock:sluicing/sulfur_waste"
+}

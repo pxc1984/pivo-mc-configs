@@ -1,0 +1,21 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:pot",
+  "ingredients": [
+    {"item": "firmalife:spice/vanilla"},
+    {"item": "firmalife:spice/ground_cinnamon"},
+    {"tag": "forge:raw_honey"},
+    {"item": "kubejs:coffee_ground"},
+    {"item": "kubejs:coffee_ground"}
+  ],
+  "fluid_ingredient": {
+    "ingredient": "minecraft:water",
+    "amount": 1000
+  },
+  "duration": 1600,
+  "temperature": 600,
+  "fluid_output": {
+    "fluid": "farmersrespite:strong_coffee",
+    "amount": 1000
+  }
+}

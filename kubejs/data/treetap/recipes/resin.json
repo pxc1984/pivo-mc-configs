@@ -1,0 +1,26 @@
+{
+  "type": "treetap:tap_extract",
+  "log": [
+    {"item": "dttfc:spruce_branch"},
+    {"item": "dttfc:aspen_branch"},
+    {"item": "dttfc:douglas_fir_branch"},
+    {"item": "dttfc:pine_branch"}
+  ],
+  "processing_time": 48000,
+  "metal_result": {
+    "item": "kubejs:resin_bucket"
+  },
+  "wooden_result": {
+    "item": "tfc:wooden_bucket",
+    "nbt": "{fluid: {FluidName: \"kubejs:resin\", Amount: 1000}}"
+  },
+  "life_cycle": [0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0],
+  "collect_bucket": true,
+  "fluid_color": "#cc9933",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tfc"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    "type": "immersiveengineering:arc_furnace",
+    "additives": [
+        
+    ],
+    "energy": 204800,
+    "input": {
+        "tag": "forge:grits/iron"
+    },
+    "results": [
+        {
+            "base_ingredient": {
+                "tag": "forge:ingots/wrought_iron"
+            }
+        }
+    ],
+    "time": 400
+}

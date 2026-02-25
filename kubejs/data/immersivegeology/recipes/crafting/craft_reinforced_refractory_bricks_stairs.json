@@ -1,0 +1,16 @@
+{
+    "type": "create:item_application",
+    "ingredients": [
+      {
+        "item":"immersivegeology:stairs_refractory_brick"
+      },
+      {
+        "tag": "forge:plates/bronze"
+      }
+    ],
+    "results": [
+      {
+        "item": "immersivegeology:stairs_reinforced_refractory_brick"
+      }
+    ]
+  }

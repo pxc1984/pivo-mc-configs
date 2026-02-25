@@ -1,0 +1,13 @@
+{
+  "__comment__": "This file was automatically created by HTFC4",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {"tag": "forge:string/plant"},
+      {"tag": "forge:straw"},
+      {"tag": "forge:straw"},
+      {"tag": "forge:string/plant"}
+  ],
+  "result": {
+    "item": "farmersdelight:canvas"
+  }
+}

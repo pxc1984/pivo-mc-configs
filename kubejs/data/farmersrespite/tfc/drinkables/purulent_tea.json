@@ -1,0 +1,14 @@
+{
+  "ingredient": [
+    "farmersrespite:purulent_tea",
+    "farmersrespite:long_purulent_tea",
+    "farmersrespite:strong_purulent_tea"
+  ],
+  "thirst": 10,
+  "effects": [
+    {
+      "type": "minecraft:weakness",
+      "duration": 600
+    }
+  ]
+}

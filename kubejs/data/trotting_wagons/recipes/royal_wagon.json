@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "LLL",
+    "XCX",
+    "WAW"
+  ],
+  "key": {
+    "C": {"tag": "tfcastikorcarts:supply_cart" },
+    "L": { "tag": "minecraft:planks" },
+    "A": { "tag": "tfc:axles" },
+    "X": { "tag": "create:seats" },
+    "W": { "item": "trotting_wagons:wheel" }
+  },
+  "result": { "item": "trotting_wagons:royal_wagon", "nbt": { "color": 0 } }
+}

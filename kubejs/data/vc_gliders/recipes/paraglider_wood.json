@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "gliders",
+  "key": {
+    "F": {
+      "item": "create:sail_frame"
+    },
+    "R": {
+      "item": "forge:leather/sheet"
+    },
+    "W": {
+      "item": "firmaciv:large_waterproof_hide"
+    },
+    "H": {
+      "tag": "forge:string/reinforced"
+    },
+    "S": {
+      "tag": "forge:handle/saw"
+    }
+  },
+  "pattern": [
+    " W ",
+    "HFH",
+    "S S"
+  ],
+  "result": {
+    "item": "vc_gliders:paraglider_wood"
+  },
+  "show_notification": true
+}

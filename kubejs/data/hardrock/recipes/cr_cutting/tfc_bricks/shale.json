@@ -1,0 +1,17 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:rock/loose/shale"
+    },
+    {
+      "item": "tfc:rock/mossy_loose/shale"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:brick/shale",
+      "count": 1
+    }
+  ]
+}

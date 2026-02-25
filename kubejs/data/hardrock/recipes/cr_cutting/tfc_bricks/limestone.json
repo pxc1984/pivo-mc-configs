@@ -1,0 +1,17 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:rock/loose/limestone"
+    },
+    {
+      "item": "tfc:rock/mossy_loose/limestone"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:brick/limestone",
+      "count": 1
+    }
+  ]
+}

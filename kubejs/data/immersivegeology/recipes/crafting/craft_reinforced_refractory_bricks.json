@@ -1,0 +1,16 @@
+{
+    "type": "create:item_application",
+    "ingredients": [
+      {
+        "item":"immersivegeology:storage_block_refractory_brick"
+      },
+      {
+        "tag": "forge:plates/bronze"
+      }
+    ],
+    "results": [
+      {
+        "item": "immersivegeology:storage_block_reinforced_refractory_brick"
+      }
+    ]
+  }

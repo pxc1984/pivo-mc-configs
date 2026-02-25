@@ -1,0 +1,24 @@
+{
+  "type": "sewingkit:sewing",
+  "materials": [
+    {
+      "ingredient": {
+        "tag":"forge:string/reinforced"
+      },
+      "count": 4
+    },
+    {
+      "ingredient": {
+        "tag":"forge:leather/strip"
+      },
+      "count": 2
+    }
+  ],
+  "tool": {
+    "type": "sewingkit:tool_ingredient",
+    "tool_type": "sewingkit_sew"
+  },
+  "result": {
+    "item": "sns:bound_leather_strip"
+  }
+}

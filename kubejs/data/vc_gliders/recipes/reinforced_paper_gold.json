@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "gliders",
+  "key": {
+    "I": {
+      "tag": "forge:foils/electrum"
+    },
+    "P": {
+      "item": "vc_gliders:reinforced_paper"
+    },
+    "R": {
+      "tag": "forge:glue"
+    }
+  },
+  "pattern": [
+    " I ",
+    "IPR",
+    " R "
+  ],
+  "result": {
+    "item": "vc_gliders:reinforced_paper_gold"
+  },
+  "show_notification": true
+}

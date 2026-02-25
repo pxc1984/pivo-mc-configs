@@ -1,0 +1,38 @@
+{
+  "type": "tfmg:vat_machine_recipe",
+  "allowedVatTypes": [
+    "tfmg:firebrick_lined_vat"
+  ],
+  "ingredients": [
+    {
+      "tag": "forge:metal/briquet/iron"
+    },
+    {
+      "tag": "tfmg:flux"
+    },
+    {
+      "item": "tfmg:coal_coke_dust"
+    }
+  ],
+  "machines": [
+    "tfmg:graphite_electrode",
+    "tfmg:graphite_electrode",
+    "tfmg:graphite_electrode"
+  ],
+  "minSize": 9,
+  "processingTime": 40,
+  "results": [
+    {
+      "chance": 0.8,
+      "item": "tfmg:coal_coke_dust"
+    },
+    {
+      "amount": 80,
+      "fluid": "tfc:metal/steel"
+    },
+    {
+      "amount": 50,
+      "fluid": "tfmg:molten_slag"
+    }
+  ]
+}

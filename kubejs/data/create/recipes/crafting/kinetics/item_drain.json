@@ -1,0 +1,16 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "create:copper_casing"
+    },
+    {
+      "item": "tfc:metal/bars/wrought_iron"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:item_drain"
+    }
+  ]
+}

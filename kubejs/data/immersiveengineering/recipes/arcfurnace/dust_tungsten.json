@@ -1,0 +1,17 @@
+{
+    "type":"immersiveengineering:arc_furnace",
+    "additives":[],
+    "energy":51200,
+    "input":{
+        "tag":"forge:grits/tungsten"
+    },
+    "results":[
+        {
+            "item":"immersivegeology:ingot_tungsten"
+        }
+    ],
+    "slag":{
+        "tag":"forge:slag"
+    },
+    "time":120
+}

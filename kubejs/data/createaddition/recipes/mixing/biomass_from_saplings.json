@@ -1,0 +1,25 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "tfc:tree_saplings"
+    },
+    {
+      "tag": "tfc:tree_saplings"
+    },
+    {
+      "tag": "tfc:tree_saplings"
+    },
+    {
+      "fluidTag": "forge:plantoil",
+      "amount": 100
+    }
+  ],
+  "results": [
+    {
+      "item": "createaddition:biomass",
+      "count": 1
+    }
+  ],
+  "heatRequirement": "heated"
+}

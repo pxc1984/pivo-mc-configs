@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "tag": "forge:nuggets/copper"
+    },
+    "G": {
+      "tag": "tfc:glass_bottles"
+    },
+    "N": {
+      "tag": "forge:nuggets/steel"
+    },
+    "W": {
+      "tag": "forge:wires/constantan"
+    }
+  },
+  "pattern": [
+    "CWC",
+    "CGC",
+    "NNN"
+  ],
+  "result": {
+    "count": 1,
+    "item": "tfmg:light_bulb"
+  },
+  "show_notification": true
+}

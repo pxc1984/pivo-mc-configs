@@ -1,0 +1,55 @@
+{
+    "type": "immersiveengineering:mineral_mix",
+    "dimensions": [
+        "minecraft:overworld"
+    ],
+    "fail_chance": 0.15,
+    "ores": [
+        {
+            "chance": 0.35,
+            "output": {
+                "tag": "forge:normal_ore/gypsum"
+            }
+        },
+        {
+            "chance": 0.25,
+            "output": {
+                "tag": "forge:normal_ore/cuprite"
+            }
+        },
+        {
+            "chance": 0.2,
+            "output": {
+                "item": "tfc:ore/gypsum"
+            }
+        },
+        {
+            "chance": 0.2,
+            "output": {
+                "item": "tfc:calcite"
+            }
+        }
+    ],
+    "sample_background": "minecraft:calcite",
+    "spoils": [
+        {
+            "chance": 0.55,
+            "output": {
+                "item": "tfc:rock/loose/andesite"
+            }
+        },
+        {
+            "chance": 0.5,
+            "output": {
+                "item": "tfcorewashing:pile_yellow_sand"
+            }
+        },
+        {
+            "chance": 0.45,
+            "output": {
+                "item": "tfcorewashing:rock_powder"
+            }
+        }
+    ],
+    "weight": 12
+}

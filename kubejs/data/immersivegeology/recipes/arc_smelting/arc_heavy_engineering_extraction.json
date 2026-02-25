@@ -1,0 +1,20 @@
+{
+    "type": "immersiveengineering:arc_furnace",
+    "additives": [
+        
+    ],
+    "energy": 25600,
+    "input": {
+        "item": "immersivegeology:advanced_engineering_block_rusty_metal"
+    },
+    "results": [
+        {
+            "count": 2,
+            "item": "tfc:metal/ingot/steel"
+        }
+    ],
+    "slag": {
+        "item": "tfc:metal/ingot/copper"
+    },
+    "time": 100
+}

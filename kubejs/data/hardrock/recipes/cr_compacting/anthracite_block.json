@@ -1,0 +1,37 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "tag": "forge:normal_ore/anthracite"
+    },
+    {
+      "tag": "forge:normal_ore/anthracite"
+    },
+    {
+      "tag": "forge:normal_ore/anthracite"
+    },
+    {
+      "tag": "forge:normal_ore/anthracite"
+    },
+    {
+      "tag": "forge:normal_ore/anthracite"
+    },
+    {
+      "tag": "forge:normal_ore/anthracite"
+    },
+    {
+      "tag": "forge:normal_ore/anthracite"
+    },
+    {
+      "tag": "forge:normal_ore/anthracite"
+    },
+    {
+      "tag": "forge:normal_ore/anthracite"
+    }
+  ],
+  "results": [
+    {
+      "item": "immersivegeology:storage_block_anthracite"
+    }
+  ]
+}

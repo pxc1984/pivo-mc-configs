@@ -1,0 +1,44 @@
+{
+  "type": "lychee:block_interacting",
+  "post": [
+    {
+      "type": "drop_item",
+      "contextual": [
+        {
+          "type": "chance",
+          "chance": 0.70
+        }
+      ],
+      "item": "brewery:hops",
+      "count": 1
+    },
+    {
+      "type": "drop_item",
+      "contextual": [
+        {
+          "type": "chance",
+          "chance": 0.20
+        }
+      ],
+      "item": "brewery:hops",
+      "count": 1
+    },
+    {
+      "type": "place",
+      "contextual": [
+        {
+          "type": "chance",
+          "chance": 0.50
+        }
+      ],
+      "block": "minecraft:air"
+    },
+    {
+      "type": "damage_item"
+    }
+  ],
+  "item_in": {
+    "tag": "tfc:knives"
+  },
+  "block_in": "brewery:wild_hops"
+}

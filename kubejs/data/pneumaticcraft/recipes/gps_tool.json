@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "firmaciv:firmaciv_compass"
+    },
+    "G": {
+      "tag": "forge:glass_panes/light_blue"
+    },
+    "P": {
+      "tag": "forge:sheets/plastic"
+    },
+    "E": {
+      "item": "tfmg:circuit_board"
+    }
+  },
+  "pattern": [
+    " G ",
+    "PCP",
+    "PEP"
+  ],
+  "result": {
+    "item": "pneumaticcraft:gps_tool"
+  },
+  "show_notification": true
+}

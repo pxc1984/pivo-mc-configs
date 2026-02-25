@@ -1,0 +1,12 @@
+{
+  "ingredient": [
+    "farmersrespite:dandelion_tea"
+  ],
+  "thirst": 10,
+  "effects": [
+    {
+      "type": "farmersdelight:comfort",
+      "duration": 3600
+    }
+  ]
+}

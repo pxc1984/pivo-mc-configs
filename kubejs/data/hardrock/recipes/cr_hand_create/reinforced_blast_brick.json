@@ -1,0 +1,22 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "immersivegeology:storage_block_refractory_brick"
+    },
+    {
+      "tag": "forge:plates/steel"
+    }
+  ],
+  "results": [
+    {
+      "item": "immersiveengineering:blastbrick_reinforced"
+    }
+  ],
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    }
+  ]
+}

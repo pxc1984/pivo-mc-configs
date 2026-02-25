@@ -1,0 +1,15 @@
+{
+	"type": "createdieselgenerators:basin_fermenting",
+	"ingredients": [
+	  {"fluidTag": "forge:brine","amount": 100},
+	  {"tag": "forge:ores/clean_dusts/iron"},
+	  {"fluidTag": "forge:ethanol","amount": 100}
+	],
+	"processingTime": 48000,
+	"results": [
+	  {
+		"fluid": "pneumaticcraft:etching_acid",
+		"amount": 200
+	  }
+	]
+}

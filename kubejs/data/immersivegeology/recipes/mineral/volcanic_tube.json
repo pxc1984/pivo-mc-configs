@@ -1,0 +1,55 @@
+{
+    "type": "immersiveengineering:mineral_mix",
+    "dimensions": [
+        "minecraft:the_nether"
+    ],
+    "fail_chance": 0.05,
+    "ores": [
+        {
+            "chance": 0.4,
+            "output": {
+                "tag": "forge:magma_block"
+            }
+        },
+        {
+            "chance": 0.3,
+            "output": {
+                "tag": "forge:normal_ore/ilmenite"
+            }
+        },
+        {
+            "chance": 0.2,
+            "output": {
+                "tag": "forge:poor_ore/ilmenite"
+            }
+        },
+        {
+            "chance": 0.1,
+            "output": {
+                "tag": "forge:rich_ore/ilmenite"
+            }
+        }
+    ],
+    "sample_background": "minecraft:magma_block",
+    "spoils": [
+        {
+            "chance": 0.5,
+            "output": {
+                "item": "beneath:nether_pebble"
+            }
+        },
+        {
+            "chance": 0.55,
+            "output": {
+                "item": "tfc:rock/loose/basalt"
+            }
+        },
+        {
+            "chance": 0.5,
+            "output": {
+                "item": "tfcorewashing:pile_black_sand"
+            }
+        }
+    ],
+    "weight": 15
+}

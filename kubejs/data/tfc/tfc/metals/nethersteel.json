@@ -1,0 +1,8 @@
+{
+  "tier":5,
+  "fluid":"createbigcannons:molten_nethersteel",
+  "melt_temperature":1485,
+  "specific_heat_capacity":0.00857,
+  "ingots":{"tag":"forge:ingots/nethersteel"},
+  "sheets":{"tag":"forge:sheets/nethersteel"}
+}

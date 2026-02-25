@@ -1,0 +1,61 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+        "type": "tfc:heatable",
+        "min_temp": 650,
+        "ingredient": {
+            "tag": "forge:stamens/black_bronze"
+        }
+    },
+    "transitionalItem": {
+        "item": "kubejs:sq_rod"
+    },
+    "sequence": [
+        {
+            "type": "createaddition:rolling",
+            "ingredients": [
+                {
+                    "item": "kubejs:sq_rod"
+                }
+            ],
+            "results": [
+                {
+                    "item": "kubejs:sq_rod"
+                }
+            ]
+        },
+        {
+            "type": "createaddition:rolling",
+            "ingredients": [
+                {
+                    "item": "kubejs:sq_rod"
+                }
+            ],
+            "results": [
+                {
+                    "item": "kubejs:sq_rod"
+                }
+            ]
+        },
+        {
+            "type": "createaddition:rolling",
+            "ingredients": [
+                {
+                    "item": "kubejs:sq_rod"
+                }
+            ],
+            "results": [
+                {
+                    "item": "kubejs:sq_rod"
+                }
+            ]
+        }
+    ],
+    "results": [
+        {
+            "item": "tfc_items:black_bronze_wire",
+            "count": 1
+        }
+    ],
+    "loops": 2
+}

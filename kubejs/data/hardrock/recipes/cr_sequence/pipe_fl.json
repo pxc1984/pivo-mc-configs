@@ -1,0 +1,13 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "create:fluid_pipe"},
+  "transitionalItem": {"item":"kubejs:sq_fluidpipecr"},
+  "sequence": [
+    {"type": "createaddition:rolling","ingredients": [{"item":"kubejs:sq_fluidpipecr"}],"results": [{"item":"kubejs:sq_fluidpipecr"}]},
+    {"type": "create:pressing","ingredients": [{"item":"kubejs:sq_fluidpipecr"}],"results": [{"item":"kubejs:sq_fluidpipecr"}]},
+    {"type": "createaddition:rolling","ingredients": [{"item":"kubejs:sq_fluidpipecr"}],"results": [{"item":"kubejs:sq_fluidpipecr"}]},
+    {"type": "create:pressing","ingredients": [{"item":"kubejs:sq_fluidpipecr"}],"results": [{"item":"kubejs:sq_fluidpipecr"}]}
+    ],
+  "results": [{"item": "firmalife:copper_pipe","count":3}],
+  "loops": 3
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "forge:string/leather"
+    }
+  },
+  "pattern": [
+    "# ",
+    " #",
+    " #"
+  ],
+  "result": {
+    "count": 1,
+    "item": "brewery:rope"
+  }
+}

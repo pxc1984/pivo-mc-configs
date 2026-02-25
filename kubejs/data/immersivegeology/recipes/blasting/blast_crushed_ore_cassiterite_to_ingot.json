@@ -1,0 +1,13 @@
+{
+    "type": "immersiveengineering:blast_furnace",
+    "input": {
+        "tag": "forge:crushed_ore/cassiterite"
+    },
+    "result": {
+        "item": "tfc:metal/ingot/tin"
+    },
+    "slag": {
+        "item": "immersiveengineering:slag"
+    },
+    "time": 900
+}

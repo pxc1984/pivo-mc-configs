@@ -1,0 +1,16 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"tag": "forge:rods/stainless_steel"},
+  "transitionalItem": {"item": "firmalife:metal/rod/stainless_steel"},
+  "sequence": [
+    {"type": "create:cutting","ingredients": [{"item": "firmalife:metal/rod/stainless_steel"}],"results": [{"item": "firmalife:metal/rod/stainless_steel"}]},
+    {"type": "create:cutting","ingredients": [{"item": "firmalife:metal/rod/stainless_steel"}],"results": [{"item": "firmalife:metal/rod/stainless_steel"}]},
+    {"type": "create:cutting","ingredients": [{"item": "firmalife:metal/rod/stainless_steel"}],"results": [{"item": "firmalife:metal/rod/stainless_steel"}]},
+    {"type": "create:cutting","ingredients": [{"item": "firmalife:metal/rod/stainless_steel"}],"results": [{"item": "firmalife:metal/rod/stainless_steel"}]}
+  ],
+  "results": [
+    {"item": "immersivegeology:nugget_stainless_steel","count": 5}
+  ],
+  "loops": 1
+}
+

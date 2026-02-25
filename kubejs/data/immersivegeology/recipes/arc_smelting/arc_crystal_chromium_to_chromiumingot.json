@@ -1,0 +1,16 @@
+{
+    "type": "immersiveengineering:arc_furnace",
+    "additives": [],
+    "energy": 204800,
+    "input": {
+        "tag": "forge:crystal/chromium"
+    },
+    "results": [
+        {
+            "base_ingredient": {
+                "tag": "forge:ingots/chromium"
+            }
+        }
+    ],
+    "time": 400
+}

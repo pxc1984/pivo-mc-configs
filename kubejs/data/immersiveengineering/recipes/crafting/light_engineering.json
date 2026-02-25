@@ -1,0 +1,15 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"tag": "forge:sheetmetals/iron"},
+    "transitionalItem": {"item": "create:gantry_shaft"},
+    "sequence": [
+      {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"item": "immersiveengineering:component_iron"}],"results": [{"item": "create:gantry_shaft"}]},
+      {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"tag": "forge:plates/copper"}],"results": [{"item": "create:gantry_shaft"}]},
+      {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"item": "immersiveengineering:electron_tube"}],"results": [{"item": "create:gantry_shaft"}]},
+      {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"item": "immersive_aircraft:industrial_gears"}],"results": [{"item": "create:gantry_shaft"}]},
+      {"type": "create:deploying","ingredients": [{"item": "create:gantry_shaft"}, {"item": "create_sa:hydraulic_engine"}],"results": [{"item": "create:gantry_shaft"}]},
+      {"type": "create:pressing","ingredients": [{"tag": "create:gantry_shaft"}],"results": [{"item": "create:gantry_shaft"}]}
+    ],
+    "results": [{"item": "immersiveengineering:light_engineering"}],
+    "loops": 2
+  }

@@ -1,0 +1,19 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "forge:crystal/rocksalt"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:powder/salt",
+      "count": 2
+    },
+    {
+      "item": "tfc:powder/salt",
+      "chance": 0.4
+    }
+  ],
+  "processingTime": 100
+}

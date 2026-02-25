@@ -1,0 +1,66 @@
+{
+    "type": "immersiveengineering:mineral_mix",
+    "dimensions": [
+        "minecraft:overworld"
+    ],
+    "fail_chance": 0.15,
+    "ores": [
+        {
+            "chance": 0.45,
+            "output": {
+                "tag": "forge:normal_ore/uraninite"
+            }
+        },
+        {
+            "chance": 0.25,
+            "output": {
+                "tag": "forge:normal_ore/thorianite"
+            }
+        },
+        {
+            "chance": 0.15,
+            "output": {
+                "tag": "forge:normal_ore/monazite"
+            }
+        },
+        {
+            "chance": 0.05,
+            "output": {
+                "tag": "forge:rich_ore/uraninite"
+            }
+        },
+        {
+            "chance": 0.05,
+            "output": {
+                "tag": "forge:rich_ore/thorianite"
+            }
+        },
+        {
+            "chance": 0.05,
+            "output": {
+                "tag": "forge:rich_ore/monazite"
+            }
+        }
+    ],
+    "spoils": [
+        {
+            "chance": 0.55,
+            "output": {
+                "item": "tfc:rock/loose/schist"
+            }
+        },
+        {
+            "chance": 0.5,
+            "output": {
+                "item": "tfcorewashing:pile_green_sand"
+            }
+        },
+        {
+            "chance": 0.45,
+            "output": {
+                "item": "tfcorewashing:rock_powder"
+            }
+        }
+    ],
+    "weight": 10
+}

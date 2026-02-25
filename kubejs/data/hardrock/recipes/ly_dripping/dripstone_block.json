@@ -1,0 +1,17 @@
+{
+  "type": "lychee:dripstone_dripping",
+  "source_block": "minecraft:water",
+  "target_block": "minecraft:clay",
+  "post": [
+    {
+      "type": "place",
+      "contextual": [
+        {
+          "type": "chance",
+          "chance": 0.7
+        }
+      ],
+      "block": "minecraft:dripstone_block"
+    }
+  ]
+}

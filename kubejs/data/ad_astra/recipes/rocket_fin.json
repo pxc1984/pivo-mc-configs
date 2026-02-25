@@ -1,0 +1,21 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "key": {
+    "E": {"item": "immersivegeology:engineering_block_tungsten"},
+    "R": {"tag": "forge:rivets/handful/stainless_steel"},
+    "T": {"tag": "forge:plates/titanium"},
+    "H": {"tag": "forge:plates/hastelloy"}
+  },
+  "pattern": [
+    "    T    ",
+    "   TRT   ",
+    "  TR RT  ",
+    " TRTETRT ",
+    "THT   THT",
+    "TT     TT"
+  ],
+  "result": {
+    "item": "ad_astra:rocket_fin"
+  }
+}

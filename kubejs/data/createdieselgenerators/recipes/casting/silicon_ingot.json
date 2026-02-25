@@ -1,0 +1,15 @@
+{
+  "type": "createdieselgenerators:casting",
+  "ingredients": [
+    {
+      "fluid": "tfmg:liquid_silicon",
+      "amount": 100
+    }
+  ],
+  "mold": "createdieselgenerators:bar",
+  "results": [
+    {
+      "item": "tfmg:silicon_ingot"
+    }
+  ]
+}

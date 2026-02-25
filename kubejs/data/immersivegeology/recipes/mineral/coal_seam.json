@@ -1,0 +1,49 @@
+{
+    "type": "immersiveengineering:mineral_mix",
+    "dimensions": [
+        "minecraft:overworld"
+    ],
+    "fail_chance": 0.25,
+    "ores": [
+        {
+            "chance": 0.35,
+            "output": {
+                "item": "tfc:ore/lignite"
+            }
+        },
+        {
+            "chance": 0.15,
+            "output": {
+                "item": "tfc:ore/bituminous_coal"
+            }
+        },
+        {
+            "chance": 0.05,
+            "output": {
+                "tag": "forge:rich_ore/pyrite"
+            }
+        }
+    ],
+    "sample_background": "minecraft:cobblestone",
+    "spoils": [
+        {
+            "chance": 0.55,
+            "output": {
+                "item": "tfc:rock/loose/basalt"
+            }
+        },
+        {
+            "chance": 0.5,
+            "output": {
+                "item": "tfcorewashing:pile_black_sand"
+            }
+        },
+        {
+            "chance": 0.45,
+            "output": {
+                "item": "tfcorewashing:rock_powder"
+            }
+        }
+    ],
+    "weight": 14
+}

@@ -1,0 +1,49 @@
+
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "tfmg:regular_engine"},
+  "transitionalItem": {"item": "tfmg:unfinished_generator"},
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [{"item": "tfmg:unfinished_generator"},{"item": "tfmg:turbine_blade"}],
+      "results": [{"item": "tfmg:unfinished_generator"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [{"item": "tfmg:unfinished_generator"},{"tag": "vintageimprovements:springs/steel"}],
+      "results": [{"item": "tfmg:unfinished_generator"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [{"item": "tfmg:unfinished_generator"},{"tag": "forge:screws/handful/steel"}],
+      "results": [{"item": "tfmg:unfinished_generator"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [{"item": "tfmg:unfinished_steel_mechanism"},{"tag": "forge:engine/piston"}],
+      "results": [{"item": "tfmg:unfinished_steel_mechanism"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [{"item": "tfmg:unfinished_steel_mechanism"},{"item": "tfmg:screwdriver"}],
+      "results": [{"item": "tfmg:unfinished_steel_mechanism"}]
+    },
+    {
+      "type": "create:filling","ingredients": [{"item": "tfmg:unfinished_generator"},{"fluidTag": "forge:lubricant","nbt": {},"amount": 250}],
+      "results": [{"item": "tfmg:unfinished_generator"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [{"item": "tfmg:unfinished_generator"},{"item": "tfmg:steel_mechanism"}],
+      "results": [{"item": "tfmg:unfinished_generator"}]
+    }
+  ],
+  "results": [
+    {
+      "item": "tfmg:turbine_engine",
+      "count": 1
+    }
+  ],
+  "loops": 3
+}

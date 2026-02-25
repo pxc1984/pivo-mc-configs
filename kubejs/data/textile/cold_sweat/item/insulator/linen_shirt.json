@@ -1,0 +1,12 @@
+{
+  "type": "armor",
+  "insulation": {
+    "heat": 14,
+    "cold": 0
+  },
+  "item": {
+    "items": [
+      "textile:linen_shirt"
+    ]
+  }
+}

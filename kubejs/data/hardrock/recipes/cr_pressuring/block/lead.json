@@ -1,0 +1,16 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"ingredients": [ 
+	{
+      "amount": 900,
+      "fluidTag": "forge:molten_lead",
+      "nbt": {}
+    }
+	],
+	"results": [
+		{
+			"item": "immersiveengineering:storage_lead"
+		}
+	],
+	"processingTime": 1000
+}

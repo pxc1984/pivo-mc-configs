@@ -1,0 +1,20 @@
+{
+  "type": "advancedtfctech:grist_mill",
+  "result": {
+    "stack": {
+      "item": "kubejs:grated_potato",
+      "count": 1
+    },
+    "modifiers": [
+      "tfc:copy_food"
+    ]
+  },
+  "input": {
+    "type": "tfc:not_rotten",
+    "ingredient": {
+      "item": "tfc:food/potato"
+    }
+  },
+  "time": 140,
+  "energy": 6400
+}

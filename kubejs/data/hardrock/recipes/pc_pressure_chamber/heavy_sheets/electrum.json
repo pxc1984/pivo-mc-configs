@@ -1,0 +1,20 @@
+{
+  "type": "pneumaticcraft:pressure_chamber",
+  "inputs": [
+    {
+      "tag": "forge:double_sheets/electrum"
+    },
+    {
+      "item": "tfc:powder/flux"
+    },
+    {
+      "tag": "forge:sheets/electrum"
+    }
+  ],
+  "pressure": 4.5,
+  "results": [
+    {
+      "item": "tfc_items:electrum_heavy_sheet"
+    }
+  ]
+}

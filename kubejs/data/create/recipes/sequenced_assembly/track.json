@@ -1,0 +1,121 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "tag": "tfc:lumber"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "create:track",
+      "count": 16
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:incomplete_track"
+        },
+        {
+          "tag": "tfc:lumber"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:incomplete_track"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:incomplete_track"
+        },
+        {
+          "tag": "tfc:lumber"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:incomplete_track"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:incomplete_track"
+        },
+        {
+          "tag": "tfc:lumber"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:incomplete_track"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:incomplete_track"
+        },
+        [
+          {
+            "tag": "forge:rods/iron"
+          },
+          {
+            "tag": "forge:rods/zinc"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "create:incomplete_track"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create:incomplete_track"
+        },
+        [
+          {
+            "tag": "forge:rods/iron"
+          },
+          {
+            "tag": "forge:rods/zinc"
+          }
+        ]
+      ],
+      "results": [
+        {
+          "item": "create:incomplete_track"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "create:incomplete_track"
+        }
+      ],
+      "results": [
+        {
+          "item": "create:incomplete_track"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "create:incomplete_track"
+  }
+}

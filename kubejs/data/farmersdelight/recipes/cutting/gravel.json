@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "tag": "tfc:rock/gravel"
+    }
+  ],
+  "result": [
+    {
+      "item": "tfcorewashing:rock_powder"
+    },
+    {
+      "chance": 0.60,
+      "item": "tfcorewashing:rock_powder"
+    },
+    {
+      "chance": 0.7,
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "chance": 0.03,
+      "item": "minecraft:pointed_dripstone"
+    }
+  ],
+  "tool": {
+    "type": "farmersdelight:tool_action",
+    "action": "shovel_dig"
+  }
+}

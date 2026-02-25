@@ -1,0 +1,17 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "type": "tfc:not_rotten",
+      "ingredient": {
+        "item": "tfc:food/potato"
+      }
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:grated_potato"
+    }
+  ],
+  "processingTime": 240
+}

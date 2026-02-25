@@ -1,0 +1,14 @@
+{
+  "ingredient": [
+    "minecraft:milk",
+    "firmalife:yak_milk",
+    "firmalife:goat_milk"
+  ],
+  "thirst": 25,
+  "effects": [],
+  "food": {
+    "hunger": 0,
+    "saturation": 0,
+    "dairy": 1.0
+  }
+}

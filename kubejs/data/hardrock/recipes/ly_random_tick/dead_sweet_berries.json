@@ -1,0 +1,20 @@
+{
+  "type": "lychee:random_block_ticking",
+  "contextual": [
+    {
+      "type": "chance",
+      "chance": 1.0
+    }
+  ],
+  "post": [
+    {
+      "type": "place",
+      "block": "tfc:plant/dead_bush"
+    }
+  ],
+  "block_in": {
+    "blocks": [
+      "minecraft:sweet_berry_bush"
+    ]
+  }
+}

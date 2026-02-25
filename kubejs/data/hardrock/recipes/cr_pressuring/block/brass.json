@@ -1,0 +1,16 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"ingredients": [ 
+		{
+      "amount": 900,
+      "fluidTag": "forge:molten_brass",
+      "nbt": {}
+    }
+	],
+	"results": [
+		{
+			"item": "create:brass_block"
+		}
+	],
+	"processingTime": 1200
+}

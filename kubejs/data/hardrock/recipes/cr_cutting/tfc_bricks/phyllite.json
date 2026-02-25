@@ -1,0 +1,17 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "tfc:rock/loose/phyllite"
+    },
+    {
+      "item": "tfc:rock/mossy_loose/phyllite"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:brick/phyllite",
+      "count": 1
+    }
+  ]
+}

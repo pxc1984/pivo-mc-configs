@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SSS",
+    "PCP",
+    "WAW"
+  ],
+  "key": {
+    "P": {"tag": "tfcastikorcarts:supply_cart" },
+    "C":{ "tag": "forge:chests/wooden" },
+    "S": { "tag": "forge:cloth" },
+    "A": { "tag": "tfc:axles" },
+    "W": { "item": "trotting_wagons:wheel" }
+  },
+  "result": { "item": "trotting_wagons:conestoga_wagon", "nbt": { "color": 0 } }
+}

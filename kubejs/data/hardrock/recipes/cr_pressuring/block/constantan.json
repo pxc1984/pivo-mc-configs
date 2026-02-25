@@ -1,0 +1,16 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"ingredients": [ 
+	{
+      "amount": 900,
+      "fluidTag": "forge:molten_constantan",
+      "nbt": {}
+    }
+	],
+	"results": [
+		{
+			"item": "immersiveengineering:storage_constantan"
+		}
+	],
+	"processingTime": 1000
+}

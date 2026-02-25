@@ -1,0 +1,1 @@
+{"type":"tfc:heating","ingredient":{"type":"tfc:not_rotten","ingredient":{"item":"tfc:food/potato"}},"result_item":{"item":"tfc:food/baked_potato"},"temperature":200}

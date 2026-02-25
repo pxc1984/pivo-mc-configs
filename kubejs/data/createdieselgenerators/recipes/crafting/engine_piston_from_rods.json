@@ -1,0 +1,43 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "tag": "forge:rods/steel"
+  },
+  "transitionalItem": {
+    "item": "kubejs:sq_rod"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [{"item": "kubejs:sq_rod"},{"tag": "vintageimprovements:springs/steel"}],
+      "results": [{"item": "kubejs:sq_rod"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [{"item": "kubejs:sq_rod"},{"tag": "forge:rings/steel"}],
+      "results": [{"item": "kubejs:sq_rod"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [{"item": "kubejs:sq_rod"},{"tag": "forge:ingots/steel"}],
+      "results": [{"item": "kubejs:sq_rod"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [{"item": "kubejs:sq_rod"},{"tag": "forge:rivets/steel"}],
+      "results": [{"item": "kubejs:sq_rod"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [{"item": "kubejs:sq_rod"},{"item": "tfmg:screwdriver"}],
+      "results": [{"item": "kubejs:sq_rod"}]
+    }
+  ],
+  "results": [
+    {
+      "item": "createdieselgenerators:engine_piston",
+      "count": 4
+    }
+  ],
+  "loops": 2
+}

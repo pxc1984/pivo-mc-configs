@@ -1,0 +1,19 @@
+{
+  "__comment__": "This file was automatically created by tfch",
+  "type": "tfc:damage_inputs_shapeless_crafting",
+   "recipe": {
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "forge:stripped_logs"
+      },
+      {
+        "tag": "forge:tools/knives"
+      }
+    ],
+    "result": {
+      "item": "farmersdelight:cutting_board",
+      "count": 2
+    }
+  }
+}

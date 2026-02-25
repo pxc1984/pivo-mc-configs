@@ -1,0 +1,48 @@
+{
+    "type": "immersiveengineering:mineral_mix",
+    "dimensions": [
+        "minecraft:overworld"
+    ],
+    "fail_chance": 0.1,
+    "ores": [
+        {
+            "chance": 0.4,
+            "output": {
+                "item": "tfc:ore/amethyst"
+            }
+        },
+        {
+            "chance": 0.3,
+            "output": {
+                "item": "tfc:calcite"
+            }
+        },
+        {
+            "chance": 0.3,
+            "output": {
+                "item": "immersivegeology:normal_ore_vanadinite"
+            }
+        }
+    ],
+    "spoils": [
+        {
+            "chance": 0.55,
+            "output": {
+                "item": "tfc:rock/loose/basalt"
+            }
+        },
+        {
+            "chance": 0.5,
+            "output": {
+                "item": "tfcorewashing:pile_black_sand"
+            }
+        },
+        {
+            "chance": 0.45,
+            "output": {
+                "item": "tfcorewashing:rock_powder"
+            }
+        }
+    ],
+    "weight": 10
+}

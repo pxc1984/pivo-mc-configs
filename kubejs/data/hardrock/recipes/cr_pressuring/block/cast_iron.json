@@ -1,0 +1,16 @@
+{
+	"type":"vintageimprovements:pressurizing",
+	"ingredients": [ 
+	{
+      "amount": 900,
+      "fluidTag": "forge:molten_cast_iron",
+      "nbt": {}
+    }
+	],
+	"results": [
+		{
+			"item": "tfmg:cast_iron_block"
+		}
+	],
+	"processingTime": 1200
+}

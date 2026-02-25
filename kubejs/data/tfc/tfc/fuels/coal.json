@@ -1,0 +1,15 @@
+{
+    "ingredient": [
+        {
+            "item": "minecraft:coal"
+        },
+        {
+            "item": "tfc:ore/bituminous_coal"
+        },
+        {
+            "item": "immersivegeology:normal_ore_bituminous"
+        }
+    ],
+    "duration": 2200,
+    "temperature": 1415
+}

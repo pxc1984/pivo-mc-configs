@@ -1,0 +1,40 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+        {
+            "item": "tfc:dirt/loam"
+        },
+        {
+            "item": "tfc:dirt/loam"
+        },
+        {
+            "item": "tfc:dirt/loam"
+        },
+        {
+            "item": "tfc:dirt/loam"
+        },
+        {
+            "item": "tfc:dirt/loam"
+        },
+        {
+            "item": "tfc:dirt/loam"
+        },
+        {
+            "item": "tfc:dirt/loam"
+        },
+        {
+            "item": "tfc:dirt/loam"
+        },
+        {
+            "amount": 1000,
+            "fluid": "minecraft:water",
+            "nbt": {}
+        }
+    ],
+    "results": [
+        {
+            "item": "tfc:mud/loam",
+            "count": 8
+        }
+    ]
+}

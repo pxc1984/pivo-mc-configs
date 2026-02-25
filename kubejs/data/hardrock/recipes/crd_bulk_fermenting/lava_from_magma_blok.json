@@ -1,0 +1,21 @@
+{
+  "type": "createdieselgenerators:bulk_fermenting",
+  "ingredients": [
+    {
+      "tag": "forge:magma_block"
+    }
+  ],
+  "heatRequirement": "superheated",
+  "processingTime": 900,
+  "results": [
+    {
+      "fluid": "minecraft:lava",
+      "amount": 15
+    },
+    {
+      "fluid": "minecraft:lava",
+      "amount": 5,
+      "chance": 0.25
+    }
+  ]
+}

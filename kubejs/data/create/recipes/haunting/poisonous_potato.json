@@ -1,0 +1,13 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "tfc:seeds/potato"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:poisonous_potato"
+    }
+  ]
+}

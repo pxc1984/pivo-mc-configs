@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "kubejs:barley_sprouted"
+  },
+  "result": "kubejs:barley_malt",
+  "experience": 0,
+  "cookingtime": 240
+}

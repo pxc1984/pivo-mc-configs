@@ -1,0 +1,23 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:pot",
+  "ingredients": [
+    {"item": "firmalife:food/cocoa_powder"},
+    {"tag": "forge:sugar"},
+    {"tag": "forge:sugar"},
+    {"item": "firmalife:food/cocoa_powder"},
+    {"item": "firmalife:food/cocoa_powder"}
+  ],
+  "fluid_ingredient": {
+    "ingredient": {
+      "tag": "tfc:milks"
+    },
+    "amount": 1000
+  },
+  "duration": 1600,
+  "temperature": 600,
+  "fluid_output": {
+    "fluid": "farmersrespite:hot_cocoa",
+    "amount": 1000
+  }
+}
